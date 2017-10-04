@@ -7,18 +7,17 @@
 	Create GUI.
 
 #ce ----------------------------------------------------------------------------
-
 #include <GUIInfomation.au3>
 
 ;~ =========================Create GUI=============================
-Local $hGUI = GUICreate($AppTitle, $AppWidth, $AppHeight,$AppPosX,$AppPosY)
-;~ End
+Local $hGUI = createGUI(2);~ Display Center
 
 ;~ =========================Add Control GUI=============================
 GUICtrlCreateLabel("Hello world! How are you?", 30, 10)
 
 Local $iOKButton = GUICtrlCreateButton("OK", 70, 50, 60)
 Local $iCancelButton = GUICtrlCreateButton("Cancel", 140, 50, 60)
+
 
 Func _excecuteEvent(ByRef $iMsg)
 	Switch $iMsg
