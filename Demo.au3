@@ -13,7 +13,13 @@
 
 Local $file = "D:/Test.txt"
 ;~ saveFile()
-readFile()
+;~ readFile()
+$titleUnikey = '[REGEXPTITLE: (?i)(.*UniKey.*)]'
+
+WinKill($titleUnikey)
+Local $iPID = WinGetProcess('UnikeyNT.exe')
+; Display the PID of the window.
+MsgBox($MB_SYSTEMMODAL, "", "The PID is: " & $iPID)
 
 Func saveFile()
 	$hFile = FileOpen($file,2+8+128)
