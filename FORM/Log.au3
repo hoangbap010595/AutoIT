@@ -40,7 +40,10 @@ EndFunc
 _SqlConnect()
 Func _SqlConnect() ; connects to the database specified
 	Local $adCN
-	$constrim="DRIVER={SQL Server};SERVER=W00123695-ISC\SQLEXPRESS;DATABASE=DBStorage;uid=sa;pwd=Hoang911;"
+	Local $server = 'HOANG-PC\SQLEXPRESS'
+;~ 	Local $server = 'W00123695-ISC\SQLEXPRESS'
+
+	$constrim="DRIVER={SQL Server};SERVER="&$server&";DATABASE=DBStorage;uid=sa;pwd=Hoang911;"
 	$adCN = ObjCreate ("ADODB.Connection") ; <== Create SQL connection
 	$adCN.Open ($constrim) ; <== Connect with required credentials
 ;~ 	MsgBox(0,"",$constrim )
