@@ -1,5 +1,5 @@
 #include <_HttpRequest.au3>
-_HttpRequest_SetOption('http://proxy.hcm.fpt.vn:80')
+;~ _HttpRequest_SetOption('http://proxy.hcm.fpt.vn:80')
 
 $tk = "0901479784"
 $mk = "Thienan@111"
@@ -9,10 +9,11 @@ If not IsArray($fb) Then
 	Exit
 EndIf
 MsgBox(0, "", "FB: " & $fb[0] & @CR & $fb[1] & @CR & $fb[2] & @CR)
-;~ $id = FB_post_stt($fb, "Test Facebook WinHttp UDF :D", 0)
+;~ $id = FB_post_stt($fb, "Test Facebook WinHttp UDF :D", 2)
 ;~ MsgBox(0, "", "Post's ID: " & $id)
-;~ FB_react($fb, $id, 2)
-;~ FB_cmt($fb, "Test UDF :D", $id)
+
+FB_react($fb, 875382675961724, 3)
+FB_cmt($fb, "Test UDF :D", 875382675961724)
 
 
 ;==================FB_Login====================
@@ -72,8 +73,9 @@ EndFunc
 Func FB_cmt($Handle, $Content, $Post_ID)
 	Local $data
 	If not IsArray($Handle) then Return False
-	$data =  "ft_ent_identifier=" & $Post_ID & "&comment_text=" & _URIEncode($Content) & "&source=1&client_id=1&session_id=1&fb_dtsg=" & $fb[2]
-	Return _HttpRequest(1, "https://www.facebook.com/ufi/add/comment/", $data, $fb[0])
+;~ 	$data =  "ft_ent_identifier=" & $Post_ID & "&comment_text=" & _URIEncode($Content) & "&source=1&client_id=1&session_id=1&fb_dtsg=" & $fb[2]
+		$data =  "ft_ent_identifier=" & $Post_ID & "&comment_text=" & _URIEncode($Content) & "&source=1&client_id="& $Handle[1]&"&session_id=1&fb_dtsg=" & $Handle[2]
+	Return _HttpRequest(1, "https://www.facebook.com/ufi/add/comment/", $data, $Handle[0])
 EndFunc
 
 
