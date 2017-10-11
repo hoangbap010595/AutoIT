@@ -20,23 +20,23 @@
 
 #Region ### START Koda GUI section ### Form=
 
-Local $title = "Executing script..."
+	Local $title = "Executing script..."
 
-$Form1 = GUICreate($title, 615, 437, 192, 124, BitOR($GUI_SS_DEFAULT_GUI,$WS_MAXIMIZEBOX,$WS_TABSTOP))
-Local $oIE = _IECreateEmbedded()
-GUICtrlCreateObj($oIE, 10, 0,595,435)
-GUICtrlSetResizing(-1, $GUI_DOCKLEFT+$GUI_DOCKRIGHT+$GUI_DOCKTOP+$GUI_DOCKBOTTOM)
+	$FormBrowser = GUICreate($title, 615, 437, 192, 124, BitOR($GUI_SS_DEFAULT_GUI,$WS_MAXIMIZEBOX,$WS_TABSTOP))
+	Local $oIE = _IECreateEmbedded()
+	GUICtrlCreateObj($oIE, 10, 0,595,435)
+	GUICtrlSetResizing(-1, $GUI_DOCKLEFT+$GUI_DOCKRIGHT+$GUI_DOCKTOP+$GUI_DOCKBOTTOM)
 
-GUISetState(@SW_SHOW)
-#EndRegion ### END Koda GUI section ###
+	GUISetState(@SW_SHOW)
+	#EndRegion ### END Koda GUI section ###
 
-$a = 'http://laodongkynghi.dolab.gov.vn/bizsoft/softdolab/html/formregister'
+	$a = 'http://laodongkynghi.dolab.gov.vn/bizsoft/softdolab/html/formregister'
 
-_IENavigate($oIE, $a)
-;~ _IENavigate($oIE, "https://www.google.com.vn/")
+	_IENavigate($oIE, $a)
+	;~ _IENavigate($oIE, "https://www.google.com.vn/")
+	;~ _IEAction($oIE, "stop")
 
-;~ _IEAction($oIE, "stop")
-getDatatest()
+;~ getDatatest()
 ;~ a()
 
 While 1

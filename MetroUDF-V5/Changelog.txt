@@ -1,0 +1,24 @@
+v5.0.0.1
+* Fixed a bug where certain things in the GUI (Tabs/Listviews) are not handled properly because of a bug in _WinAPI_DefSubclassProc. Thanks @LarsJ.
+* Removed the automated handling of the control buttons (except for fullscreen), as they were triggering the close/min/max/restore message multiple times when the user clicked multiple times during a sleep, which caused the parent window to also receive the message.
+* Fixed a bug where in certain situations the active child window prevented the fullscreen activation from working properly on the parent window.
+* Fixed a bug where the resize cursor was not displayed properly when hovering over the corners. 
+* Fixed a bug where the lines of the _Metro_AddControlButton_Back were misplaced on certain DPI settings. Also fixed the hover not working with this button.
++ Added _Metro_AddHSeperator/_Metro_AddVSeperator to create simple vertical/horizontal seperator lines in the GUI.
+* Other small changes
+
+
+
+v5
++ Hover effects, minimize,maximize,restore and other GUI effects are now working natively, there is no need to call any function in a loop. 
+	-> This also allows the hover effects to work if the main script is paused due to "Sleep, Msgbox etc."
+	-> The hover effects now work slightly faster and create less cpu usage, however the startup time of the main script is slightly increased. Thanks to @binhnx for his SSCtrlHover UDF.
++ Maximize, Minimize, Fullscreen and Restore buttons now work natively, meaning you don't need to set actions for them manually. 
+	-> If you prefer handling the buttons manually, then you can disable this by setting "$ControlBtnsAutoMode = False"
++ Added _Metro_CreateButtonEx2 -> Creates a slightly rounded button without a frame around. Hovering changes the button color to a lighter color.
++ Added _Metro_CreateCheckboxEx2 -> Creates a modern round checkbox.
++ Added _Metro_CreateRadioEx -> Creates a metro style radio with colored checkmark.
++ Added "_Metro_RightClickMenu" an easy to use rightclick menu. You can use this with listviews or anything else. Check out the example for a demo of the rightclick menu and how to implement it. Rightclick on Button3 to show the menu.
++ You can now delete all controls that have hover effects(buttons, checkboxex etc.) using GUICtrlDelete($ControlHandle). This will also automatically release all resources and remove the control from the global array.
++ Added multiple new themes with flat colors and updated the old themes. -> Check out the example for a demo with all themes by pressing the menu button -> Themes Demo
+* Many other optimizations,changes and bugfixes.
