@@ -1,0 +1,1957 @@
+http://fshare.vn/
+
+GET / HTTP/1.1
+Host: fshare.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: _ga=GA1.2.442312499.1507530748; _gid=GA1.2.519176744.1507530748; fosp_aid=30e74423f7abfdd7; fosp_location_zone=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+HTTP/1.1 302 Moved Temporarily
+Server: fshare-nginx
+Date: Mon, 09 Oct 2017 09:02:08 GMT
+Content-Type: text/html
+Content-Length: 154
+Location: http://www.fshare.vn/
+X-Cache: MISS from Squid-Cache
+X-Cache-Lookup: MISS from Squid-Cache:80
+Via: 1.1 Squid-Cache (squid/3.3.8)
+Connection: keep-alive
+----------------------------------------------------------
+http://www.fshare.vn/
+
+GET / HTTP/1.1
+Host: www.fshare.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: session_id=sfb3991s0j0tpofp60g6ahqqa1; _ga=GA1.2.442312499.1507530748; _gid=GA1.2.519176744.1507530748; fosp_aid=30e74423f7abfdd7; fosp_location_zone=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+HTTP/1.1 302 Moved Temporarily
+Server: fshare-nginx
+Date: Mon, 09 Oct 2017 09:02:08 GMT
+Content-Type: text/html
+Content-Length: 154
+Location: https://www.fshare.vn/
+X-Cache: MISS from Squid-Cache
+X-Cache-Lookup: MISS from Squid-Cache:80
+Via: 1.1 Squid-Cache (squid/3.3.8)
+Connection: keep-alive
+----------------------------------------------------------
+https://www.fshare.vn/
+
+GET / HTTP/1.1
+Host: www.fshare.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Cookie: session_id=sfb3991s0j0tpofp60g6ahqqa1; _ga=GA1.2.442312499.1507530748; _gid=GA1.2.519176744.1507530748; fosp_aid=30e74423f7abfdd7; fosp_location_zone=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+HTTP/1.1 200 OK
+Server: fshare-nginx
+Date: Mon, 09 Oct 2017 09:02:08 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-Frame-Options: DENY
+Content-Encoding: gzip
+----------------------------------------------------------
+https://e-vcdn.anthill.vn/delivery-ants/zone/512051031.js
+
+GET /delivery-ants/zone/512051031.js HTTP/1.1
+Host: e-vcdn.anthill.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Connection: keep-alive
+If-Modified-Since: Thu, 13 Oct 2016 10:13:31 GMT
+If-None-Match: W/"57ff5e4b-124"
+
+HTTP/1.1 304 Not Modified
+Server: Aengine/1.7.9
+Date: Mon, 09 Oct 2017 09:02:09 GMT
+Last-Modified: Thu, 13 Oct 2016 10:13:31 GMT
+Vary: Accept-Encoding
+ETag: W/"57ff5e4b-124"
+Expires: Mon, 09 Oct 2017 08:42:33 GMT
+Cache-Control: max-age=1800, public
+P3P: policyref="/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Access-Control-Allow-Origin: *
+Origin: 06
+X-Proxy-Cache: HIT
+----------------------------------------------------------
+https://e-vcdn.anthill.vn/delivery-ants/zone/512051033.js
+
+GET /delivery-ants/zone/512051033.js HTTP/1.1
+Host: e-vcdn.anthill.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Connection: keep-alive
+If-Modified-Since: Thu, 13 Oct 2016 10:13:31 GMT
+If-None-Match: W/"57ff5e4b-124"
+
+HTTP/1.1 304 Not Modified
+Server: Aengine/1.7.9
+Date: Mon, 09 Oct 2017 09:02:09 GMT
+Last-Modified: Thu, 13 Oct 2016 10:13:31 GMT
+Vary: Accept-Encoding
+ETag: W/"57ff5e4b-124"
+Expires: Mon, 09 Oct 2017 09:01:11 GMT
+Cache-Control: max-age=1800, public
+P3P: policyref="/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Access-Control-Allow-Origin: *
+Origin: 01
+X-Proxy-Cache: HIT
+----------------------------------------------------------
+https://e-vcdn.anthill.vn/delivery-ants/zone/512051025.js
+
+GET /delivery-ants/zone/512051025.js HTTP/1.1
+Host: e-vcdn.anthill.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Connection: keep-alive
+If-Modified-Since: Thu, 13 Oct 2016 10:13:31 GMT
+If-None-Match: W/"57ff5e4b-124"
+
+HTTP/1.1 304 Not Modified
+Server: Aengine/1.7.9
+Date: Mon, 09 Oct 2017 09:02:09 GMT
+Last-Modified: Thu, 13 Oct 2016 10:13:31 GMT
+Vary: Accept-Encoding
+ETag: W/"57ff5e4b-124"
+Expires: Mon, 09 Oct 2017 08:34:13 GMT
+Cache-Control: max-age=1800, public
+P3P: policyref="/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Access-Control-Allow-Origin: *
+Origin: 21
+X-Proxy-Cache: HIT
+----------------------------------------------------------
+https://e-vcdn.anthill.vn/delivery-ants/zone/512178694.js
+
+GET /delivery-ants/zone/512178694.js HTTP/1.1
+Host: e-vcdn.anthill.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Connection: keep-alive
+If-Modified-Since: Thu, 13 Oct 2016 10:13:31 GMT
+If-None-Match: W/"57ff5e4b-124"
+
+HTTP/1.1 304 Not Modified
+Server: Aengine/1.7.9
+Date: Mon, 09 Oct 2017 09:02:09 GMT
+Last-Modified: Thu, 13 Oct 2016 10:13:31 GMT
+Vary: Accept-Encoding
+ETag: W/"57ff5e4b-124"
+Expires: Mon, 09 Oct 2017 09:19:25 GMT
+Cache-Control: max-age=1800, public
+P3P: policyref="/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Access-Control-Allow-Origin: *
+Origin: 21
+X-Proxy-Cache: HIT
+----------------------------------------------------------
+https://e.eclick.vn/delivery/zone/2815.js
+
+GET /delivery/zone/2815.js HTTP/1.1
+Host: e.eclick.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: fosp_aid=30e74423f7abfdd7; fosp_location=29; fosp_country=vn; fosp_location_zone=1; fosp_isp=12
+Connection: keep-alive
+If-Modified-Since: Tue, 03 Oct 2017 03:50:47 GMT
+If-None-Match: W/"59d30917-2ed"
+
+HTTP/2.0 304 Not Modified
+date: Mon, 09 Oct 2017 09:02:09 GMT
+last-modified: Tue, 03 Oct 2017 03:50:47 GMT
+etag: "59d30917-2ed"
+server: FPT-static_eclick_141_36
+expires: Mon, 09 Oct 2017 09:02:09 GMT
+cache-control: max-age=0, static_eclick_141_36,no-cache
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.googleadservices.com/pagead/conversion.js
+
+GET /pagead/conversion.js HTTP/1.1
+Host: www.googleadservices.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Connection: keep-alive
+If-None-Match: 4448917452029917435
+
+HTTP/2.0 304 Not Modified
+p3p: policyref="https://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC"
+timing-allow-origin: *
+date: Mon, 09 Oct 2017 09:02:09 GMT
+expires: Mon, 09 Oct 2017 09:02:09 GMT
+cache-control: private, max-age=3600
+x-content-type-options: nosniff
+server: cafe
+x-xss-protection: 1; mode=block
+alt-svc: quic="googleads.g.doubleclick.net:443"; ma=2592000; v="39,38,37,35",quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.google-analytics.com/analytics.js
+
+GET /analytics.js HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Connection: keep-alive
+If-Modified-Since: Thu, 28 Sep 2017 22:31:34 GMT
+
+HTTP/2.0 304 Not Modified
+date: Mon, 09 Oct 2017 08:30:06 GMT
+expires: Mon, 09 Oct 2017 10:30:06 GMT
+age: 1923
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.googletagservices.com/tag/js/gpt.js
+
+GET /tag/js/gpt.js HTTP/1.1
+Host: www.googletagservices.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Connection: keep-alive
+If-None-Match: "1507303019380062"
+
+HTTP/2.0 304 Not Modified
+content-type: text/javascript
+date: Mon, 09 Oct 2017 09:02:09 GMT
+expires: Mon, 09 Oct 2017 09:02:09 GMT
+cache-control: private, max-age=900, stale-while-revalidate=3600
+etag: "1507303019380062"
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+alt-svc: quic="googleads.g.doubleclick.net:443"; ma=2592000; v="39,38,37,35",quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.ipv6forum.com/ipv6_enabled/sa/SA1.php?id=5354?v=f9ad261f
+
+GET /ipv6_enabled/sa/SA1.php?id=5354?v=f9ad261f HTTP/1.1
+Host: www.ipv6forum.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Date: Mon, 09 Oct 2017 09:02:10 GMT
+Server: Apache/2.4.7 (Ubuntu)
+X-Powered-By: PHP/5.5.9-1ubuntu4.22
+Content-Length: 3538
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+----------------------------------------------------------
+https://connect.facebook.net/en_US/fbevents.js
+
+GET /en_US/fbevents.js HTTP/1.1
+Host: connect.facebook.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+content-type: application/x-javascript; charset=utf-8
+x-content-type-options: nosniff
+strict-transport-security: max-age=15552000; preload; includeSubDomains
+x-frame-options: DENY
+cache-control: public, max-age=1200
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data: 'self';style-src data: blob: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self';
+pragma: public
+x-xss-protection: 0
+vary: Accept-Encoding
+content-encoding: gzip
+x-fb-debug: 55QNi4V6FfnVcba8ojOLGIgpxbkwzEatt/OAXFHCBig99FmJcQgVEeXaSfUBdGboZ9L/ALKt5eKuE87GxaO04Q==
+content-length: 11294
+date: Mon, 09 Oct 2017 09:02:10 GMT
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.google-analytics.com/r/collect?v=1&_v=j64&a=416877870&t=pageview&_s=1&dl=https%3A%2F%2Fwww.fshare.vn%2F&ul=vi-vn&de=UTF-8&dt=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&sd=24-bit&sr=1366x768&vp=1366x638&je=0&_u=AACAAEABI~&jid=1125833491&gjid=608574811&cid=442312499.1507530748&tid=UA-37305555-6&_gid=519176744.1507530748&_r=1&z=1944481680
+
+GET /r/collect?v=1&_v=j64&a=416877870&t=pageview&_s=1&dl=https%3A%2F%2Fwww.fshare.vn%2F&ul=vi-vn&de=UTF-8&dt=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&sd=24-bit&sr=1366x768&vp=1366x638&je=0&_u=AACAAEABI~&jid=1125833491&gjid=608574811&cid=442312499.1507530748&tid=UA-37305555-6&_gid=519176744.1507530748&_r=1&z=1944481680 HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Connection: keep-alive
+
+HTTP/2.0 302 Found
+location: https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-37305555-6&cid=442312499.1507530748&jid=1125833491&_gid=519176744.1507530748&gjid=608574811&_v=j64&z=1944481680
+access-control-allow-origin: *
+date: Mon, 09 Oct 2017 09:02:10 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, no-store, must-revalidate
+last-modified: Sun, 17 May 1998 03:00:00 GMT
+content-type: text/html; charset=UTF-8
+server: Golfe2
+content-length: 417
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-37305555-6&cid=442312499.1507530748&jid=1125833491&_gid=519176744.1507530748&gjid=608574811&_v=j64&z=1944481680
+
+GET /r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-37305555-6&cid=442312499.1507530748&jid=1125833491&_gid=519176744.1507530748&gjid=608574811&_v=j64&z=1944481680 HTTP/1.1
+Host: stats.g.doubleclick.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: IDE=AHWqTUmlo2AGr2kkkfat_q_MqX1Z46yTeHaOw7OuWvD_1B9KyJJs40keTlCnp8R9
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-allow-origin: *
+strict-transport-security: max-age=10886400; includeSubDomains; preload
+date: Mon, 09 Oct 2017 09:02:10 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, no-store, must-revalidate
+last-modified: Sun, 17 May 1998 03:00:00 GMT
+x-content-type-options: nosniff
+content-type: image/gif
+server: Golfe2
+content-length: 35
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.8
+
+GET /vi_VN/sdk.js HTTP/1.1
+Host: connect.facebook.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Connection: keep-alive
+If-None-Match: "5beedc518f04ba661e3da54b8519e92f"
+
+HTTP/2.0 200 OK
+access-control-expose-headers: X-FB-Content-MD5
+x-fb-content-md5: 9f9b21ced4b3e32190d03c1be3e4f94f
+etag: "9d217ebcf3ae651ae03e15bad25c6148"
+x-frame-options: DENY
+content-type: application/x-javascript; charset=utf-8
+x-content-type-options: nosniff
+x-xss-protection: 0
+timing-allow-origin: *
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data: 'self';style-src data: blob: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm;
+cache-control: public,max-age=1200,stale-while-revalidate=3600
+expires: Mon, 09 Oct 2017 09:04:45 GMT
+vary: Accept-Encoding
+content-encoding: gzip
+content-md5: Ks+3XHZzT8ThrApCCka6GQ==
+x-fb-debug: mxAYngUyctGvi+ZBXWXvC5lTa59AybkBNdh7uuHIds0xcuu2svq65NxE0PhzofC4YjP8uyhTbnDERSin8hKh1g==
+content-length: 65003
+date: Mon, 09 Oct 2017 09:02:10 GMT
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://connect.facebook.net/signals/config/1294418350672369?v=2.7.21
+
+GET /signals/config/1294418350672369?v=2.7.21 HTTP/1.1
+Host: connect.facebook.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data: 'self';style-src data: blob: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm;
+x-frame-options: DENY
+x-xss-protection: 0
+access-control-allow-credentials: true
+access-control-allow-origin: https://connect.facebook.net
+access-control-expose-headers: X-FB-Debug, X-Loader-Length
+expect-ct: max-age=10, report-uri="http://reports.fb.com/expectct/"
+pragma: public
+access-control-allow-method: OPTIONS
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+strict-transport-security: max-age=15552000; preload; includeSubDomains
+content-type: application/x-javascript; charset=utf-8
+x-content-type-options: nosniff
+cache-control: public, max-age=1200
+vary: Origin, Accept-Encoding
+content-encoding: gzip
+x-fb-debug: oHSsua0tgicQ0m+Lv0pEfmJroXtV9ljk8/abNRl+XfzXWmwcgNsDe3r04Cd9TBF/QvjtzYxCucXwkf2jS4LZFg==
+content-length: 12277
+date: Mon, 09 Oct 2017 09:02:10 GMT
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://onesignal.com/api/v1/sync/b532ee6e-cf42-47a9-a6c3-44ea0c75ce32/web?callback=__jp0
+
+GET /api/v1/sync/b532ee6e-cf42-47a9-a6c3-44ea0c75ce32/web?callback=__jp0 HTTP/1.1
+Host: onesignal.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: __cfduid=de26f8af3a34c64cc48db7f52f068750d1507530748
+Connection: keep-alive
+If-None-Match: W/"c94564adf0550a17bd8adbae54cd2fc1"
+
+HTTP/2.0 200 OK
+date: Mon, 09 Oct 2017 09:02:11 GMT
+content-type: text/javascript; charset=utf-8
+cache-control: public, max-age=7200
+access-control-allow-origin: *
+x-xss-protection: 1; mode=block
+x-request-id: 6a6c999e-90a6-4d8d-bca1-87af040a70f5
+access-control-allow-headers: SDK-Version
+etag: W/"299c3c52d8842eec85f9c46554e2d43d"
+x-frame-options: SAMEORIGIN
+x-runtime: 0.008133
+x-content-type-options: nosniff
+x-powered-by: Phusion Passenger 5.1.7
+cf-cache-status: HIT
+vary: Accept-Encoding
+expires: Mon, 09 Oct 2017 11:02:11 GMT
+server: cloudflare-nginx
+cf-ray: 3ab028d6cbee3228-SIN
+content-encoding: gzip
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://dsp-d.ants.vn/delivery/rta/47620-1258091898.js
+
+GET /delivery/rta/47620-1258091898.js HTTP/1.1
+Host: dsp-d.ants.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: ip_i=1507530749:VN:1:29:::1000; ua_i=1507529888:2:39917:1:1:40:1:4; ad_rmu=1507538842590; ad_rm=%22%22; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%22undefined%22%2C%22carrier%22%3A%22undefined%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A1000%7D; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22210.245.31.15%22%7D; au_aid=8480713348; au_gt=%221507530750%22; ad_vg=3; au_dv=%7B%22browser_version%22%3A39917%2C%22device_model%22%3A1%2C%22os%22%3A40%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A4%2C%22browser%22%3A2%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A1%7D
+Connection: keep-alive
+If-None-Match: "1039309163"
+
+HTTP/1.1 200 OK
+X-Powered-By: 0.15
+Access-Control-Allow-Credentials: true
+Content-type: application/javascript
+ETag: "-723431649"
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+----------------------------------------------------------
+https://d.ants.vn/hb/512182483/bids?url=https%3A%2F%2Fwww.fshare.vn%2F&urlref=&hostname=www.fshare.vn&res=1366x768&ab=undefined
+
+GET /hb/512182483/bids?url=https%3A%2F%2Fwww.fshare.vn%2F&urlref=&hostname=www.fshare.vn&res=1366x768&ab=undefined HTTP/1.1
+Host: d.ants.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Origin: https://www.fshare.vn
+Cookie: ip_i=1507530749:VN:1:29:::1000; ua_i=1507529888:2:39917:1:1:40:1:4; ad_rmu=1507538842590; ad_rm=%22%22; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%22undefined%22%2C%22carrier%22%3A%22undefined%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A1000%7D; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22210.245.31.15%22%7D; au_aid=8480713348; au_gt=%221507530750%22; ad_vg=3; au_dv=%7B%22browser_version%22%3A39917%2C%22device_model%22%3A1%2C%22os%22%3A40%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A4%2C%22browser%22%3A2%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A1%7D
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: 0.11
+Access-Control-Allow-Origin: https://www.fshare.vn
+Access-Control-Allow-Credentials: true
+Content-Type: application/json; charset=utf-8
+ETag: "1566822158"
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+----------------------------------------------------------
+https://st-au.ants.vn/proxy.html
+
+GET /proxy.html HTTP/1.1
+Host: st-au.ants.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: ip_i=1507530749:VN:1:29:::1000; ua_i=1507529888:2:39917:1:1:40:1:4; ad_rmu=1507538842590; ad_rm=%22%22; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%22undefined%22%2C%22carrier%22%3A%22undefined%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A1000%7D; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22210.245.31.15%22%7D; au_aid=8480713348; au_gt=%221507530750%22; ad_vg=3; au_dv=%7B%22browser_version%22%3A39917%2C%22device_model%22%3A1%2C%22os%22%3A40%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A4%2C%22browser%22%3A2%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A1%7D
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Wed, 11 Jan 2017 09:12:55 GMT
+
+HTTP/1.1 304 Not Modified
+Server: Fengine/2.0.3
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Last-Modified: Wed, 11 Jan 2017 09:12:55 GMT
+Connection: close
+ETag: "5875f717-c0f"
+Expires: Mon, 09 Oct 2017 09:32:11 GMT
+Cache-Control: max-age=1800, public
+P3P: policyref="/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Access-Control-Allow-Origin: *
+----------------------------------------------------------
+https://www.facebook.com/tr/?id=1294418350672369&ev=PageView&dl=https%3A%2F%2Fwww.fshare.vn%2F&rl=&if=false&ts=1507539731248&v=2.7.21&ec=0&o=30&it=1507539730818
+
+GET /tr/?id=1294418350672369&ev=PageView&dl=https%3A%2F%2Fwww.fshare.vn%2F&rl=&if=false&ts=1507539731248&v=2.7.21&ec=0&o=30&it=1507539730818 HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: fr=0GJMFth3ZuaPBnB4h..BZ2u7C.os.AAA.0.0.BZ2u7D.AWVQLKjW; wd=1024x576; datr=J_PaWRt9RGlgH0dDci2y9GDT; reg_ext_ref=https%3A%2F%2Fautoitvn.com%2Fresources%2Fwinhttp-highlight-syntax.11%2F; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252Fgroups%252Fautoitscript%252Fpermalink%252F1915204618705049%252F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252Fgroups%252Fautoitscript%252Fpermalink%252F1915204618705049%252F; dpr=1
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+content-type: image/gif
+date: Mon, 09 Oct 2017 09:02:11 GMT
+expires: Mon, 09 Oct 2017 09:02:11 GMT
+last-modified: Fri, 21 Dec 2012 00:00:01 GMT
+cache-control: no-cache, must-revalidate, max-age=0
+set-cookie: 
+content-length: 44
+server: proxygen
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://e.anthill.vn/scripts/com.js?v=1507538016577
+
+GET /scripts/com.js?v=1507538016577 HTTP/1.1
+Host: e.anthill.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Server: Aengine/1.7.9
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Content-Type: application/x-javascript
+Last-Modified: Tue, 03 Oct 2017 08:56:53 GMT
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+ETag: W/"59d350d5-916"
+Content-Encoding: gzip
+----------------------------------------------------------
+https://d.ants.vn/delivery/remarketing-list?visitor=8480713348
+
+GET /delivery/remarketing-list?visitor=8480713348 HTTP/1.1
+Host: d.ants.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Origin: https://www.fshare.vn
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: Close
+Set-Cookie: ad_rm=; Expires=Mon, 09 Oct 2017 09:12:11 GMT; Path=/; Domain=.ants.vn
+Access-Control-Allow-Origin: https://www.fshare.vn
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Credentials: true
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+----------------------------------------------------------
+https://d.ants.vn/delivery/zone/512051033,512051031.json?pv=l1507539731472&url=https%3A%2F%2Fwww.fshare.vn%2F&platform=desktop&blockedIds=[]&urlref=&hostname=www.fshare.vn&res=1366x768&ab=false&hb=undefined&pl=html5
+
+GET /delivery/zone/512051033,512051031.json?pv=l1507539731472&url=https%3A%2F%2Fwww.fshare.vn%2F&platform=desktop&blockedIds=[]&urlref=&hostname=www.fshare.vn&res=1366x768&ab=false&hb=undefined&pl=html5 HTTP/1.1
+Host: d.ants.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Origin: https://www.fshare.vn
+Cookie: ip_i=1507530749:VN:1:29:::1000; ua_i=1507529888:2:39917:1:1:40:1:4; ad_rmu=1507538842590; ad_rm=%22%22; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%22undefined%22%2C%22carrier%22%3A%22undefined%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A1000%7D; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22210.245.31.15%22%7D; au_aid=8480713348; au_gt=%221507530750%22; ad_vg=3; au_dv=%7B%22browser_version%22%3A39917%2C%22device_model%22%3A1%2C%22os%22%3A40%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A4%2C%22browser%22%3A2%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A1%7D
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: 0.11
+Access-Control-Allow-Origin: https://www.fshare.vn
+Access-Control-Allow-Credentials: true
+Content-Type: application/json; charset=utf-8
+ETag: "-1434285866"
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+----------------------------------------------------------
+https://d.ants.vn/delivery/zone/512182483.json?pv=l1507539731472&url=https%3A%2F%2Fwww.fshare.vn%2F&platform=desktop&cp=&blockedIds=[]&urlref=&hostname=www.fshare.vn&res=1366x768&ab=false&hb={}&pl=html5
+
+GET /delivery/zone/512182483.json?pv=l1507539731472&url=https%3A%2F%2Fwww.fshare.vn%2F&platform=desktop&cp=&blockedIds=[]&urlref=&hostname=www.fshare.vn&res=1366x768&ab=false&hb={}&pl=html5 HTTP/1.1
+Host: d.ants.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Origin: https://www.fshare.vn
+Cookie: ip_i=1507530749:VN:1:29:::1000; ua_i=1507529888:2:39917:1:1:40:1:4; ad_rmu=1507538842590; ad_rm=%22%22; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%22undefined%22%2C%22carrier%22%3A%22undefined%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A1000%7D; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22210.245.31.15%22%7D; au_aid=8480713348; au_gt=%221507530750%22; ad_vg=3; au_dv=%7B%22browser_version%22%3A39917%2C%22device_model%22%3A1%2C%22os%22%3A40%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A4%2C%22browser%22%3A2%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A1%7D
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: 0.12
+Access-Control-Allow-Origin: https://www.fshare.vn
+Access-Control-Allow-Credentials: true
+Content-Type: application/json; charset=utf-8
+ETag: "575613900"
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+----------------------------------------------------------
+https://www.facebook.com/impression.php/fcb34553eebe9/?lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D
+
+GET /impression.php/fcb34553eebe9/?lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: fr=0GJMFth3ZuaPBnB4h..BZ2u7C.os.AAA.0.0.BZ2u7D.AWVQLKjW; wd=1024x576; datr=J_PaWRt9RGlgH0dDci2y9GDT; reg_ext_ref=https%3A%2F%2Fautoitvn.com%2Fresources%2Fwinhttp-highlight-syntax.11%2F; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252Fgroups%252Fautoitscript%252Fpermalink%252F1915204618705049%252F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252Fgroups%252Fautoitscript%252Fpermalink%252F1915204618705049%252F; dpr=1
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data: 'self';style-src data: blob: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self';
+x-xss-protection: 0
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.facebook.com
+access-control-expose-headers: X-FB-Debug, X-Loader-Length
+pragma: no-cache
+public-key-pins-report-only: max-age=600; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="k2v657xBsOVe1PQRwOsHsw3bsGT2VzIqz5K+59sNQws="; pin-sha256="gMxWOrX4PMQesK9qFNbYBxjBfjUvlkn/vN1n+L9lE5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+access-control-allow-method: OPTIONS
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+strict-transport-security: max-age=15552000; preload
+content-type: image/gif
+x-content-type-options: nosniff
+cache-control: private, no-cache, no-store, must-revalidate
+vary: Origin, Accept-Encoding
+content-encoding: br
+x-fb-debug: 47s0RlVBwjV4jS7pPU6y0OQkgjzNrp0OZe1Ge+N0lK85+w+R8kqPfphAWCNtsvWWSgf3cAJJ/VO9yGnciXBjcA==
+date: Mon, 09 Oct 2017 09:02:11 GMT
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868097&ns__t=1507539731489&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868097&ns__t=1507539731489&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868097&ns__t=1507539731491&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868097&ns__t=1507539731491&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868001&ns__t=1507539731491&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868001&ns__t=1507539731491&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868097&ns__t=1507539731490&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868097&ns__t=1507539731490&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868097&ns__t=1507539731488&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868097&ns__t=1507539731488&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868025&ns__t=1507539731492&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868025&ns__t=1507539731492&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Pragma: no-cache
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868033&ns__t=1507539731492&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868033&ns__t=1507539731492&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868056&ns__t=1507539731492&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868056&ns__t=1507539731492&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868096&ns__t=1507539731493&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868096&ns__t=1507539731493&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868100&ns__t=1507539731493&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868100&ns__t=1507539731493&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868096&ns__t=1507539731494&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868096&ns__t=1507539731494&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868001&ns__t=1507539731494&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868001&ns__t=1507539731494&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Pragma: no-cache
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://d.ants.vn/delivery/zone/512051025.json?pv=l1507539731472&url=https%3A%2F%2Fwww.fshare.vn%2F&platform=desktop&urlref=&hostname=www.fshare.vn&res=1366x768&ab=false&hb=undefined&pl=html5
+
+GET /delivery/zone/512051025.json?pv=l1507539731472&url=https%3A%2F%2Fwww.fshare.vn%2F&platform=desktop&urlref=&hostname=www.fshare.vn&res=1366x768&ab=false&hb=undefined&pl=html5 HTTP/1.1
+Host: d.ants.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Origin: https://www.fshare.vn
+Cookie: ip_i=1507530749:VN:1:29:::1000; ua_i=1507529888:2:39917:1:1:40:1:4; ad_rmu=1507543331605; ad_rm=%22%22; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%22undefined%22%2C%22carrier%22%3A%22undefined%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A1000%7D; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22210.245.31.15%22%7D; au_aid=8480713348; au_gt=%221507530750%22; ad_vg=3; au_dv=%7B%22browser_version%22%3A39917%2C%22device_model%22%3A1%2C%22os%22%3A40%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A4%2C%22browser%22%3A2%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A1%7D
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: 0.13
+Access-Control-Allow-Origin: https://www.fshare.vn
+Access-Control-Allow-Credentials: true
+Content-Type: application/json; charset=utf-8
+ETag: "2032102041"
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868025&ns__t=1507539731495&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868025&ns__t=1507539731495&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Pragma: no-cache
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868100&ns__t=1507539731496&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868100&ns__t=1507539731496&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://c0.anthill.vn/images/2017/07/27/0a4b646c1a5e8304cfdbb0e0849340dd.gif
+
+GET /images/2017/07/27/0a4b646c1a5e8304cfdbb0e0849340dd.gif HTTP/1.1
+Host: c0.anthill.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Server: Aengine/1.7.9
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Content-Type: image/gif
+Content-Length: 18080
+Last-Modified: Thu, 27 Jul 2017 13:04:26 GMT
+Connection: close
+ETag: "5979e4da-46a0"
+Expires: Tue, 09 Oct 2018 09:02:11 GMT
+Cache-Control: max-age=31536000, public
+P3P: policyref="/w3c/p3p.xml", CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT", CP="CAO PSA OUR"
+Access-Control-Allow-Origin: *
+Accept-Ranges: bytes
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868041&ns__t=1507539731496&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868041&ns__t=1507539731496&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868033&ns__t=1507539731495&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868033&ns__t=1507539731495&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868041&ns__t=1507539731497&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868041&ns__t=1507539731497&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868056&ns__t=1507539731495&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868056&ns__t=1507539731495&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Pragma: no-cache
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868001&ns__t=1507539731497&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868001&ns__t=1507539731497&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868033&ns__t=1507539731498&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868033&ns__t=1507539731498&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868025&ns__t=1507539731497&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868025&ns__t=1507539731497&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868056&ns__t=1507539731498&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868056&ns__t=1507539731498&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868100&ns__t=1507539731498&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=24651731&c3=19886868100&ns__t=1507539731498&ns_c=UTF-8&cv=3.1&c8=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: keep-alive
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://g.eclick.vn/delivery/zone/batch.json?fosp_aid=30e74423f7abfdd7&gender=&lz=1&lc=&lp=&url=https%3A%2F%2Fwww.fshare.vn%2F&host=www.fshare.vn&device=1&pv=038ee46471524cecfc024e81&debug=0&chnl=0&rand=-2104471869&ts=1507539731547&v=4&os=&retargeting_id=&id=2815&bex=undefined&vinl=0&callback=json1
+
+GET /delivery/zone/batch.json?fosp_aid=30e74423f7abfdd7&gender=&lz=1&lc=&lp=&url=https%3A%2F%2Fwww.fshare.vn%2F&host=www.fshare.vn&device=1&pv=038ee46471524cecfc024e81&debug=0&chnl=0&rand=-2104471869&ts=1507539731547&v=4&os=&retargeting_id=&id=2815&bex=undefined&vinl=0&callback=json1 HTTP/1.1
+Host: g.eclick.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: fosp_aid=30e74423f7abfdd7; fosp_location=29; fosp_country=vn; fosp_location_zone=1; fosp_isp=12; sid=49
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Mon, 09 Oct 2017 09:02:11 GMT
+Connection: close
+Transfer-Encoding: chunked
+----------------------------------------------------------
+https://www.googleadservices.com/pagead/conversion/961668245/?random=1507539731856&cv=8&fst=1507539731856&num=1&label=vzw7CJirvGEQlcnHygM&bg=ffffff&hl=en&guid=ON&eid=27391102%2C659235991%2C659245991&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_his=1&u_tz=420&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A%2F%2Fwww.fshare.vn%2F&tiba=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&fmt=4
+
+GET /pagead/conversion/961668245/?random=1507539731856&cv=8&fst=1507539731856&num=1&label=vzw7CJirvGEQlcnHygM&bg=ffffff&hl=en&guid=ON&eid=27391102%2C659235991%2C659245991&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_his=1&u_tz=420&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A%2F%2Fwww.fshare.vn%2F&tiba=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&fmt=4 HTTP/1.1
+Host: www.googleadservices.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+p3p: policyref="https://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC"
+timing-allow-origin: *
+date: Mon, 09 Oct 2017 09:02:12 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+content-type: text/javascript; charset=UTF-8
+x-content-type-options: nosniff
+content-disposition: attachment; filename="f.txt"
+content-encoding: gzip
+server: cafe
+content-length: 769
+x-xss-protection: 1; mode=block
+alt-svc: quic="googleads.g.doubleclick.net:443"; ma=2592000; v="39,38,37,35",quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://safebrowsing.google.com/safebrowsing/gethash?client=navclient-auto-ffox&appver=56.0&pver=2.2
+
+POST /safebrowsing/gethash?client=navclient-auto-ffox&appver=56.0&pver=2.2 HTTP/1.1
+Host: safebrowsing.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 25
+Content-Type: text/plain
+Cookie: NID=113=n7FQP9PjGTGZNSyNMgW-WV4AT6u5HNeZAX3km0dH6LizDsZlnCd18TdzdwQV_DxdnSabudS5Lfr9Rqf-H34cqNnHaYKusjvWlqRxAhTPnb5OCofMXCgEEJmPCCZKr7uJ
+Pragma: no-cache
+Cache-Control: no-cache
+4:20
+S~œé∑º‡íuÁ=ïê‰{˛V.¯
+HTTP/2.0 200 OK
+content-type: application/octet-stream
+x-content-type-options: nosniff
+date: Mon, 09 Oct 2017 09:02:12 GMT
+server: HTTP server (unknown)
+content-length: 552
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://t.ants.vn/a1/pi?bc=90f6d3d0d9,l1507539731472,1507539731,8480713348,2,512051031,512044928,512044929,16355,1,584097695,584097685,1,0_1,512051033,512044928,512044929,16356,1,584041432,584041410,1,0_1&t_s=512051033-584041432-512044929:1_512051031-584097695-512044929:1&t_z=&t_tp=&t_itr=&t_imk=&t_rm=&c_tp=5:0.17103,38:0.13883,37:0.07445&c_itr=-1:-1&c_imk=-1:-1&c_rm=&ti_area=29:1:VN&ti_gd=1&ti_age=range3&ti_pl=1&ti_nw=:::1000&ti_dv=1:1:1:40:2:39917&res=1366x768&oid=&gd=undefined&loc=--&url=https://www.fshare.vn/&urlref=&hostname=www.fshare.vn&zone=512051031-18-0_512051033-18-0
+
+GET /a1/pi?bc=90f6d3d0d9,l1507539731472,1507539731,8480713348,2,512051031,512044928,512044929,16355,1,584097695,584097685,1,0_1,512051033,512044928,512044929,16356,1,584041432,584041410,1,0_1&t_s=512051033-584041432-512044929:1_512051031-584097695-512044929:1&t_z=&t_tp=&t_itr=&t_imk=&t_rm=&c_tp=5:0.17103,38:0.13883,37:0.07445&c_itr=-1:-1&c_imk=-1:-1&c_rm=&ti_area=29:1:VN&ti_gd=1&ti_age=range3&ti_pl=1&ti_nw=:::1000&ti_dv=1:1:1:40:2:39917&res=1366x768&oid=&gd=undefined&loc=--&url=https://www.fshare.vn/&urlref=&hostname=www.fshare.vn&zone=512051031-18-0_512051033-18-0 HTTP/1.1
+Host: t.ants.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: ip_i=1507530749:VN:1:29:::1000; ua_i=1507529888:2:39917:1:1:40:1:4; ad_rmu=1507538842590; ad_rm=%22%22; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%22undefined%22%2C%22carrier%22%3A%22undefined%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A1000%7D; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22210.245.31.15%22%7D; au_aid=8480713348; au_gt=%221507530750%22; ad_vg=3; au_dv=%7B%22browser_version%22%3A39917%2C%22device_model%22%3A1%2C%22os%22%3A40%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A4%2C%22browser%22%3A2%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A1%7D
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+HTTP/1.1 200 OK
+Content-Type: image/gif
+Content-Length: 43
+Connection: Close
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, Content-Length
+Access-Control-Allow-Credentials: true
+----------------------------------------------------------
+https://t.ants.vn/a1/pi?bc=5571c4d74d,l1507539731472,1507539731,8480713348,1,512182483,512044928,512044929,16763,1,584069598,584069589,1,0_1&t_s=512182483-584069598-512044929:1&t_z=&t_tp=&t_itr=&t_imk=&t_rm=&c_tp=5:0.17103,38:0.13883,37:0.07445&c_itr=-1:-1&c_imk=-1:-1&c_rm=&ti_area=29:1:VN&ti_gd=2&ti_age=range4&ti_pl=1&ti_nw=:::1000&ti_dv=1:1:1:40:2:39917&res=1366x768&oid=&gd=3&loc=29-1-vn&url=https://www.fshare.vn/&urlref=&hostname=www.fshare.vn&zone=512182483-18-0&dlog=1
+
+GET /a1/pi?bc=5571c4d74d,l1507539731472,1507539731,8480713348,1,512182483,512044928,512044929,16763,1,584069598,584069589,1,0_1&t_s=512182483-584069598-512044929:1&t_z=&t_tp=&t_itr=&t_imk=&t_rm=&c_tp=5:0.17103,38:0.13883,37:0.07445&c_itr=-1:-1&c_imk=-1:-1&c_rm=&ti_area=29:1:VN&ti_gd=2&ti_age=range4&ti_pl=1&ti_nw=:::1000&ti_dv=1:1:1:40:2:39917&res=1366x768&oid=&gd=3&loc=29-1-vn&url=https://www.fshare.vn/&urlref=&hostname=www.fshare.vn&zone=512182483-18-0&dlog=1 HTTP/1.1
+Host: t.ants.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: ip_i=1507530749:VN:1:29:::1000; ua_i=1507529888:2:39917:1:1:40:1:4; ad_rmu=1507538842590; ad_rm=%22%22; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%22undefined%22%2C%22carrier%22%3A%22undefined%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A1000%7D; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22210.245.31.15%22%7D; au_aid=8480713348; au_gt=%221507530750%22; ad_vg=3; au_dv=%7B%22browser_version%22%3A39917%2C%22device_model%22%3A1%2C%22os%22%3A40%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A4%2C%22browser%22%3A2%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A1%7D
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+HTTP/1.1 200 OK
+Content-Type: image/gif
+Content-Length: 43
+Connection: Close
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, Content-Length
+Access-Control-Allow-Credentials: true
+----------------------------------------------------------
+https://www.facebook.com/tr/
+
+POST /tr/ HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 1918
+Referer: https://www.fshare.vn/
+Cookie: fr=0GJMFth3ZuaPBnB4h..BZ2u7C.os.AAA.0.0.BZ2u7D.AWVQLKjW; wd=1024x576; datr=J_PaWRt9RGlgH0dDci2y9GDT; reg_ext_ref=https%3A%2F%2Fautoitvn.com%2Fresources%2Fwinhttp-highlight-syntax.11%2F; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252Fgroups%252Fautoitscript%252Fpermalink%252F1915204618705049%252F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252Fgroups%252Fautoitscript%252Fpermalink%252F1915204618705049%252F; dpr=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+id=1294418350672369&ev=Microdata&dl=https%3A%2F%2Fwww.fshare.vn%2F&rl=&if=false&ts=1507539731763&cd%5BSchema.org%5D=%5B%5D&cd%5BOpenGraph%5D=%7B%22og%3Atitle%22%3A%22Fshare+%E2%80%93+D%E1%BB%8Bch+v%E1%BB%A5+l%C6%B0u+tr%E1%BB%AF+v%C3%A0+chia+s%E1%BA%BB+tr%E1%BB%B1c+tuy%E1%BA%BFn%22%2C%22og%3Adescription%22%3A%22Fshare+l%C3%A0+d%E1%BB%8Bch+v%E1%BB%A5+l%C6%B0u+tr%E1%BB%AF+v%C3%A0+chia+s%E1%BA%BB+d%E1%BB%AF+li%E1%BB%87u+tr%E1%BB%B1c+tuy%E1%BA%BFn+gi%C3%BAp+kh%C3%A1ch+h%C3%A0ng+l%C6%B0u+tr%E1%BB%AF+th%C3%B4ng+tin%2C+d%E1%BB%AF+li%E1%BB%87u+%28album+%E1%BA%A3nh%2C+phim%2C+ph%E1%BA%A7n+m%E1%BB%81m%2C+t%C3%A0i+li%E1%BB%87u%2C+game%2C+nh%E1%BA%A1c%2Cv.v%E2%80%A6%29+m%E1%BB%8Di+l%C3%BAc%2C+m%E1%BB%8Di+n%C6%A1i%2C+t%C6%B0%C6%A1ng+th%C3%ADch+tr%C3%AAn+m%E1%BB%8Di+thi%E1%BA%BFt+b%E1%BB%8B.%22%2C%22og%3Aimage%22%3A%22https%3A%2F%2Fwww.fshare.vn%2Fimg%2Fshare_download.png%22%2C%22og%3Atype%22%3A%22website%22%2C%22og%3Aurl%22%3A%22https%3A%2F%2Fwww.fshare.vn%2F%22%7D&cd%5BMeta%5D=%7B%22title%22%3A%22Fshare+%E2%80%93+D%E1%BB%8Bch+v%E1%BB%A5+l%C6%B0u+tr%E1%BB%AF+v%C3%A0+chia+s%E1%BA%BB+tr%E1%BB%B1c+tuy%E1%BA%BFn%22%2C%22meta%3Akeywords%22%3A%22Fshare.vn%2Cfshare.vn%2C+upload%2C+download%2C+free+download%2C+chia+s%E1%BA%BB+d%E1%BB%AF+li%E1%BB%87u%2C+free+upload%2C+d%E1%BB%AF+li%E1%BB%87u+tr%E1%BB%B1c+tuy%E1%BA%BFn%2C+Windows%2C+PC%2C+Mac%2C+OS+X%2C+Linux%2C+Android%2C+iPhone%2C+iPad%2C+free+storage%2C+cloud+Storage%2C+collaboration%2C+file+Sharing%2C+share+Files%22%2C%22meta%3Adescription%22%3A%22Free+Upload%2C+Free+download%2C+Upload+mi%E1%BB%85n+ph%C3%AD%2C+Fshare+Upload%2C+Download+mi%E1%BB%85n+ph%C3%AD%2C+l%C6%B0u+tr%E1%BB%AF%2C+sao+l%C6%B0u+tr%E1%BB%B1c+tuy%E1%BA%BFn%2C+Upload+d%E1%BB%AF+li%E1%BB%87u+nhanh+nh%E1%BA%A5t%2C+download+d%E1%BB%AF+li%E1%BB%87u+nhanh+nh%E1%BA%A5t%2C+l%C6%B0u+tr%E1%BB%AF+d%E1%BB%AF+li%E1%BB%87u+tr%E1%BB%B1c+tuy%E1%BA%BFn+%E2%80%93+T%C3%AAn+file%2FFolder+%22%7D&v=2.7.21&o=30: undefined
+
+HTTP/2.0 200 OK
+content-type: image/gif
+date: Mon, 09 Oct 2017 09:02:12 GMT
+expires: Mon, 09 Oct 2017 09:02:12 GMT
+last-modified: Fri, 21 Dec 2012 00:00:01 GMT
+cache-control: no-cache, must-revalidate, max-age=0
+set-cookie: 
+content-length: 44
+server: proxygen
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://static.eclick.vn/uploads/source/2017/10/06/299s279014496393447978591266.gif
+
+GET /uploads/source/2017/10/06/299s279014496393447978591266.gif HTTP/1.1
+Host: static.eclick.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: fosp_aid=30e74423f7abfdd7; fosp_location=29; fosp_country=vn; fosp_location_zone=1; fosp_isp=12
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+date: Mon, 09 Oct 2017 09:02:12 GMT
+content-type: image/gif
+content-length: 53692
+last-modified: Fri, 06 Oct 2017 08:41:02 GMT
+etag: "59d7419e-d1bc"
+expires: Wed, 08 Nov 2017 09:02:12 GMT
+cache-control: max-age=2592000
+server: FPT-static_eclick_141_33
+accept-ranges: bytes
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.google-analytics.com/collect?v=1&_v=j64&a=416877870&t=event&_s=2&dl=https%3A%2F%2Fwww.fshare.vn%2F&ul=vi-vn&de=UTF-8&dt=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&sd=24-bit&sr=1366x768&vp=1366x638&je=0&ec=Event%20download&ea=View%20banner%20download&_u=CACAAEABI~&jid=&gjid=&cid=442312499.1507530748&tid=UA-37305555-6&_gid=519176744.1507530748&z=581053909
+
+GET /collect?v=1&_v=j64&a=416877870&t=event&_s=2&dl=https%3A%2F%2Fwww.fshare.vn%2F&ul=vi-vn&de=UTF-8&dt=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&sd=24-bit&sr=1366x768&vp=1366x638&je=0&ec=Event%20download&ea=View%20banner%20download&_u=CACAAEABI~&jid=&gjid=&cid=442312499.1507530748&tid=UA-37305555-6&_gid=519176744.1507530748&z=581053909 HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-allow-origin: *
+date: Wed, 04 Oct 2017 00:33:30 GMT
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+last-modified: Sun, 17 May 1998 03:00:00 GMT
+x-content-type-options: nosniff
+content-type: image/gif
+server: Golfe2
+content-length: 35
+cache-control: no-cache, no-store, must-revalidate
+age: 462522
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://t.eclick.vn/pageview?fosp_aid=30e74423f7abfdd7&gender=&lz=1&lc=vn&lp=29&origin=https%3A%2F%2Fwww.fshare.vn%2F&ts=1507539731547&loc=29-1-vn&ev=130920&v=4&device=1&pv=038ee46471524cecfc024e81+ab0312fc90:1526:2815:1:f_201:1:2000015369_2000062136&out=0
+
+GET /pageview?fosp_aid=30e74423f7abfdd7&gender=&lz=1&lc=vn&lp=29&origin=https%3A%2F%2Fwww.fshare.vn%2F&ts=1507539731547&loc=29-1-vn&ev=130920&v=4&device=1&pv=038ee46471524cecfc024e81+ab0312fc90:1526:2815:1:f_201:1:2000015369_2000062136&out=0 HTTP/1.1
+Host: t.eclick.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: fosp_aid=30e74423f7abfdd7; fosp_location=29; fosp_country=vn; fosp_location_zone=1; fosp_isp=12
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Content-Type: image/gif
+Content-Length: 43
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: POST, GET
+Access-Control-Allow-Headers: origin, content-type, accept, Set-Cookie
+----------------------------------------------------------
+https://safebrowsing.google.com/safebrowsing/gethash?client=navclient-auto-ffox&appver=56.0&pver=2.2
+
+POST /safebrowsing/gethash?client=navclient-auto-ffox&appver=56.0&pver=2.2 HTTP/1.1
+Host: safebrowsing.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 25
+Content-Type: text/plain
+Cookie: NID=113=n7FQP9PjGTGZNSyNMgW-WV4AT6u5HNeZAX3km0dH6LizDsZlnCd18TdzdwQV_DxdnSabudS5Lfr9Rqf-H34cqNnHaYKusjvWlqRxAhTPnb5OCofMXCgEEJmPCCZKr7uJ
+Pragma: no-cache
+Cache-Control: no-cache
+4:20
+S~œé∑º‡íuÁ=ïê‰{˛V.¯
+HTTP/2.0 200 OK
+content-type: application/octet-stream
+x-content-type-options: nosniff
+date: Mon, 09 Oct 2017 09:02:12 GMT
+server: HTTP server (unknown)
+content-length: 552
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://t.ants.vn/a1/pi?bc=eff943f7d3,l1507539731472,1507539731,8480713348,1,512051025,512044928,512044929,16354,1,584095175,582686856,1,0_1&t_s=512051025-584095175-512044929:1&t_z=&t_tp=&t_itr=&t_imk=&t_rm=&c_tp=5:0.17103,38:0.13883,37:0.07445&c_itr=-1:-1&c_imk=-1:-1&c_rm=&ti_area=29:1:VN&ti_gd=2&ti_age=range4&ti_pl=1&ti_nw=:::1000&ti_dv=1:1:1:40:2:39917&res=1366x768&oid=&gd=undefined&loc=--&url=https://www.fshare.vn/&urlref=&hostname=www.fshare.vn&zone=512051025-18-0&dlog=1
+
+GET /a1/pi?bc=eff943f7d3,l1507539731472,1507539731,8480713348,1,512051025,512044928,512044929,16354,1,584095175,582686856,1,0_1&t_s=512051025-584095175-512044929:1&t_z=&t_tp=&t_itr=&t_imk=&t_rm=&c_tp=5:0.17103,38:0.13883,37:0.07445&c_itr=-1:-1&c_imk=-1:-1&c_rm=&ti_area=29:1:VN&ti_gd=2&ti_age=range4&ti_pl=1&ti_nw=:::1000&ti_dv=1:1:1:40:2:39917&res=1366x768&oid=&gd=undefined&loc=--&url=https://www.fshare.vn/&urlref=&hostname=www.fshare.vn&zone=512051025-18-0&dlog=1 HTTP/1.1
+Host: t.ants.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: ip_i=1507530749:VN:1:29:::1000; ua_i=1507529888:2:39917:1:1:40:1:4; ad_rmu=1507543331605; ad_rm=%22%22; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%22undefined%22%2C%22carrier%22%3A%22undefined%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A1000%7D; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22210.245.31.15%22%7D; au_aid=8480713348; au_gt=%221507530750%22; ad_vg=3; au_dv=%7B%22browser_version%22%3A39917%2C%22device_model%22%3A1%2C%22os%22%3A40%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A4%2C%22browser%22%3A2%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A1%7D
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+HTTP/1.1 200 OK
+Content-Type: image/gif
+Content-Length: 43
+Connection: Close
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, Content-Length
+Access-Control-Allow-Credentials: true
+----------------------------------------------------------
+https://js.knowlead.io/dmpcollector.js
+
+GET /dmpcollector.js HTTP/1.1
+Host: js.knowlead.io
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: __cfduid=d67f2da3abe2d18d4f70203683d9433de1507530759; _dvp=0:j8jsw2pe:ycNI8jwyF1Tm4Y_F1nEY_WT9xOkQM3f1
+Connection: keep-alive
+If-None-Match: "gz+Vw2LU2L1liAWff8/qxqxNgCYmkMTZbVIR1dFwuQD0X8="
+
+HTTP/2.0 304 Not Modified
+date: Mon, 09 Oct 2017 09:02:12 GMT
+cache-control: public, max-age=3600
+etag: "gz+Vw2LU2L1liAWff8/qxqxNgCYmkMTZbVIR1dFwuQD0X8="
+vary: Accept-Encoding
+cf-cache-status: HIT
+server: cloudflare-nginx
+cf-ray: 3ab028dee94c1135-SIN
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://sb.scorecardresearch.com/b?c1=8&c2=19747654&c3=1000000000000000005&ns__t=1507539732380&ns_c=UTF-8&ns_if=1&cv=3.1&c8=&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9=
+
+GET /b?c1=8&c2=19747654&c3=1000000000000000005&ns__t=1507539732380&ns_c=UTF-8&ns_if=1&cv=3.1&c8=&c7=https%3A%2F%2Fwww.fshare.vn%2F&c9= HTTP/1.1
+Host: sb.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: UID=1C811869a17a1734b79c49d1507521330; UIDR=1507521330
+Connection: keep-alive
+
+HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Mon, 09 Oct 2017 09:02:12 GMT
+Connection: keep-alive
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+----------------------------------------------------------
+https://www.ipv6forum.com/ipv6_enabled/public/images/small_logo_background_left.png
+
+GET /ipv6_enabled/public/images/small_logo_background_left.png HTTP/1.1
+Host: www.ipv6forum.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Date: Mon, 09 Oct 2017 09:02:12 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Last-Modified: Thu, 14 May 2009 06:36:54 GMT
+ETag: "12f5-469d98dc28d80"
+Accept-Ranges: bytes
+Content-Length: 4853
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: image/png
+----------------------------------------------------------
+https://js.knowlead.io/csc-event?p=0%3Aj8jy8e7e%3A~Co_djAGcCRJ9vrZVoggBi8iLVVQFYBR&s=0%3Aj8jy8e7e%3ANn83EWhRqo~~m3gKDvDrNL5m_Yw2FEGQ&v=0%3AZYgPlq8H0_YnOL1CO5YvzDTyzm_vjueO&e=0%3AZYgPlq8H0_YnOL1CO5YvzDTyzm_vjueO0&c=j8jy8e7k&n=t&f=t&l=https%3A%2F%2Fwww.fshare.vn%2F&i=11y&j=k8&k=1&w=11y&h=hq&t=pageView&d=_siteId%3AFSHARE01%2Cfshare_id%3A0&a=null&q=%2C%2C&z=null&x=atmjdl
+
+GET /csc-event?p=0%3Aj8jy8e7e%3A~Co_djAGcCRJ9vrZVoggBi8iLVVQFYBR&s=0%3Aj8jy8e7e%3ANn83EWhRqo~~m3gKDvDrNL5m_Yw2FEGQ&v=0%3AZYgPlq8H0_YnOL1CO5YvzDTyzm_vjueO&e=0%3AZYgPlq8H0_YnOL1CO5YvzDTyzm_vjueO0&c=j8jy8e7k&n=t&f=t&l=https%3A%2F%2Fwww.fshare.vn%2F&i=11y&j=k8&k=1&w=11y&h=hq&t=pageView&d=_siteId%3AFSHARE01%2Cfshare_id%3A0&a=null&q=%2C%2C&z=null&x=atmjdl HTTP/1.1
+Host: js.knowlead.io
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: __cfduid=d67f2da3abe2d18d4f70203683d9433de1507530759; _dvp=0:j8jsw2pe:ycNI8jwyF1Tm4Y_F1nEY_WT9xOkQM3f1
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+date: Mon, 09 Oct 2017 09:02:12 GMT
+content-type: image/gif
+content-length: 37
+expires: Fri, 14 Apr 1995 11:30:00 GMT
+cache-control: private, no-cache, proxy-revalidate
+set-cookie: _dvs=0:j8jy8e7e:Nn83EWhRqo~~m3gKDvDrNL5m_Yw2FEGQ; path=/; expires=10/09/2017 04:44:53 PM +0700; max-age=1800; domain=.knowlead.io
+pragma: no-cache
+etag: "6b3edc43-20ec-4078-bc47-e965dd76b88a"
+server: cloudflare-nginx
+cf-ray: 3ab028df697f1135-SIN
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://googleads.g.doubleclick.net/pagead/viewthroughconversion/961668245/?random=998750022&cv=8&fst=*&num=1&label=vzw7CJirvGEQlcnHygM&bg=ffffff&hl=en&guid=ON&eid=27391102%2C659235991%2C659245991&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_his=1&u_tz=420&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://www.fshare.vn/&tiba=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&ocp_id=FDvbWaLpB8m08AXdkYnIAg
+
+GET /pagead/viewthroughconversion/961668245/?random=998750022&cv=8&fst=*&num=1&label=vzw7CJirvGEQlcnHygM&bg=ffffff&hl=en&guid=ON&eid=27391102%2C659235991%2C659245991&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_his=1&u_tz=420&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://www.fshare.vn/&tiba=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&ocp_id=FDvbWaLpB8m08AXdkYnIAg HTTP/1.1
+Host: googleads.g.doubleclick.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: IDE=AHWqTUmlo2AGr2kkkfat_q_MqX1Z46yTeHaOw7OuWvD_1B9KyJJs40keTlCnp8R9
+Connection: keep-alive
+
+HTTP/2.0 302 Found
+p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+timing-allow-origin: *
+date: Mon, 09 Oct 2017 09:02:12 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+location: https://www.google.com/ads/conversion/961668245/?random=998750022&cv=8&fst=*&num=1&label=vzw7CJirvGEQlcnHygM&bg=ffffff&hl=en&guid=ON&eid=27391102%2C659235991%2C659245991&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_his=1&u_tz=420&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://www.fshare.vn/&tiba=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&cdct=2&is_vtc=1&ocp_id=FDvbWaLpB8m08AXdkYnIAg&random=224551041
+content-type: image/gif
+x-content-type-options: nosniff
+server: cafe
+content-length: 42
+x-xss-protection: 1; mode=block
+alt-svc: quic="googleads.g.doubleclick.net:443"; ma=2592000; v="39,38,37,35",quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://t.ants.vn/a1/ti/?bc=55fc7d6480,l1507539731472,1507539731,8480713348,1,512051031,512044928,512044929,16355,1,584097695,584097685,1,0_1&t_s=512051031-584097695-512044929:1&t_z=&t_tp=&t_itr=&t_imk=&t_rm=&c_tp=5:0.17103,38:0.13883,37:0.07445&c_itr=-1:-1&c_imk=-1:-1&c_rm=&ti_area=29:1:VN&ti_gd=1&ti_age=range3&ti_pl=1&ti_nw=:::1000&ti_dv=1:1:1:40:2:39917&timestamp=1507539732614&url=https%3A%2F%2Fwww.fshare.vn%2F&urlref=&hostname=www.fshare.vn&format=18&template=0&res=1366x768&pos=0&resfl=489:589_489:589&gd=undefined&loc=--&t2t=1005
+
+GET /a1/ti/?bc=55fc7d6480,l1507539731472,1507539731,8480713348,1,512051031,512044928,512044929,16355,1,584097695,584097685,1,0_1&t_s=512051031-584097695-512044929:1&t_z=&t_tp=&t_itr=&t_imk=&t_rm=&c_tp=5:0.17103,38:0.13883,37:0.07445&c_itr=-1:-1&c_imk=-1:-1&c_rm=&ti_area=29:1:VN&ti_gd=1&ti_age=range3&ti_pl=1&ti_nw=:::1000&ti_dv=1:1:1:40:2:39917&timestamp=1507539732614&url=https%3A%2F%2Fwww.fshare.vn%2F&urlref=&hostname=www.fshare.vn&format=18&template=0&res=1366x768&pos=0&resfl=489:589_489:589&gd=undefined&loc=--&t2t=1005 HTTP/1.1
+Host: t.ants.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: ip_i=1507530749:VN:1:29:::1000; ua_i=1507529888:2:39917:1:1:40:1:4; ad_rmu=1507543331605; ad_rm=%22%22; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%22undefined%22%2C%22carrier%22%3A%22undefined%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A1000%7D; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22210.245.31.15%22%7D; au_aid=8480713348; au_gt=%221507530750%22; ad_vg=3; au_dv=%7B%22browser_version%22%3A39917%2C%22device_model%22%3A1%2C%22os%22%3A40%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A4%2C%22browser%22%3A2%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A1%7D
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+HTTP/1.1 200 OK
+Content-Type: image/gif
+Content-Length: 43
+Connection: Close
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, Content-Length
+Access-Control-Allow-Credentials: true
+----------------------------------------------------------
+https://t.ants.vn/a1/ti/?bc=81e4f6cc73,l1507539731472,1507539731,8480713348,1,512051033,512044928,512044929,16356,1,584041432,584041410,1,0_1&t_s=512051033-584041432-512044929:1&t_z=&t_tp=&t_itr=&t_imk=&t_rm=&c_tp=5:0.17103,38:0.13883,37:0.07445&c_itr=-1:-1&c_imk=-1:-1&c_rm=&ti_area=29:1:VN&ti_gd=1&ti_age=range3&ti_pl=1&ti_nw=:::1000&ti_dv=1:1:1:40:2:39917&timestamp=1507539732614&url=https%3A%2F%2Fwww.fshare.vn%2F&urlref=&hostname=www.fshare.vn&format=18&template=0&res=1366x768&pos=0&resfl=489:589_489:589&gd=undefined&loc=--&t2t=1006
+
+GET /a1/ti/?bc=81e4f6cc73,l1507539731472,1507539731,8480713348,1,512051033,512044928,512044929,16356,1,584041432,584041410,1,0_1&t_s=512051033-584041432-512044929:1&t_z=&t_tp=&t_itr=&t_imk=&t_rm=&c_tp=5:0.17103,38:0.13883,37:0.07445&c_itr=-1:-1&c_imk=-1:-1&c_rm=&ti_area=29:1:VN&ti_gd=1&ti_age=range3&ti_pl=1&ti_nw=:::1000&ti_dv=1:1:1:40:2:39917&timestamp=1507539732614&url=https%3A%2F%2Fwww.fshare.vn%2F&urlref=&hostname=www.fshare.vn&format=18&template=0&res=1366x768&pos=0&resfl=489:589_489:589&gd=undefined&loc=--&t2t=1006 HTTP/1.1
+Host: t.ants.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: ip_i=1507530749:VN:1:29:::1000; ua_i=1507529888:2:39917:1:1:40:1:4; ad_rmu=1507543331605; ad_rm=%22%22; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%22undefined%22%2C%22carrier%22%3A%22undefined%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A1000%7D; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22210.245.31.15%22%7D; au_aid=8480713348; au_gt=%221507530750%22; ad_vg=3; au_dv=%7B%22browser_version%22%3A39917%2C%22device_model%22%3A1%2C%22os%22%3A40%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A4%2C%22browser%22%3A2%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A1%7D
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+HTTP/1.1 200 OK
+Content-Type: image/gif
+Content-Length: 43
+Connection: Close
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, Content-Length
+Access-Control-Allow-Credentials: true
+----------------------------------------------------------
+https://www.facebook.com/v2.8/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FZ2duorNoYeF.js%3Fversion%3D42%23cb%3Df36e15d1582822a%26domain%3Dwww.fshare.vn%26origin%3Dhttps%253A%252F%252Fwww.fshare.vn%252Ff97b600ddf868a%26relation%3Dparent.parent&container_width=0&height=350&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FFsharedotvn%2F%3Ffref%3Dts&locale=vi_VN&sdk=joey&show_facepile=true&small_header=false&tabs=messages&width=300
+
+GET /v2.8/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FZ2duorNoYeF.js%3Fversion%3D42%23cb%3Df36e15d1582822a%26domain%3Dwww.fshare.vn%26origin%3Dhttps%253A%252F%252Fwww.fshare.vn%252Ff97b600ddf868a%26relation%3Dparent.parent&container_width=0&height=350&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FFsharedotvn%2F%3Ffref%3Dts&locale=vi_VN&sdk=joey&show_facepile=true&small_header=false&tabs=messages&width=300 HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: fr=0GJMFth3ZuaPBnB4h..BZ2u7C.os.AAA.0.0.BZ2u7D.AWVQLKjW; wd=1024x576; datr=J_PaWRt9RGlgH0dDci2y9GDT; reg_ext_ref=https%3A%2F%2Fautoitvn.com%2Fresources%2Fwinhttp-highlight-syntax.11%2F; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252Fgroups%252Fautoitscript%252Fpermalink%252F1915204618705049%252F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252Fgroups%252Fautoitscript%252Fpermalink%252F1915204618705049%252F; dpr=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+HTTP/2.0 200 OK
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+facebook-api-version: v2.8
+x-content-type-options: nosniff
+strict-transport-security: max-age=15552000; preload
+cache-control: private, no-cache, no-store, must-revalidate
+timing-allow-origin: *
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data: 'self';style-src data: blob: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self';
+pragma: no-cache
+public-key-pins-report-only: max-age=600; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="k2v657xBsOVe1PQRwOsHsw3bsGT2VzIqz5K+59sNQws="; pin-sha256="gMxWOrX4PMQesK9qFNbYBxjBfjUvlkn/vN1n+L9lE5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+x-xss-protection: 0
+vary: Accept-Encoding
+content-encoding: br
+content-type: text/html; charset=UTF-8
+x-fb-debug: 4R9jy3lL9TJUWRh+TmA+4NaLtbv0O9VrOYk8chkSDqLX/ntGxl//iTvh4Kz2hGMpheLW9bnHtkELbkYrUFipaQ==
+date: Mon, 09 Oct 2017 09:02:12 GMT
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.google.com/ads/conversion/961668245/?random=998750022&cv=8&fst=*&num=1&label=vzw7CJirvGEQlcnHygM&bg=ffffff&hl=en&guid=ON&eid=27391102%2C659235991%2C659245991&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_his=1&u_tz=420&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://www.fshare.vn/&tiba=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&cdct=2&is_vtc=1&ocp_id=FDvbWaLpB8m08AXdkYnIAg&random=224551041
+
+GET /ads/conversion/961668245/?random=998750022&cv=8&fst=*&num=1&label=vzw7CJirvGEQlcnHygM&bg=ffffff&hl=en&guid=ON&eid=27391102%2C659235991%2C659245991&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_his=1&u_tz=420&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://www.fshare.vn/&tiba=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&cdct=2&is_vtc=1&ocp_id=FDvbWaLpB8m08AXdkYnIAg&random=224551041 HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: NID=113=ik5ysaEQl8Vm79wKX08dG7JPy8Obx-hqcgUC0GfqAVati5gmHs3z4VrUn7qEgCqLhI037cvq5w5V6TZK5Wah55jR8kBL6qJbzEgrKHwB1mBekyFzteCDx-OKTfexnWoV; 1P_JAR=2017-10-9-9; OGPC=5061821-2:
+Connection: keep-alive
+
+HTTP/2.0 302 Found
+location: https://www.google.com.vn/ads/conversion/961668245/?random=998750022&cv=8&fst=*&num=1&label=vzw7CJirvGEQlcnHygM&bg=ffffff&hl=en&guid=ON&eid=27391102%2C659235991%2C659245991&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_his=1&u_tz=420&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://www.fshare.vn/&tiba=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&cdct=2&is_vtc=1&ocp_id=FDvbWaLpB8m08AXdkYnIAg&random=224551041&ipr=y&ulfeg=n
+cache-control: private, max-age=43200
+date: Mon, 09 Oct 2017 09:02:12 GMT
+expires: Mon, 09 Oct 2017 09:02:12 GMT
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+server: adclick_server
+content-length: 885
+x-xss-protection: 1; mode=block
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.google.com.vn/ads/conversion/961668245/?random=998750022&cv=8&fst=*&num=1&label=vzw7CJirvGEQlcnHygM&bg=ffffff&hl=en&guid=ON&eid=27391102%2C659235991%2C659245991&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_his=1&u_tz=420&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://www.fshare.vn/&tiba=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&cdct=2&is_vtc=1&ocp_id=FDvbWaLpB8m08AXdkYnIAg&random=224551041&ipr=y&ulfeg=n
+
+GET /ads/conversion/961668245/?random=998750022&cv=8&fst=*&num=1&label=vzw7CJirvGEQlcnHygM&bg=ffffff&hl=en&guid=ON&eid=27391102%2C659235991%2C659245991&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_his=1&u_tz=420&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://www.fshare.vn/&tiba=Fshare%20%E2%80%93%20D%E1%BB%8Bch%20v%E1%BB%A5%20l%C6%B0u%20tr%E1%BB%AF%20v%C3%A0%20chia%20s%E1%BA%BB%20tr%E1%BB%B1c%20tuy%E1%BA%BFn&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&cdct=2&is_vtc=1&ocp_id=FDvbWaLpB8m08AXdkYnIAg&random=224551041&ipr=y&ulfeg=n HTTP/1.1
+Host: www.google.com.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: NID=113=Y2_iIZ9sjOIvGLr3-TAzdU1gCuaywJXmUSkMM2a8yvw9HYHM0WVosmbGPCz8OTktd19To4oo55UjnYuN2yu2CeZLIXEgxNmmlbYOZFCiDfEgFq4k9JnCOFzLPM8S5OE4
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+content-type: image/gif
+date: Mon, 09 Oct 2017 09:02:12 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, no-store, must-revalidate
+x-content-type-options: nosniff
+server: adclick_server
+content-length: 42
+x-xss-protection: 1; mode=block
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://t.ants.vn/a1/ti/?bc=eff943f7d3,l1507539731472,1507539731,8480713348,1,512051025,512044928,512044929,16354,1,584095175,582686856,1,0_1&t_s=512051025-584095175-512044929:1&t_z=&t_tp=&t_itr=&t_imk=&t_rm=&c_tp=5:0.17103,38:0.13883,37:0.07445&c_itr=-1:-1&c_imk=-1:-1&c_rm=&ti_area=29:1:VN&ti_gd=2&ti_age=range4&ti_pl=1&ti_nw=:::1000&ti_dv=1:1:1:40:2:39917&timestamp=1507539732976&url=https%3A%2F%2Fwww.fshare.vn%2F&urlref=&hostname=www.fshare.vn&format=18&template=0&res=1366x768&pos=0&resfl=489:589_489:589&gd=undefined&loc=--&t2t=1145
+
+GET /a1/ti/?bc=eff943f7d3,l1507539731472,1507539731,8480713348,1,512051025,512044928,512044929,16354,1,584095175,582686856,1,0_1&t_s=512051025-584095175-512044929:1&t_z=&t_tp=&t_itr=&t_imk=&t_rm=&c_tp=5:0.17103,38:0.13883,37:0.07445&c_itr=-1:-1&c_imk=-1:-1&c_rm=&ti_area=29:1:VN&ti_gd=2&ti_age=range4&ti_pl=1&ti_nw=:::1000&ti_dv=1:1:1:40:2:39917&timestamp=1507539732976&url=https%3A%2F%2Fwww.fshare.vn%2F&urlref=&hostname=www.fshare.vn&format=18&template=0&res=1366x768&pos=0&resfl=489:589_489:589&gd=undefined&loc=--&t2t=1145 HTTP/1.1
+Host: t.ants.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Cookie: ip_i=1507530749:VN:1:29:::1000; ua_i=1507529888:2:39917:1:1:40:1:4; ad_rmu=1507543331605; ad_rm=%22%22; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%22undefined%22%2C%22carrier%22%3A%22undefined%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A1000%7D; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22210.245.31.15%22%7D; au_aid=8480713348; au_gt=%221507530750%22; ad_vg=3; au_dv=%7B%22browser_version%22%3A39917%2C%22device_model%22%3A1%2C%22os%22%3A40%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A4%2C%22browser%22%3A2%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A1%7D
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+HTTP/1.1 200 OK
+Content-Type: image/gif
+Content-Length: 43
+Connection: Close
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, Content-Length
+Access-Control-Allow-Credentials: true
+----------------------------------------------------------
+https://www.ipv6forum.com/ipv6_enabled/public/images/small_logo_backgroud_main.png
+
+GET /ipv6_enabled/public/images/small_logo_backgroud_main.png HTTP/1.1
+Host: www.ipv6forum.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Date: Mon, 09 Oct 2017 09:02:12 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Last-Modified: Thu, 14 May 2009 06:36:54 GMT
+ETag: "121-469d98dc28d80"
+Accept-Ranges: bytes
+Content-Length: 289
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: image/png
+----------------------------------------------------------
+https://www.ipv6forum.com/ipv6_enabled/public/images/small_logo_background_right.png
+
+GET /ipv6_enabled/public/images/small_logo_background_right.png HTTP/1.1
+Host: www.ipv6forum.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Date: Mon, 09 Oct 2017 09:02:12 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Last-Modified: Thu, 14 May 2009 06:36:54 GMT
+ETag: "1c4-469d98dc28d80"
+Accept-Ranges: bytes
+Content-Length: 452
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: image/png
+----------------------------------------------------------
+https://www.facebook.com/platform/plugin/page/logging/?dpr=1
+
+POST /platform/plugin/page/logging/?dpr=1 HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Referer: https://www.facebook.com/v2.8/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FZ2duorNoYeF.js%3Fversion%3D42%23cb%3Df36e15d1582822a%26domain%3Dwww.fshare.vn%26origin%3Dhttps%253A%252F%252Fwww.fshare.vn%252Ff97b600ddf868a%26relation%3Dparent.parent&container_width=0&height=350&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FFsharedotvn%2F%3Ffref%3Dts&locale=vi_VN&sdk=joey&show_facepile=true&small_header=false&tabs=messages&width=300
+Content-Length: 422
+Cookie: fr=0GJMFth3ZuaPBnB4h..BZ2u7C.os.AAA.0.0.BZ2u7D.AWVQLKjW; wd=1024x576; datr=J_PaWRt9RGlgH0dDci2y9GDT; reg_ext_ref=https%3A%2F%2Fautoitvn.com%2Fresources%2Fwinhttp-highlight-syntax.11%2F; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252Fgroups%252Fautoitscript%252Fpermalink%252F1915204618705049%252F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252Fgroups%252Fautoitscript%252Fpermalink%252F1915204618705049%252F; dpr=1
+Connection: keep-alive
+event_name=page_plugin.tab.configured&page_id=107935722694024&tab=messages&data[refererURL]=https%3A%2F%2Fwww.fshare.vn%2F&__user=0&__a=1&__dyn=7AzHK4GgO649UvUlwCwRAKGzEy4S-C11wlkq2i5U4e2O2LzEjyRG8xK5WAAxGuUG4XzEa8lDg4ium4UpwKDwIxGUO2S1iyECQ3e4o4O68mCwBgeE9Egw860FopCK6oc9oy6oswgE-2mbwExnyESU4Z2-bzE-q48y68szUmzULgoUhw&__af=h0&__req=2&__be=-1&__pc=PHASED%3Aplugin_default_pkg&__rev=3356248&locale=vi_VN&lsd=AVqf2fsp&__sp=1
+HTTP/2.0 200 OK
+x-frame-options: DENY
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data: 'self';style-src data: blob: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self';
+x-xss-protection: 0
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.facebook.com
+access-control-expose-headers: X-FB-Debug, X-Loader-Length
+pragma: no-cache
+public-key-pins-report-only: max-age=600; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="k2v657xBsOVe1PQRwOsHsw3bsGT2VzIqz5K+59sNQws="; pin-sha256="gMxWOrX4PMQesK9qFNbYBxjBfjUvlkn/vN1n+L9lE5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+access-control-allow-method: OPTIONS
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+strict-transport-security: max-age=15552000; preload
+content-type: application/x-javascript; charset=utf-8
+x-content-type-options: nosniff
+cache-control: private, no-cache, no-store, must-revalidate
+vary: Origin, Accept-Encoding
+content-encoding: br
+x-fb-debug: RxgbJZEfp2CQ7PqX7gkBAvDiXcDB+VFsqOJnL3YSrGQsAkeMO7BW3S1kgvIBabsdBhHS5aF8zjmUJ1JIAf3C+g==
+date: Mon, 09 Oct 2017 09:02:13 GMT
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/pages/call_to_action/fetch_dialog_data/?id=510300759124183&surface=pagePlugin&unit_type=VIEWER&dpr=1
+
+POST /pages/call_to_action/fetch_dialog_data/?id=510300759124183&surface=pagePlugin&unit_type=VIEWER&dpr=1 HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Referer: https://www.facebook.com/v2.8/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FZ2duorNoYeF.js%3Fversion%3D42%23cb%3Df36e15d1582822a%26domain%3Dwww.fshare.vn%26origin%3Dhttps%253A%252F%252Fwww.fshare.vn%252Ff97b600ddf868a%26relation%3Dparent.parent&container_width=0&height=350&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FFsharedotvn%2F%3Ffref%3Dts&locale=vi_VN&sdk=joey&show_facepile=true&small_header=false&tabs=messages&width=300
+Content-Length: 299
+Cookie: fr=0GJMFth3ZuaPBnB4h..BZ2u7C.os.AAA.0.0.BZ2u7D.AWVQLKjW; wd=1024x576; datr=J_PaWRt9RGlgH0dDci2y9GDT; reg_ext_ref=https%3A%2F%2Fautoitvn.com%2Fresources%2Fwinhttp-highlight-syntax.11%2F; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252Fgroups%252Fautoitscript%252Fpermalink%252F1915204618705049%252F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252Fgroups%252Fautoitscript%252Fpermalink%252F1915204618705049%252F; dpr=1
+Connection: keep-alive
+__user=0&__a=1&__dyn=7AzHK4GgO649UvUlwCwRAKGzEy4S-C11wlkq2i5U4e2O2LzEjyRG8xK5WAAxGuUG4XzEa8lDg4ium4UpwKDwIxGUO2S1iyECQ3e4o4O68mCwBgeE9Egw860FopCK6oc9oy6oswgE-2mbwExnyESU4Z2-bzE-q48y68szUmzULgoUhw&__af=h0&__req=3&__be=-1&__pc=PHASED%3Aplugin_default_pkg&__rev=3356248&locale=vi_VN&lsd=AVqf2fsp&__sp=1
+HTTP/2.0 200 OK
+x-frame-options: DENY
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data: 'self';style-src data: blob: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self';
+x-xss-protection: 0
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.facebook.com
+access-control-expose-headers: X-FB-Debug, X-Loader-Length
+pragma: no-cache
+public-key-pins-report-only: max-age=600; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="k2v657xBsOVe1PQRwOsHsw3bsGT2VzIqz5K+59sNQws="; pin-sha256="gMxWOrX4PMQesK9qFNbYBxjBfjUvlkn/vN1n+L9lE5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+access-control-allow-method: OPTIONS
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+strict-transport-security: max-age=15552000; preload
+content-type: application/x-javascript; charset=utf-8
+x-content-type-options: nosniff
+cache-control: private, no-cache, no-store, must-revalidate
+vary: Origin, Accept-Encoding
+content-encoding: br
+x-fb-debug: HmBgRwRna2aPFQzlmwE86QghPg05bK64/yVCuveNjxKfARmviCuwkgPi26nXFouymHSVS2BLRuXEh4Wg3G3/5A==
+date: Mon, 09 Oct 2017 09:02:13 GMT
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/platform/plugin/tab/renderer/?dpr=1
+
+POST /platform/plugin/tab/renderer/?dpr=1 HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Referer: https://www.facebook.com/v2.8/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FZ2duorNoYeF.js%3Fversion%3D42%23cb%3Df36e15d1582822a%26domain%3Dwww.fshare.vn%26origin%3Dhttps%253A%252F%252Fwww.fshare.vn%252Ff97b600ddf868a%26relation%3Dparent.parent&container_width=0&height=350&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FFsharedotvn%2F%3Ffref%3Dts&locale=vi_VN&sdk=joey&show_facepile=true&small_header=false&tabs=messages&width=300
+Content-Length: 811
+Cookie: fr=0GJMFth3ZuaPBnB4h..BZ2u7C.os.AAA.0.0.BZ2u7D.AWVQLKjW; wd=1024x576; datr=J_PaWRt9RGlgH0dDci2y9GDT; reg_ext_ref=https%3A%2F%2Fautoitvn.com%2Fresources%2Fwinhttp-highlight-syntax.11%2F; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252Fgroups%252Fautoitscript%252Fpermalink%252F1915204618705049%252F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252Fgroups%252Fautoitscript%252Fpermalink%252F1915204618705049%252F; dpr=1
+Connection: keep-alive
+config_json=%7B%22app_id%22%3A%22776730922422337%22%2C%22href%22%3A%22https%3A%2F%2Fwww.facebook.com%2FFsharedotvn%2F%3Ffref%3Dts%22%2C%22width%22%3A300%2C%22height%22%3A350%2C%22has_cta%22%3Atrue%2C%22has_small_header%22%3Afalse%2C%22has_adapt_container_width%22%3Atrue%2C%22has_cover%22%3Afalse%2C%22has_facepile%22%3Atrue%2C%22has_posts%22%3Afalse%2C%22tabs%22%3A%22messages%22%2C%22can_personalize%22%3Afalse%2C%22is_xfbml%22%3Atrue%2C%22referer_uri%22%3A%22https%3A%2F%2Fwww.fshare.vn%2F%22%7D&key=messages&__user=0&__a=1&__dyn=7AzHK4GgO649UvUlwCwRAKGzEy4S-C11wlkq2i5U4e2O2LzEjyRG8xK5WAAxGuUG4XzEa8lDg4ium4UpwKDwIxGUO2S1iyECQ3e4o4O68mCwBgeE9Egw860FopCK6oc9oy6oswgE-2mbwExnyESU4Z2-bzE-q48y68szUmzULgoUhw&__af=h0&__req=1&__be=-1&__pc=PHASED%3Aplugin_default_pkg&__rev=3356248&locale=vi_VN&lsd=AVqf2fsp&__sp=1
+HTTP/2.0 200 OK
+x-frame-options: DENY
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data: 'self';style-src data: blob: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self';
+x-xss-protection: 0
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.facebook.com
+access-control-expose-headers: X-FB-Debug, X-Loader-Length
+pragma: no-cache
+public-key-pins-report-only: max-age=600; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="k2v657xBsOVe1PQRwOsHsw3bsGT2VzIqz5K+59sNQws="; pin-sha256="gMxWOrX4PMQesK9qFNbYBxjBfjUvlkn/vN1n+L9lE5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+access-control-allow-method: OPTIONS
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+strict-transport-security: max-age=15552000; preload
+content-type: application/x-javascript; charset=utf-8
+x-content-type-options: nosniff
+cache-control: private, no-cache, no-store, must-revalidate
+vary: Origin, Accept-Encoding
+content-encoding: br
+x-fb-debug: cUJhav//49G9ZXNwYxdynjG1dEYRsfehNS8sCZs2bkn+kisOcrR5K+PZo9O8gfP8IAK5sOdDddGkHJ3/32cDVA==
+date: Mon, 09 Oct 2017 09:02:13 GMT
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.facebook.com/platform/plugin/page/logging/?dpr=1
+
+POST /platform/plugin/page/logging/?dpr=1 HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Referer: https://www.facebook.com/v2.8/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FZ2duorNoYeF.js%3Fversion%3D42%23cb%3Df36e15d1582822a%26domain%3Dwww.fshare.vn%26origin%3Dhttps%253A%252F%252Fwww.fshare.vn%252Ff97b600ddf868a%26relation%3Dparent.parent&container_width=0&height=350&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2FFsharedotvn%2F%3Ffref%3Dts&locale=vi_VN&sdk=joey&show_facepile=true&small_header=false&tabs=messages&width=300
+Content-Length: 427
+Cookie: fr=0GJMFth3ZuaPBnB4h..BZ2u7C.os.AAA.0.0.BZ2u7D.AWVQLKjW; wd=1024x576; datr=J_PaWRt9RGlgH0dDci2y9GDT; reg_ext_ref=https%3A%2F%2Fautoitvn.com%2Fresources%2Fwinhttp-highlight-syntax.11%2F; reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252Fgroups%252Fautoitscript%252Fpermalink%252F1915204618705049%252F; reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252Fgroups%252Fautoitscript%252Fpermalink%252F1915204618705049%252F; dpr=1
+Connection: keep-alive
+event_name=page_plugin.messages.logged_out&page_id=107935722694024&tab=messages&data[refererURL]=https%3A%2F%2Fwww.fshare.vn%2F&__user=0&__a=1&__dyn=7AzHK4GgO649UvUlwCwRAKGzEy4S-C11wlkq2i5U4e2O2LzEjyRG8xK5WAAxGuUG4XzEa8lDg4ium4UpwKDwIxGUO2S1iyECQ3e4o4O68mCwBgeE9Egw860FopCK6oc9oy6oswgE-2mbwExnyESU4Z2-bzE-q48y68szUmzULgoUhw&__af=h0&__req=4&__be=-1&__pc=PHASED%3Aplugin_default_pkg&__rev=3356248&locale=vi_VN&lsd=AVqf2fsp&__sp=1
+HTTP/2.0 200 OK
+x-frame-options: DENY
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data: 'self';style-src data: blob: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self';
+x-xss-protection: 0
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.facebook.com
+access-control-expose-headers: X-FB-Debug, X-Loader-Length
+pragma: no-cache
+public-key-pins-report-only: max-age=600; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="k2v657xBsOVe1PQRwOsHsw3bsGT2VzIqz5K+59sNQws="; pin-sha256="gMxWOrX4PMQesK9qFNbYBxjBfjUvlkn/vN1n+L9lE5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+access-control-allow-method: OPTIONS
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+strict-transport-security: max-age=15552000; preload
+content-type: application/x-javascript; charset=utf-8
+x-content-type-options: nosniff
+cache-control: private, no-cache, no-store, must-revalidate
+vary: Origin, Accept-Encoding
+content-encoding: br
+x-fb-debug: /vyTsdGWD2+8X3IxnGUiOh7UcJHY/yOGxTQV5U2cj0JQYEtxVqtb6WnBTfTkhnVZq4QpFW6MZ/eIK0+EBwRrog==
+date: Mon, 09 Oct 2017 09:02:13 GMT
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://d.ants.vn/delivery/zone/512051031.json?pv=l1507539731472&url=https%3A%2F%2Fwww.fshare.vn%2F&platform=desktop&blockedIds=[]&urlref=&hostname=www.fshare.vn&res=1366x768&ab=false&hb=undefined&pl=html5
+
+GET /delivery/zone/512051031.json?pv=l1507539731472&url=https%3A%2F%2Fwww.fshare.vn%2F&platform=desktop&blockedIds=[]&urlref=&hostname=www.fshare.vn&res=1366x768&ab=false&hb=undefined&pl=html5 HTTP/1.1
+Host: d.ants.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.fshare.vn/
+Origin: https://www.fshare.vn
+Cookie: ip_i=1507530749:VN:1:29:::1000; ua_i=1507529888:2:39917:1:1:40:1:4; ad_rmu=1507543331605; ad_rm=%22%22; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%22undefined%22%2C%22carrier%22%3A%22undefined%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A1000%7D; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22210.245.31.15%22%7D; au_aid=8480713348; au_gt=%221507530750%22; ad_vg=3; au_dv=%7B%22browser_version%22%3A39917%2C%22device_model%22%3A1%2C%22os%22%3A40%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A4%2C%22browser%22%3A2%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A1%7D
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: 0.13
+Access-Control-Allow-Origin: https://www.fshare.vn
+Access-Control-Allow-Credentials: true
+Content-Type: application/json; charset=utf-8
+ETag: "218748859"
+Date: Mon, 09 Oct 2017 09:02:32 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+----------------------------------------------------------
+https://doc-0s-a8-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/h271cu0rv3cu3c3sv51ukcflv8kak9pd/1507528800000/17530183799699553414/*/0B0fuwDPNpByLQ2Z6em1SRFBnYWc?e=download
+
+GET /docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/h271cu0rv3cu3c3sv51ukcflv8kak9pd/1507528800000/17530183799699553414/*/0B0fuwDPNpByLQ2Z6em1SRFBnYWc?e=download HTTP/1.1
+Host: doc-0s-a8-docs.googleusercontent.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Pragma: no-cache
+Cache-Control: no-cache
+
+HTTP/2.0 200 OK
+x-guploader-uploadid: AEnB2UonR64U5-AyJbcpkxEIWET5T-OABthrUjzzvqJRT67nSZ6xzbKpkP9Woc4guV90AzNUBnF3KGuzzsmGD9okt_TlJWIEIK8V_7M8dHRv91JtnM6Xe4I
+access-control-allow-origin: *
+access-control-allow-credentials: false
+access-control-allow-headers: Accept, Accept-Language, Api-Ai-Dev-Mode, Authorization, Cache-Control, Content-Disposition, Content-Encoding, Content-Language, Content-Length, Content-MD5, Content-Range, Content-Type, Date, GData-Version, google-cloud-resource-prefix, Host, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since, Origin, OriginToken, Pragma, Range, Slug, Transfer-Encoding, Want-Digest, x-chrome-connected, X-ClientDetails, X-GData-Client, X-GData-Key, X-Goog-Api-Client, X-Goog-AuthUser, X-Goog-PageId, X-Goog-Encode-Response-If-Executable, X-Goog-Correlation-Id, X-Goog-Request-Info, X-Goog-Experiments, x-goog-iam-authority-selector, x-goog-iam-authorization-token, X-Goog-Spatula, X-Goog-Upload-Command, X-Goog-Upload-Content-Disposition, X-Goog-Upload-Content-Length, X-Goog-Upload-Content-Type, X-Goog-Upload-File-Name, X-Goog-Upload-Offset, X-Goog-Upload-Protocol, X-Goog-Visitor-Id, X-HTTP-Method-Override, X-JavaScript-User-Agent, X-Pan-Versionid, X-Proxied-User-IP, X-Origin, X-Referer, X-Requested-With, X-Upload-Content-Length, X-Upload-Content-Type, X-Use-HTTP-Status-Code-Override, X-Ios-Bundle-Identifier, X-Android-Package, X-Ariane-Xsrf-Token, X-YouTube-VVT, X-YouTube-Page-CL, X-YouTube-Page-Timestamp, X-Goog-Meeting-Botguardid, X-Goog-Meeting-Debugid, X-Goog-Meeting-Token, X-Client-Data, X-Sfdc-Authorization
+access-control-allow-methods: GET,OPTIONS
+content-type: application/zip
+content-disposition: attachment;filename="_HttpRequest ver.12.zip";filename*=UTF-8''_HttpRequest%20ver.12.zip
+date: Mon, 09 Oct 2017 09:02:33 GMT
+expires: Mon, 09 Oct 2017 09:02:33 GMT
+cache-control: private, max-age=0
+x-goog-hash: crc32c=BnmkDQ==
+content-length: 196446
+server: UploadServer
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
