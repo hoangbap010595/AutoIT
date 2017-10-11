@@ -94,8 +94,8 @@ $lblIpIE = GUICtrlCreateLabel("IE...", 351, 25, @DesktopWidth - 460, 22)
 Local $oIE = _IECreateEmbedded()
 GUICtrlCreateObj($oIE, 350, 45, @DesktopWidth - 460, 460)
 GUICtrlSetResizing(-1, $GUI_DOCKLEFT + $GUI_DOCKRIGHT + $GUI_DOCKTOP + $GUI_DOCKBOTTOM)
-
 GUICtrlSetState($btnEStop, $GUI_DISABLE)
+
 GUISetState(@SW_SHOW)
 #EndRegion ### START GUI section ### Form=
 ;~ writeConfig()
