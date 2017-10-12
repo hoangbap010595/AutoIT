@@ -11,13 +11,12 @@
 #include <MsgBoxConstants.au3>
 #include <Excel.au3>
 #include <Inet.au3>
-#include <FB_LoginEx.au3>
 
-Local $appName = 'Facebook Page Manager'
+Local $appName = 'Click Ad'
 Local $version = '1.0.0'
 Local $tilte = $appName & ' ' & $version
 Local $minWidthForm = 400
-Local $minHeightForm = @DesktopHeight - 100
+Local $minHeightForm = @DesktopHeight - 200
 Local $imgApp = @ScriptDir &"\image.jpg"
 
 #Region ===Create GUI===
@@ -99,7 +98,7 @@ While 1
 				_Metro_CheckboxCheck($ckRemember)
 				ConsoleWrite("Checkbox checked!" & @CRLF)
 			EndIf
-		Case $btnLogin
-			 _Metro_MsgBox(1, "Message", "Login successfully!", 300, 11, $Form1)
+;~ 		Case $btnLogin
+;~ 			 _Metro_MsgBox(1, "Message", "Login successfully!", 300, 11, $Form1)
 	EndSwitch
 WEnd
