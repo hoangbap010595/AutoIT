@@ -2,14 +2,14 @@
 #include <_HttpRequest.au3>
 #include <JSON.au3>
 
-Local $username = 'hoangbap1595@gmail.com'
+Local $username = 'lchoang1995'
 Local $password = 'Hoang911'
 Local $file = @ScriptDir&'\log.txt'
 Local $fileLink = @ScriptDir&'\FileLink.txt'
-Local $resultLink = @ScriptDir&'\123Link.txt'
-Local $resultJson = @ScriptDir&'\123Json.json'
+Local $resultLink = @ScriptDir&'\LinkEarn.txt'
+Local $resultJson = @ScriptDir&'\LinkEarn.json'
 Local $cookieFinal = ''
-Local $myToken = '20772de6a738c9f3d4f6d803d7a62ba5bf3855e1'
+Local $myToken = 'fa4517a71da6b69225b49355e71d882d7d7bd718'
 
 _HttpRequest_SetProxy('http://proxy.hcm.fpt.vn:80')
 
@@ -32,14 +32,13 @@ Func _getLink()
 	For $i = 0 To UBound($arrFile)-1
 		$data =  $arrFile[$i]
 		If $data <> '' And $data <> Null Then
-			Local $urlAddress = 'https://123link.top/api/?api='& $myToken &'&url='& $data
+			Local $urlAddress = 'https://link-earn.com/api/?api='& $myToken &'&url='& $data
 			$get = _HttpRequest(2,$urlAddress)
-;~ 			$getJson = objectJson($resultJson, $get)
 			$getJson = StringReplace($get, "\", "")
 			$obj = Json_Decode($getJson)
 			$link = Json_Get($obj,'["shortenedUrl"]')
 			writeLink($resultLink,$link & @CR)
-;~ 			ConsoleWrite($i & ':' & $link)
+			Sleep(100)
 		EndIf
 	Next
 EndFunc

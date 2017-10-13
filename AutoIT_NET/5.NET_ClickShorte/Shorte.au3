@@ -9,14 +9,13 @@
 #include <StaticConstants.au3>
 #include <WindowsConstants.au3>
 #include <MsgBoxConstants.au3>
-#include <Excel.au3>
-#include <Inet.au3>
+#include "Execute.au3"
 
-Local $appName = 'Click Ad'
+Local $appName = 'Click Shorte.st'
 Local $version = '1.0.0'
 Local $tilte = $appName & ' ' & $version
 Local $minWidthForm = 400
-Local $minHeightForm = @DesktopHeight - 200
+Local $minHeightForm =  200
 Local $imgApp = @ScriptDir &"\image.jpg"
 
 #Region ===Create GUI===
@@ -36,23 +35,23 @@ $GUI_MINIMIZE_BUTTON = $Control_Buttons[3]
 $GUI_MENU_BUTTON = $Control_Buttons[6]
 
 
-$Pic1 = GUICtrlCreatePic($imgApp, 50, 40, 300, 300)
-
-$txtUsername = GUICtrlCreateInput("", 50, 350, 300, 40)
-GUICtrlSetFont(-1, 16, 800, 0, "Segoe UI")
-GUICtrlSetColor(-1, $ButtonBKColor);0x800080
-GUICtrlSetTip(-1, "Username")
-$txtPassword = GUICtrlCreateInput("", 50, 400, 300, 40, BitOR($GUI_SS_DEFAULT_INPUT,$ES_PASSWORD))
-GUICtrlSetFont(-1, 16, 800, 0, "Segoe UI")
-GUICtrlSetColor(-1, $ButtonBKColor);0x800080
-GUICtrlSetTip(-1, "Password")
-$ckRemember = _Metro_CreateCheckboxEx2("Remember Login", 50, 454, 150, 25)
-GUICtrlSetFont(-1, 12, 400, 0, "Segoe UI")
-GUICtrlCreateLabel($tilte, 10, $minHeightForm - 25, 300, 25)
+;~ $Pic1 = GUICtrlCreatePic($imgApp, 50, 40, 300, 300)
+$Group1 = GUICtrlCreateGroup("",5,30,390,125)
+;~ $txtUsername = GUICtrlCreateInput("", 10, 50, 280, 40)
+;~ GUICtrlSetFont(-1, 16, 800, 0, "Segoe UI")
+;~ GUICtrlSetColor(-1, $ButtonBKColor);0x800080
+;~ GUICtrlSetTip(-1, "Username")
+;~ $txtPassword = GUICtrlCreateInput("", 10, 100, 280, 40, BitOR($GUI_SS_DEFAULT_INPUT,$ES_PASSWORD))
+;~ GUICtrlSetFont(-1, 16, 800, 0, "Segoe UI")
+;~ GUICtrlSetColor(-1, $ButtonBKColor);0x800080
+;~ GUICtrlSetTip(-1, "Password")
+;~ $ckRemember = _Metro_CreateCheckboxEx2("Remember Login", 10, 154, 150, 25)
+;~ GUICtrlSetFont(-1, 12, 400, 0, "Segoe UI")
+GUICtrlCreateLabel($tilte, 10, 5, 300, 25)
 GUICtrlSetFont(-1, 12, 800, 0, "Segoe UI")
 GUICtrlSetColor(-1, $FontThemeColor);0xFFFFFF
-$btnLogin = _Metro_CreateButtonEx2("Login", 50, 500, 300, 45, $ButtonBKColor,'0xFFFFFF', 'Segoe UI', 12)
-
+$btnLogin = _Metro_CreateButtonEx2("Get Short Link", 10, 47, 380, 95, $ButtonBKColor,'0xFFFFFF', 'Segoe UI', 12)
+GUICtrlCreateGroup("", -99, -99, 1, 1)
 GUISetState(@SW_SHOW)
 #EndRegion ===End Create GUI===
 
@@ -90,15 +89,16 @@ While 1
 						Exit
 					EndIf
 			EndSwitch
-		Case $ckRemember
-			If _Metro_CheckboxIsChecked($ckRemember) Then
-				_Metro_CheckboxUnCheck($ckRemember)
-				ConsoleWrite("Checkbox unchecked!" & @CRLF)
-			Else
-				_Metro_CheckboxCheck($ckRemember)
-				ConsoleWrite("Checkbox checked!" & @CRLF)
-			EndIf
-;~ 		Case $btnLogin
-;~ 			 _Metro_MsgBox(1, "Message", "Login successfully!", 300, 11, $Form1)
+;~ 		Case $ckRemember
+;~ 			If _Metro_CheckboxIsChecked($ckRemember) Then
+;~ 				_Metro_CheckboxUnCheck($ckRemember)
+;~ 				ConsoleWrite("Checkbox unchecked!" & @CRLF)
+;~ 			Else
+;~ 				_Metro_CheckboxCheck($ckRemember)
+;~ 				ConsoleWrite("Checkbox checked!" & @CRLF)
+;~ 			EndIf
+		Case $btnLogin
+			_getLink()
+			_Metro_MsgBox(1, "Message", "Get Link successfully!", 300, 11, $Form1)
 	EndSwitch
 WEnd

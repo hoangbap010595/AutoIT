@@ -11,7 +11,7 @@
 #include <MsgBoxConstants.au3>
 #include "Execute.au3"
 
-Local $appName = 'Click 123link.top'
+Local $appName = 'Click link-earn.com'
 Local $version = '1.0.0'
 Local $tilte = $appName & ' ' & $version
 Local $minWidthForm = 400

@@ -6,10 +6,10 @@ Local $username = 'hoangbap1595@gmail.com'
 Local $password = 'Hoang911'
 Local $file = @ScriptDir&'\log.txt'
 Local $fileLink = @ScriptDir&'\FileLink.txt'
-Local $resultLink = @ScriptDir&'\123Link.txt'
-Local $resultJson = @ScriptDir&'\123Json.json'
+Local $resultLink = @ScriptDir&'\ShorteLink.txt'
+Local $resultJson = @ScriptDir&'\ShorteJson.json'
 Local $cookieFinal = ''
-Local $myToken = '20772de6a738c9f3d4f6d803d7a62ba5bf3855e1'
+Local $myToken = 'e3aa78bf28230405583a96ab54fda6f9'
 
 _HttpRequest_SetProxy('http://proxy.hcm.fpt.vn:80')
 
@@ -32,13 +32,13 @@ Func _getLink()
 	For $i = 0 To UBound($arrFile)-1
 		$data =  $arrFile[$i]
 		If $data <> '' And $data <> Null Then
-			Local $urlAddress = 'https://123link.top/api/?api='& $myToken &'&url='& $data
+			Local $urlAddress = 'https://api.shorte.st/stxt/'& $myToken &'/'& $data
 			$get = _HttpRequest(2,$urlAddress)
 ;~ 			$getJson = objectJson($resultJson, $get)
-			$getJson = StringReplace($get, "\", "")
-			$obj = Json_Decode($getJson)
-			$link = Json_Get($obj,'["shortenedUrl"]')
-			writeLink($resultLink,$link & @CR)
+;~ 			$getJson = StringReplace($get, "\", "")
+;~ 			$obj = Json_Decode($getJson)
+;~ 			$link = Json_Get($obj,'["shortenedUrl"]')
+			writeLink($resultLink,$get & @CR)
 ;~ 			ConsoleWrite($i & ':' & $link)
 		EndIf
 	Next
