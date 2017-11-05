@@ -1,0 +1,686 @@
+http://ocsp.digicert.com/
+
+POST / HTTP/1.1
+Host: ocsp.digicert.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Length: 83
+Content-Type: application/ocsp-request
+Connection: keep-alive
+0Q0O0M0K0I0	+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=172800
+Content-Type: application/ocsp-response
+Date: Fri, 13 Oct 2017 12:36:15 GMT
+Etag: "59e09cfa-1d7"
+Expires: Sun, 15 Oct 2017 12:36:15 GMT
+Last-Modified: Fri, 13 Oct 2017 11:01:14 GMT
+Server: ECS (sin/BF89)
+X-Cache: HIT
+Content-Length: 471
+----------------------------------------------------------
+http://ocsp.digicert.com/
+
+POST / HTTP/1.1
+Host: ocsp.digicert.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Length: 83
+Content-Type: application/ocsp-request
+Connection: keep-alive
+0Q0O0M0K0I0	+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=172800
+Content-Type: application/ocsp-response
+Date: Fri, 13 Oct 2017 12:36:15 GMT
+Etag: "59e09cfa-1d7"
+Expires: Sun, 15 Oct 2017 12:36:15 GMT
+Last-Modified: Fri, 13 Oct 2017 11:01:14 GMT
+Server: ECS (sin/BFD0)
+X-Cache: HIT
+Content-Length: 471
+----------------------------------------------------------
+http://ocsp.digicert.com/
+
+POST / HTTP/1.1
+Host: ocsp.digicert.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Length: 83
+Content-Type: application/ocsp-request
+Connection: keep-alive
+0Q0O0M0K0I0	+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=172800
+Content-Type: application/ocsp-response
+Date: Fri, 13 Oct 2017 12:36:15 GMT
+Etag: "59e09cfa-1d7"
+Expires: Sun, 15 Oct 2017 12:36:15 GMT
+Last-Modified: Fri, 13 Oct 2017 11:01:14 GMT
+Server: ECS (sin/BF9C)
+X-Cache: HIT
+Content-Length: 471
+----------------------------------------------------------
+http://ocsp.digicert.com/
+
+POST / HTTP/1.1
+Host: ocsp.digicert.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Length: 83
+Content-Type: application/ocsp-request
+Connection: keep-alive
+0Q0O0M0K0I0	+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=172800
+Content-Type: application/ocsp-response
+Date: Fri, 13 Oct 2017 12:36:15 GMT
+Etag: "59e09cfa-1d7"
+Expires: Sun, 15 Oct 2017 12:36:15 GMT
+Last-Modified: Fri, 13 Oct 2017 11:01:14 GMT
+Server: ECS (sin/BFAF)
+X-Cache: HIT
+Content-Length: 471
+----------------------------------------------------------
+https://incoming.telemetry.mozilla.org/submit/telemetry/2ec2a9af-1c5d-46e4-b30a-dfca0aee78a5/shield-study-addon/Firefox/56.0/release/20170926190823?v=4
+
+POST /submit/telemetry/2ec2a9af-1c5d-46e4-b30a-dfca0aee78a5/shield-study-addon/Firefox/56.0/release/20170926190823?v=4 HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json; charset=UTF-8
+Date: Fri, 13 Oct 2017 12:36:14 GMT
+Content-Encoding: gzip
+Content-Length: 2812
+Connection: keep-alive
+‹
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Date: Fri, 13 Oct 2017 12:36:15 GMT
+Strict-Transport-Security: max-age=15768000
+Content-Length: 2
+Connection: keep-alive
+----------------------------------------------------------
+https://incoming.telemetry.mozilla.org/submit/telemetry/86aef19a-d863-4672-89fb-705e78a52afe/health/Firefox/56.0/release/20170926190823?v=4
+
+POST /submit/telemetry/86aef19a-d863-4672-89fb-705e78a52afe/health/Firefox/56.0/release/20170926190823?v=4 HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json; charset=UTF-8
+Date: Fri, 13 Oct 2017 12:36:14 GMT
+Content-Encoding: gzip
+Content-Length: 334
+Connection: keep-alive
+‹
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Date: Fri, 13 Oct 2017 12:36:15 GMT
+Strict-Transport-Security: max-age=15768000
+Content-Length: 2
+Connection: keep-alive
+----------------------------------------------------------
+https://incoming.telemetry.mozilla.org/submit/telemetry/c71f2dd0-edc8-4774-8f5c-26ee2921bccb/shield-study-addon/Firefox/56.0/release/20170926190823?v=4
+
+POST /submit/telemetry/c71f2dd0-edc8-4774-8f5c-26ee2921bccb/shield-study-addon/Firefox/56.0/release/20170926190823?v=4 HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json; charset=UTF-8
+Date: Fri, 13 Oct 2017 12:36:14 GMT
+Content-Encoding: gzip
+Content-Length: 2812
+Connection: keep-alive
+‹
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Date: Fri, 13 Oct 2017 12:36:15 GMT
+Strict-Transport-Security: max-age=15768000
+Content-Length: 2
+Connection: keep-alive
+----------------------------------------------------------
+https://incoming.telemetry.mozilla.org/submit/telemetry/6c3e9ef9-8997-4aba-8f65-bd07f77edee2/shield-study/Firefox/56.0/release/20170926190823?v=4
+
+POST /submit/telemetry/6c3e9ef9-8997-4aba-8f65-bd07f77edee2/shield-study/Firefox/56.0/release/20170926190823?v=4 HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json; charset=UTF-8
+Date: Fri, 13 Oct 2017 12:36:14 GMT
+Content-Encoding: gzip
+Content-Length: 2746
+Connection: keep-alive
+‹
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Date: Fri, 13 Oct 2017 12:36:15 GMT
+Strict-Transport-Security: max-age=15768000
+Content-Length: 2
+Connection: keep-alive
+----------------------------------------------------------
+https://incoming.telemetry.mozilla.org/submit/telemetry/a6dce0f3-d908-4905-93e2-0192c4044fd2/shield-study/Firefox/56.0/release/20170926190823?v=4
+
+POST /submit/telemetry/a6dce0f3-d908-4905-93e2-0192c4044fd2/shield-study/Firefox/56.0/release/20170926190823?v=4 HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json; charset=UTF-8
+Date: Fri, 13 Oct 2017 12:36:14 GMT
+Content-Encoding: gzip
+Content-Length: 2754
+Connection: keep-alive
+‹
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Date: Fri, 13 Oct 2017 12:36:15 GMT
+Strict-Transport-Security: max-age=15768000
+Content-Length: 2
+Connection: keep-alive
+----------------------------------------------------------
+http://detectportal.firefox.com/success.txt
+
+GET /success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 8
+Last-Modified: Mon, 15 May 2017 18:04:40 GMT
+ETag: "ae780585f49b94ce1444eb7d28906123"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Amz-Cf-Id: 4sIW0DxbsAu1in4qz0jfKjVX1nCl4BW4vquy91SiyRor_6gaTlJW7g==
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Fri, 13 Oct 2017 12:36:17 GMT
+Connection: keep-alive
+----------------------------------------------------------
+https://123link.top/auth/signin
+
+GET /auth/signin HTTP/1.1
+Host: 123link.top
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Cookie: ab=2; AdLinkFly=cq0v8pjtuf2klaaepuh8h2ehr0; csrfToken=0e7c9491d78c2b64a88b30c1657769f90e75510e6d380972dfec8acb58f8305d97b01eed51e09a5f18f58233badeca9baeb9b0d81ae9afb236704b60feaa7a48; ab=2; _ga=GA1.2.1529546859.1507898122; _gid=GA1.2.1761599416.1507898122; _gat=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+HTTP/2.0 200 OK
+date: Fri, 13 Oct 2017 12:35:37 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+pragma: no-cache
+server: Nginx
+x-powered-by: 123LINK
+strict-transport-security: max-age=47304000
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+content-encoding: gzip
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://123link.top/auth/signin
+
+POST /auth/signin HTTP/1.1
+Host: 123link.top
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 351
+Referer: https://123link.top/auth/signin
+Cookie: ab=2; AdLinkFly=cq0v8pjtuf2klaaepuh8h2ehr0; csrfToken=0e7c9491d78c2b64a88b30c1657769f90e75510e6d380972dfec8acb58f8305d97b01eed51e09a5f18f58233badeca9baeb9b0d81ae9afb236704b60feaa7a48; ab=2; _ga=GA1.2.1529546859.1507898122; _gid=GA1.2.1761599416.1507898122
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+_method=POST&_csrfToken=0e7c9491d78c2b64a88b30c1657769f90e75510e6d380972dfec8acb58f8305d97b01eed51e09a5f18f58233badeca9baeb9b0d81ae9afb236704b60feaa7a48&username=lchoang1995%40gmail.com&password=Hoang911&_Token%5Bfields%5D=cc04d6020c0207395772fadfdaf85b984e5e4a99%253A&_Token%5Bunlocked%5D=adcopy_challenge%257Cadcopy_response%257Cg-recaptcha-response: undefined
+
+HTTP/2.0 302 Found
+date: Fri, 13 Oct 2017 12:35:47 GMT
+content-type: text/html; charset=UTF-8
+location: https://123link.top/member/dashboard
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+pragma: no-cache
+set-cookie: AdLinkFly=gpsfjjrhb8mslq5rs23h2uos97; path=/; HttpOnly
+server: Nginx
+x-powered-by: 123LINK
+strict-transport-security: max-age=47304000
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://123link.top/member/dashboard
+
+GET /member/dashboard HTTP/1.1
+Host: 123link.top
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://123link.top/auth/signin
+Cookie: AdLinkFly=gpsfjjrhb8mslq5rs23h2uos97; csrfToken=0e7c9491d78c2b64a88b30c1657769f90e75510e6d380972dfec8acb58f8305d97b01eed51e09a5f18f58233badeca9baeb9b0d81ae9afb236704b60feaa7a48; ab=2; _ga=GA1.2.1529546859.1507898122; _gid=GA1.2.1761599416.1507898122
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+HTTP/2.0 200 OK
+date: Fri, 13 Oct 2017 12:35:47 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+pragma: no-cache
+server: Nginx
+x-powered-by: 123LINK
+strict-transport-security: max-age=47304000
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+content-encoding: gzip
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://123link.top/media/tai-sao-ban-chon-123link.jpg
+
+GET /media/tai-sao-ban-chon-123link.jpg HTTP/1.1
+Host: 123link.top
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://123link.top/member/dashboard
+Cookie: AdLinkFly=gpsfjjrhb8mslq5rs23h2uos97; csrfToken=0e7c9491d78c2b64a88b30c1657769f90e75510e6d380972dfec8acb58f8305d97b01eed51e09a5f18f58233badeca9baeb9b0d81ae9afb236704b60feaa7a48; ab=2; _ga=GA1.2.1529546859.1507898122; _gid=GA1.2.1761599416.1507898122
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+date: Fri, 13 Oct 2017 12:35:47 GMT
+content-type: image/jpeg
+content-length: 112008
+last-modified: Thu, 17 Aug 2017 21:36:35 GMT
+etag: "59960c63-1b588"
+server: Nginx
+x-powered-by: 123LINK
+expires: Sun, 12 Nov 2017 12:35:47 GMT
+cache-control: max-age=2592000, public, must-revalidate, proxy-revalidate
+accept-ranges: bytes
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.gravatar.com/avatar/06ae3960290d33156ec0f77c9c47b0d6?s=160
+
+GET /avatar/06ae3960290d33156ec0f77c9c47b0d6?s=160 HTTP/1.1
+Host: www.gravatar.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://123link.top/member/dashboard
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+server: nginx
+date: Fri, 13 Oct 2017 12:36:31 GMT
+content-type: image/jpeg
+content-length: 5305
+last-modified: Sat, 02 Jan 2016 02:19:11 GMT
+link: <https://www.gravatar.com/avatar/06ae3960290d33156ec0f77c9c47b0d6?s=160>; rel="canonical"
+access-control-allow-origin: *
+content-disposition: inline; filename="06ae3960290d33156ec0f77c9c47b0d6.jpg"
+x-nc: HIT hkg 4
+accept-ranges: bytes
+expires: Fri, 13 Oct 2017 12:41:31 GMT
+cache-control: max-age=300
+source-age: 74092
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://fonts.gstatic.com/s/notosans/v7/erE3KsIWUumgD1j_Ca-V-xJtnKITppOI_IvcXXDNrsc.woff2
+
+GET /s/notosans/v7/erE3KsIWUumgD1j_Ca-V-xJtnKITppOI_IvcXXDNrsc.woff2 HTTP/1.1
+Host: fonts.gstatic.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: identity
+Referer: https://fonts.googleapis.com/css?family=Noto+Sans&subset=vietnamese
+Origin: https://123link.top
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+accept-ranges: bytes
+content-type: font/woff2
+access-control-allow-origin: *
+timing-allow-origin: *
+content-length: 32276
+date: Wed, 11 Oct 2017 18:46:42 GMT
+expires: Thu, 11 Oct 2018 18:46:42 GMT
+last-modified: Wed, 11 Oct 2017 18:25:40 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=31536000
+age: 150589
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://cdn.onesignal.com/sdks/OneSignalSDK.js
+
+GET /sdks/OneSignalSDK.js HTTP/1.1
+Host: cdn.onesignal.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://123link.top/member/dashboard
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+date: Fri, 13 Oct 2017 12:36:31 GMT
+content-type: application/javascript
+set-cookie: __cfduid=d83aef3f7937dc3df8ce1e491dbdcd5811507898191; expires=Sat, 13-Oct-18 12:36:31 GMT; path=/; domain=.onesignal.com; HttpOnly
+last-modified: Thu, 12 Oct 2017 22:20:45 GMT
+etag: W/"59dfeabd-3f07f"
+cf-cache-status: HIT
+vary: Accept-Encoding
+expires: Mon, 16 Oct 2017 12:36:31 GMT
+cache-control: public, max-age=259200
+server: cloudflare-nginx
+cf-ray: 3ad258515ed6194a-HKG
+content-encoding: gzip
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://fonts.gstatic.com/s/notosans/v7/mTzVK0-EJOCaJiOPeaz-hxJtnKITppOI_IvcXXDNrsc.woff2
+
+GET /s/notosans/v7/mTzVK0-EJOCaJiOPeaz-hxJtnKITppOI_IvcXXDNrsc.woff2 HTTP/1.1
+Host: fonts.gstatic.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: identity
+Referer: https://fonts.googleapis.com/css?family=Noto+Sans&subset=vietnamese
+Origin: https://123link.top
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+accept-ranges: bytes
+content-type: font/woff2
+access-control-allow-origin: *
+timing-allow-origin: *
+content-length: 7384
+date: Wed, 11 Oct 2017 18:46:42 GMT
+expires: Thu, 11 Oct 2018 18:46:42 GMT
+last-modified: Wed, 11 Oct 2017 18:25:36 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=31536000
+age: 150589
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://123link.top/build/fonts/glyphicons-halflings-regular.woff2
+
+GET /build/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1
+Host: 123link.top
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: identity
+Referer: https://123link.top/build/css/dashboard.min.css?ver=4.1.0
+Cookie: AdLinkFly=gpsfjjrhb8mslq5rs23h2uos97; csrfToken=0e7c9491d78c2b64a88b30c1657769f90e75510e6d380972dfec8acb58f8305d97b01eed51e09a5f18f58233badeca9baeb9b0d81ae9afb236704b60feaa7a48; ab=2; _ga=GA1.2.1529546859.1507898122; _gid=GA1.2.1761599416.1507898122
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+date: Fri, 13 Oct 2017 12:35:47 GMT
+content-type: application/octet-stream
+content-length: 18028
+last-modified: Tue, 13 Jun 2017 03:03:48 GMT
+etag: "593f5614-466c"
+server: Nginx
+x-powered-by: 123LINK
+strict-transport-security: max-age=47304000
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+accept-ranges: bytes
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://onesignal.com/api/v1/sync/7268509f-3518-4f15-bce4-994b051be7fa/web?callback=__jp0
+
+GET /api/v1/sync/7268509f-3518-4f15-bce4-994b051be7fa/web?callback=__jp0 HTTP/1.1
+Host: onesignal.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://123link.top/member/dashboard
+Cookie: __cfduid=d83aef3f7937dc3df8ce1e491dbdcd5811507898191
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+date: Fri, 13 Oct 2017 12:36:31 GMT
+content-type: text/javascript; charset=utf-8
+cache-control: public, max-age=7200
+access-control-allow-origin: *
+x-xss-protection: 1; mode=block
+x-request-id: fd8acb55-0081-48cb-a245-69d295b9f1c8
+access-control-allow-headers: SDK-Version
+etag: W/"88c7c40437b109a7d0453808481ea02f"
+x-frame-options: SAMEORIGIN
+x-runtime: 0.066236
+x-content-type-options: nosniff
+x-powered-by: Phusion Passenger 5.1.5
+cf-cache-status: HIT
+vary: Accept-Encoding
+expires: Fri, 13 Oct 2017 14:36:31 GMT
+server: cloudflare-nginx
+cf-ray: 3ad25852ffa6194a-HKG
+content-encoding: gzip
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+http://ocsp.comodoca.com/
+
+POST / HTTP/1.1
+Host: ocsp.comodoca.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Length: 84
+Content-Type: application/ocsp-request
+Connection: keep-alive
+0R0P0N0L0J0	+
+HTTP/1.1 200 OK
+Date: Fri, 13 Oct 2017 12:36:32 GMT
+Server: Apache
+Last-Modified: Fri, 13 Oct 2017 02:30:47 GMT
+Expires: Fri, 20 Oct 2017 02:30:47 GMT
+ETag: 407E48E2EF0D528247809947F580B55669B6F78A
+Cache-Control: max-age=567854,public,no-transform,must-revalidate
+X-OCSP-Reponder-ID: fsedcaocsp2
+Content-Length: 472
+Connection: close
+Content-Type: application/ocsp-response
+----------------------------------------------------------
+http://ocsp.comodoca.com/
+
+POST / HTTP/1.1
+Host: ocsp.comodoca.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Length: 84
+Content-Type: application/ocsp-request
+Connection: keep-alive
+0R0P0N0L0J0	+
+HTTP/1.1 200 OK
+Date: Fri, 13 Oct 2017 12:36:32 GMT
+Server: Apache
+Last-Modified: Fri, 13 Oct 2017 02:30:47 GMT
+Expires: Fri, 20 Oct 2017 02:30:47 GMT
+ETag: 407E48E2EF0D528247809947F580B55669B6F78A
+Cache-Control: max-age=567854,public,no-transform,must-revalidate
+X-OCSP-Reponder-ID: fsedcaocsp7
+Content-Length: 472
+Connection: close
+Content-Type: application/ocsp-response
+----------------------------------------------------------
+https://cdn.rawgit.com/DmitryBaranovskiy/raphael/v2.1.0/raphael-min.js
+
+GET /DmitryBaranovskiy/raphael/v2.1.0/raphael-min.js HTTP/1.1
+Host: cdn.rawgit.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://123link.top/member/dashboard
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+date: Fri, 13 Oct 2017 12:36:32 GMT
+content-type: application/javascript;charset=utf-8
+x-content-type-options: nosniff
+x-robots-tag: none
+access-control-allow-origin: *
+etag: W/"d30dbad858fcbf9b06edb7bff74cb8feecaa8b71"
+cache-control: max-age=315569000, immutable
+vary: Accept-Encoding
+rawgit-cache-status: HIT
+server: NetDNA-cache/2.2
+x-cache: HIT
+content-encoding: gzip
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://cdn.rawgit.com/almasaeed2010/AdminLTE/v2.3.3/plugins/morris/morris.css
+
+GET /almasaeed2010/AdminLTE/v2.3.3/plugins/morris/morris.css HTTP/1.1
+Host: cdn.rawgit.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://123link.top/member/dashboard
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+date: Fri, 13 Oct 2017 12:36:32 GMT
+content-type: text/css;charset=utf-8
+x-content-type-options: nosniff
+x-robots-tag: none
+access-control-allow-origin: *
+etag: W/"ed0b490cbecd03687828cc08a724bbd3c38bdc0b"
+cache-control: max-age=315569000, immutable
+vary: Accept-Encoding
+rawgit-cache-status: HIT
+server: NetDNA-cache/2.2
+x-cache: HIT
+content-encoding: gzip
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+http://ocsp.comodoca.com/
+
+POST / HTTP/1.1
+Host: ocsp.comodoca.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Length: 84
+Content-Type: application/ocsp-request
+Connection: keep-alive
+0R0P0N0L0J0	+
+HTTP/1.1 200 OK
+Date: Fri, 13 Oct 2017 12:36:32 GMT
+Server: Apache
+Last-Modified: Fri, 13 Oct 2017 02:30:47 GMT
+Expires: Fri, 20 Oct 2017 02:30:47 GMT
+ETag: 407E48E2EF0D528247809947F580B55669B6F78A
+Cache-Control: max-age=567854,public,no-transform,must-revalidate
+X-OCSP-Reponder-ID: fsedcaocsp3
+Content-Length: 472
+Connection: close
+Content-Type: application/ocsp-response
+----------------------------------------------------------
+https://cdn.rawgit.com/almasaeed2010/AdminLTE/v2.3.3/plugins/morris/morris.min.js
+
+GET /almasaeed2010/AdminLTE/v2.3.3/plugins/morris/morris.min.js HTTP/1.1
+Host: cdn.rawgit.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://123link.top/member/dashboard
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+date: Fri, 13 Oct 2017 12:36:33 GMT
+content-type: application/javascript;charset=utf-8
+x-content-type-options: nosniff
+x-robots-tag: none
+access-control-allow-origin: *
+etag: W/"c3bda2f9374257c0f0646e5724116ff5e44e2a27"
+cache-control: max-age=315569000, immutable
+vary: Accept-Encoding
+rawgit-cache-status: HIT
+server: NetDNA-cache/2.2
+x-cache: HIT
+content-encoding: gzip
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://onesignal.com/sdks/OneSignalSDKStyles.css?v=f6167d99955e6358ecf2599d34a8514f
+
+GET /sdks/OneSignalSDKStyles.css?v=f6167d99955e6358ecf2599d34a8514f HTTP/1.1
+Host: onesignal.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://123link.top/member/dashboard
+Cookie: __cfduid=d83aef3f7937dc3df8ce1e491dbdcd5811507898191
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+date: Fri, 13 Oct 2017 12:36:33 GMT
+content-type: text/css
+last-modified: Wed, 11 Oct 2017 17:45:25 GMT
+etag: W/"59de58b5-ddcc"
+expires: Fri, 20 Oct 2017 12:36:33 GMT
+cache-control: public, max-age=604800
+cf-cache-status: HIT
+vary: Accept-Encoding
+server: cloudflare-nginx
+cf-ray: 3ad2585ebd49194a-HKG
+content-encoding: gzip
+X-Firefox-Spdy: h2
+----------------------------------------------------------

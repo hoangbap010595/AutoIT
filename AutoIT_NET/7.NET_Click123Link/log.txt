@@ -1,0 +1,125 @@
+====== Header ======HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Connection: keep-alive
+Date: Fri, 13 Oct 2017 13:41:18 GMT
+Pragma: no-cache
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Server: Nginx
+Set-Cookie: AdLinkFly=le844n3rfcq20htvlhajrvvb36; path=/; HttpOnly
+Set-Cookie: csrfToken=c74741396fa789fc483d08e80d4a874faa7242692a200b0f3e8607a98f72d1454d92856a0639e526392f4d0913172e40e7e23976e17e400a7d77e1d56e38c685; path=/
+Vary: Accept-Encoding
+X-Powered-By: 123LINK
+Strict-Transport-Security: max-age=47304000
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+
+====== Cookie ====== AdLinkFly=le844n3rfcq20htvlhajrvvb36;  csrfToken=c74741396fa789fc483d08e80d4a874faa7242692a200b0f3e8607a98f72d1454d92856a0639e526392f4d0913172e40e7e23976e17e400a7d77e1d56e38c685; ====== Token ======c74741396fa789fc483d08e80d4a874faa7242692a200b0f3e8607a98f72d1454d92856a0639e526392f4d0913172e40e7e23976e17e400a7d77e1d56e38c685====== $tokenField ======adcopy_challenge%257Cadcopy_response%257Cg-recaptcha-response====== $tokenUnLock ======adcopy_challenge%257Cadcopy_response%257Cg-recaptcha-response====== $tokenUnLock ======_method=POST&_csrfToken=c74741396fa789fc483d08e80d4a874faa7242692a200b0f3e8607a98f72d1454d92856a0639e526392f4d0913172e40e7e23976e17e400a7d77e1d56e38c685&username=lchoang1995%40gmail.com&password=Hoang911&_Token%5Bfields%5D=cc04d6020c0207395772fadfdaf85b984e5e4a99%3A&_Token%5Bunlocked%5D=adcopy_challenge%257Cadcopy_response%257Cg-recaptcha-response====== $header ======HTTP/1.1 302 Found
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Connection: keep-alive
+Date: Fri, 13 Oct 2017 13:41:19 GMT
+Pragma: no-cache
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Location: https://123link.top/member/dashboard
+Server: Nginx
+Set-Cookie: AdLinkFly=qe8769410kifv981ue9j9r49q7; path=/; HttpOnly
+X-Powered-By: 123LINK
+Strict-Transport-Security: max-age=47304000
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+
+
+*Redirect to: https://123link.top/member/dashboard
+HTTP/1.1 302 Found
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Connection: keep-alive
+Date: Fri, 13 Oct 2017 13:41:20 GMT
+Pragma: no-cache
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Location: https://123link.top/auth/signin
+Server: Nginx
+X-Powered-By: 123LINK
+Strict-Transport-Security: max-age=47304000
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+
+
+*Redirect to: https://123link.top/auth/signin
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Connection: keep-alive
+Date: Fri, 13 Oct 2017 13:41:20 GMT
+Pragma: no-cache
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Server: Nginx
+Vary: Accept-Encoding
+X-Powered-By: 123LINK
+Strict-Transport-Security: max-age=47304000
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+
+====== $cookieFinal ====== AdLinkFly=qe8769410kifv981ue9j9r49q7; ====== $header ======HTTP/1.1 302 Found
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Connection: keep-alive
+Date: Fri, 13 Oct 2017 13:41:21 GMT
+Pragma: no-cache
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Location: https://123link.top/member/dashboard
+Server: Nginx
+Set-Cookie: AdLinkFly=rhkteafgrdft1tu5ad5tqek4o7; path=/; HttpOnly
+X-Powered-By: 123LINK
+Strict-Transport-Security: max-age=47304000
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+
+
+*Redirect to: https://123link.top/member/dashboard
+HTTP/1.1 302 Found
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Connection: keep-alive
+Date: Fri, 13 Oct 2017 13:41:21 GMT
+Pragma: no-cache
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Location: https://123link.top/auth/signin
+Server: Nginx
+X-Powered-By: 123LINK
+Strict-Transport-Security: max-age=47304000
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+
+
+*Redirect to: https://123link.top/auth/signin
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Connection: keep-alive
+Date: Fri, 13 Oct 2017 13:41:21 GMT
+Pragma: no-cache
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Server: Nginx
+Vary: Accept-Encoding
+X-Powered-By: 123LINK
+Strict-Transport-Security: max-age=47304000
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+
+

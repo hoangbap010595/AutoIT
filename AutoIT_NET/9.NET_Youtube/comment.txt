@@ -1,0 +1,1200 @@
+https://i.ytimg.com/vi/uTjRxW1ugk0/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD5Qbd1VDn1ruc07D_51y6EEtuIUQ
+
+GET /vi/uTjRxW1ugk0/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD5Qbd1VDn1ruc07D_51y6EEtuIUQ HTTP/1.1
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+accept-ranges: bytes
+content-type: image/jpeg
+content-length: 6604
+date: Sun, 15 Oct 2017 08:26:22 GMT
+expires: Sun, 15 Oct 2017 10:26:22 GMT
+etag: "1504355422"
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=7200
+age: 1177
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://yt3.ggpht.com/-wvDN-OBhsWA/AAAAAAAAAAI/AAAAAAAAAAA/k684MeQCaLc/s88-c-k-no-mo-rj-c0xffffff/photo.jpg
+
+GET /-wvDN-OBhsWA/AAAAAAAAAAI/AAAAAAAAAAA/k684MeQCaLc/s88-c-k-no-mo-rj-c0xffffff/photo.jpg HTTP/1.1
+Host: yt3.ggpht.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-expose-headers: Content-Length
+etag: "v11"
+expires: Mon, 16 Oct 2017 07:20:45 GMT
+content-disposition: inline;filename=""
+content-type: image/jpeg
+vary: Origin
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Sun, 15 Oct 2017 08:20:46 GMT
+server: fife
+content-length: 5881
+x-xss-protection: 1; mode=block
+age: 1513
+cache-control: public, max-age=86400, no-transform
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.googleadservices.com/pagead/conversion/971134070/?backend=innertube&cname=1&cver=2_20171011&data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D2_20171011%3Bdactive%3D0%3Bdynx_itemid%3D_jxUp3dVqtI%3Bptype%3Dppv&ptype=ppv&remarketing_only=1
+
+GET /pagead/conversion/971134070/?backend=innertube&cname=1&cver=2_20171011&data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D2_20171011%3Bdactive%3D0%3Bdynx_itemid%3D_jxUp3dVqtI%3Bptype%3Dppv&ptype=ppv&remarketing_only=1 HTTP/1.1
+Host: www.googleadservices.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 302 Found
+p3p: policyref="https://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC"
+timing-allow-origin: *
+date: Sun, 15 Oct 2017 08:45:59 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+content-type: image/gif
+location: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/971134070/?backend=innertube&cname=1&cver=2_20171011&data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D2_20171011%3Bdactive%3D0%3Bdynx_itemid%3D_jxUp3dVqtI%3Bptype%3Dppv&ptype=ppv&remarketing_only=1&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&ocp_id=RyDjWejaAobK2ASjybGQBQ&random=278313770
+x-content-type-options: nosniff
+server: cafe
+content-length: 42
+x-xss-protection: 1; mode=block
+alt-svc: quic="googleads.g.doubleclick.net:443"; ma=2592000; v="39,38,37,35",quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.youtube.com/ptracking?html5=1&video_id=_jxUp3dVqtI&cpn=Yf01F167bd-hPkRO&plid=AAVbkestNT4KyGFa&ei=RSDjWcOdCtXnqAHM6ZGABA&ptk=youtube_single&oid=q7RbHTKwz-U_SaOJoH9I6Q&ptchn=qgMjBoXPefkwxqTsumIaoA&pltype=content
+
+GET /ptracking?html5=1&video_id=_jxUp3dVqtI&cpn=Yf01F167bd-hPkRO&plid=AAVbkestNT4KyGFa&ei=RSDjWcOdCtXnqAHM6ZGABA&ptk=youtube_single&oid=q7RbHTKwz-U_SaOJoH9I6Q&ptchn=qgMjBoXPefkwxqTsumIaoA&pltype=content HTTP/1.1
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=_jxUp3dVqtI
+Cookie: YSC=_Ppt3TEIti0; PREF=f1=50000000&al=vi; VISITOR_INFO1_LIVE=XHW90m1KR4c; SID=SQXA8SH9Zs7focfc1YKTn06fNcG3ChzTELQLx-O-SavURova7Nf8N6YSw2b2qcZqs9JWPw.; HSID=ASPOuAg63hx5kcRx1; SSID=A4k42aY4dEoQx1gGc; APISID=EAhXUnwcU5H7yGgb/AnnjdGCwPCnL9GCHO; SAPISID=IzkUSPrnBUsqGLd1/AY7_lGARS6YFeII2J; LOGIN_INFO=AIC5s2EwRQIhAPegk_sMK5Q_LZi2r71NTMJSyXwDURw9dy6BYOoqQXX8AiA-bmO61WcW1aXNtIGbEHjyn8saVfiOvmeMcPODHo5DCA:QU9YbHQ1N0dMRjN4NXk2X3FCX2R6elhEQmNvMVdjRi10X1dKM0JpTWFSLWwwcVVrVF91NkNEeG1RczduaklmMWxxRUFhVVpzZGVxN2t3VXR1bTBaclpCdHR5N3Q3X1NsRzFZdzZxRXlzbXVwN21QdUlaZXlTYl96QWJjbl9OLV8weVVVV202YkozMEpHOUpVb3h6akdtc19UcVB1ZVRFcHdRQW4zLWk5Q2pwX0hVb0RydjJVcGI0
+Connection: keep-alive
+
+HTTP/2.0 204 No Content
+content-length: 0
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000
+content-type: video/x-flv
+cache-control: no-cache
+x-xss-protection: 1; mode=block; report=https://www.google.com/appserve/security-bugs/log/youtube
+expires: Tue, 27 Apr 1971 19:44:06 EST
+x-frame-options: SAMEORIGIN
+date: Sun, 15 Oct 2017 08:45:58 GMT
+server: YouTube Frontend Proxy
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://googleads.g.doubleclick.net/pagead/lopri?ad_block=3&ad_type=text&adk=511001906&channel=PyvWatchInRelated%2BPyvWatchNoAdX%2BPyvYTWatch%2BYtLoPri%2Bafv_user_id_qgMjBoXPefkwxqTsumIaoA%2Bnon_lpw%2Bpw%2Byt_cid_51389791%2Byt_mpvid_KVaay3ERhFli29hn%2Byt_no_ap%2Bytdevice_1%2Bytdevicever_2.20171011&client=ca-pub-6219811747049371&correlator=1508057157526&cust_age=1001&cust_gender=1&dbp=ChY3NE9yMUJZU2tYaVN1RUtLaEJkVlp3EAEgASgA&ea=0&eae=2&eid=168191507&hl=vi&host=ca-host-pub-4307423355897729&ht_id=21923080&isw=0&ish=0&lact=-1&loc=EMPTY&loeid=9422596,9457114,9471239,9483688,9488991,23702700,23704258,23705778&num_ads=1&output=js&pucrd=CggIABAAGAM4AQ&pyv=1&top=https%3A//www.youtube.com/watch%3Fv%3D_jxUp3dVqtI%26app%3Ddesktop&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2F_jxUp3dVqtI&video_doc_id=yt__jxUp3dVqtI&ytdevicever=ytdevicever_2.20171011&yt_pt=APb3F29rqfwjF4CUKy9e3VoJlBqHk39PCu8LoX3NDy4vex0OXtlcd-8fqwW1LhK0FK_SY-hKbCwz8W1FzKNP7qBAQ_Z_8ZGdDFUYKNv_gKLlZHHM8KMhyVnptOn77BiKwRTcOaxiRPCsph4crUTzPJaPwB-Fqc3G6MJbUE6NEQSdJADffT9qMsS2gEF5aZWbm4Qr97fezumJ7M8wpFkd_-0rjadKUYUUI-B_hx7rL10eRK2DRFjtWcY8rqlq_R41ymoC9LSGd8Mp0uhhvZR2X04XGRwOm9vegiUilVasdd03vQvpEgPVDVb-2O21-jqHvftc4MvCnvRLd1Z__B5QvVzwCQcF6xdZNWyO7G0lKyqO05JWph-kkJmV9CKK5yA&dt=1508056557112&flash=0&frm=0&u_tz=420&u_his=7&u_java=false&u_h=900&u_w=1600&u_ah=860&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&bc=1&bih=767&biw=1583&brdim=%2C%2C-8%2C-8%2C1600%2C0%2C1616%2C876%2C1600%2C767&vis=1&wgl=true&dff=times%20new%20roman&dfs=16&ppjl=u&rsz=%7C%7Cn%7C&dssz=33&icsg=67108863&mdo=0&mso=0&lact=758
+
+GET /pagead/lopri?ad_block=3&ad_type=text&adk=511001906&channel=PyvWatchInRelated%2BPyvWatchNoAdX%2BPyvYTWatch%2BYtLoPri%2Bafv_user_id_qgMjBoXPefkwxqTsumIaoA%2Bnon_lpw%2Bpw%2Byt_cid_51389791%2Byt_mpvid_KVaay3ERhFli29hn%2Byt_no_ap%2Bytdevice_1%2Bytdevicever_2.20171011&client=ca-pub-6219811747049371&correlator=1508057157526&cust_age=1001&cust_gender=1&dbp=ChY3NE9yMUJZU2tYaVN1RUtLaEJkVlp3EAEgASgA&ea=0&eae=2&eid=168191507&hl=vi&host=ca-host-pub-4307423355897729&ht_id=21923080&isw=0&ish=0&lact=-1&loc=EMPTY&loeid=9422596,9457114,9471239,9483688,9488991,23702700,23704258,23705778&num_ads=1&output=js&pucrd=CggIABAAGAM4AQ&pyv=1&top=https%3A//www.youtube.com/watch%3Fv%3D_jxUp3dVqtI%26app%3Ddesktop&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2F_jxUp3dVqtI&video_doc_id=yt__jxUp3dVqtI&ytdevicever=ytdevicever_2.20171011&yt_pt=APb3F29rqfwjF4CUKy9e3VoJlBqHk39PCu8LoX3NDy4vex0OXtlcd-8fqwW1LhK0FK_SY-hKbCwz8W1FzKNP7qBAQ_Z_8ZGdDFUYKNv_gKLlZHHM8KMhyVnptOn77BiKwRTcOaxiRPCsph4crUTzPJaPwB-Fqc3G6MJbUE6NEQSdJADffT9qMsS2gEF5aZWbm4Qr97fezumJ7M8wpFkd_-0rjadKUYUUI-B_hx7rL10eRK2DRFjtWcY8rqlq_R41ymoC9LSGd8Mp0uhhvZR2X04XGRwOm9vegiUilVasdd03vQvpEgPVDVb-2O21-jqHvftc4MvCnvRLd1Z__B5QvVzwCQcF6xdZNWyO7G0lKyqO05JWph-kkJmV9CKK5yA&dt=1508056557112&flash=0&frm=0&u_tz=420&u_his=7&u_java=false&u_h=900&u_w=1600&u_ah=860&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&bc=1&bih=767&biw=1583&brdim=%2C%2C-8%2C-8%2C1600%2C0%2C1616%2C876%2C1600%2C767&vis=1&wgl=true&dff=times%20new%20roman&dfs=16&ppjl=u&rsz=%7C%7Cn%7C&dssz=33&icsg=67108863&mdo=0&mso=0&lact=758 HTTP/1.1
+Host: googleads.g.doubleclick.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Origin: https://www.youtube.com
+Cookie: IDE=AHWqTUnGkiXXZJhJQq5P1SM8wdYxD58ypXu9XajEfj2prAiY50-9tcb1Jrba8ECZ
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+timing-allow-origin: *
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.youtube.com
+content-type: text/javascript; charset=UTF-8
+x-content-type-options: nosniff
+content-disposition: attachment; filename="f.txt"
+content-encoding: br
+date: Sun, 15 Oct 2017 08:45:59 GMT
+server: cafe
+content-length: 337
+x-xss-protection: 1; mode=block
+alt-svc: quic="googleads.g.doubleclick.net:443"; ma=2592000; v="39,38,37,35",quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://r3---sn-q4fl6n7y.googlevideo.com/videogoodput?id=o-ABDLtQ9Dtj25qTAWOG5oz8Zx7id9G0OwPoo-0CZm3BVj&source=goodput&range=0-4999&expire=1508060757&ip=27.78.182.196&ms=pm&mm=35&pl=24&nh=IgpwcjA5LmRmdzA2KgkxMjcuMC4wLjE&sparams=id,source,range,expire,ip,ms,mm,pl,nh&signature=718FE0EC276BFBC0D673BC842B2544648049984B.05B8FC96C6F69D24D41D61670F359B4C34727E25&key=cms1&cpn=Yf01F167bd-hPkRO
+
+GET /videogoodput?id=o-ABDLtQ9Dtj25qTAWOG5oz8Zx7id9G0OwPoo-0CZm3BVj&source=goodput&range=0-4999&expire=1508060757&ip=27.78.182.196&ms=pm&mm=35&pl=24&nh=IgpwcjA5LmRmdzA2KgkxMjcuMC4wLjE&sparams=id,source,range,expire,ip,ms,mm,pl,nh&signature=718FE0EC276BFBC0D673BC842B2544648049984B.05B8FC96C6F69D24D41D61670F359B4C34727E25&key=cms1&cpn=Yf01F167bd-hPkRO HTTP/1.1
+Host: r3---sn-q4fl6n7y.googlevideo.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Origin: https://www.youtube.com
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Last-Modified: Sun, 15 Oct 2017 08:45:59 GMT
+Date: Sun, 15 Oct 2017 08:45:59 GMT
+Expires: Sun, 15 Oct 2017 08:45:59 GMT
+Cache-Control: private, max-age=3298
+Content-Type: application/octet-stream
+Accept-Ranges: bytes
+Content-Length: 5000
+Connection: close
+Alt-Svc: quic=":443"; ma=2592000
+Access-Control-Allow-Origin: https://www.youtube.com
+Access-Control-Allow-Credentials: true
+Timing-Allow-Origin: https://www.youtube.com
+Access-Control-Expose-Headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+X-Content-Type-Options: nosniff
+Server: gvs 1.0
+----------------------------------------------------------
+https://googleads.g.doubleclick.net/pagead/viewthroughconversion/971134070/?backend=innertube&cname=1&cver=2_20171011&data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D2_20171011%3Bdactive%3D0%3Bdynx_itemid%3D_jxUp3dVqtI%3Bptype%3Dppv&ptype=ppv&remarketing_only=1&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&ocp_id=RyDjWejaAobK2ASjybGQBQ&random=278313770
+
+GET /pagead/viewthroughconversion/971134070/?backend=innertube&cname=1&cver=2_20171011&data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D2_20171011%3Bdactive%3D0%3Bdynx_itemid%3D_jxUp3dVqtI%3Bptype%3Dppv&ptype=ppv&remarketing_only=1&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&ocp_id=RyDjWejaAobK2ASjybGQBQ&random=278313770 HTTP/1.1
+Host: googleads.g.doubleclick.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Cookie: IDE=AHWqTUnGkiXXZJhJQq5P1SM8wdYxD58ypXu9XajEfj2prAiY50-9tcb1Jrba8ECZ
+Connection: keep-alive
+
+HTTP/2.0 302 Found
+p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+timing-allow-origin: *
+date: Sun, 15 Oct 2017 08:45:59 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+location: https://www.google.com/ads/conversion/971134070/?backend=innertube&cname=1&cver=2_20171011&data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D2_20171011%3Bdactive%3D0%3Bdynx_itemid%3D_jxUp3dVqtI%3Bptype%3Dppv&ptype=ppv&remarketing_only=1&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&random=278313770&cdct=1&is_vtc=1&ocp_id=RyDjWejaAobK2ASjybGQBQ&random=1090248926
+content-type: image/gif
+x-content-type-options: nosniff
+server: cafe
+content-length: 42
+x-xss-protection: 1; mode=block
+alt-svc: quic="googleads.g.doubleclick.net:443"; ma=2592000; v="39,38,37,35",quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://i.ytimg.com/vi/ECpb5mnyI1g/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCjj0z1NJAZfYsezatFEKK2hxt6Mg
+
+GET /vi/ECpb5mnyI1g/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCjj0z1NJAZfYsezatFEKK2hxt6Mg HTTP/1.1
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+accept-ranges: bytes
+content-type: image/jpeg
+content-length: 7656
+date: Sun, 15 Oct 2017 08:27:00 GMT
+expires: Sun, 15 Oct 2017 10:27:00 GMT
+etag: "1427448244"
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=7200
+age: 1139
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://i.ytimg.com/vi/vx9kUZz2LrU/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDC_dby57ftTNPTv95WjXvJM3xliQ
+
+GET /vi/vx9kUZz2LrU/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDC_dby57ftTNPTv95WjXvJM3xliQ HTTP/1.1
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+accept-ranges: bytes
+content-type: image/jpeg
+content-length: 6421
+date: Sun, 15 Oct 2017 08:38:13 GMT
+expires: Sun, 15 Oct 2017 10:38:13 GMT
+etag: "1504777501"
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=7200
+age: 466
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://i.ytimg.com/vi/vljsNro7xJA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLC4BKPan0N2OMu8ZVq-ttjVc7LE6g
+
+GET /vi/vljsNro7xJA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLC4BKPan0N2OMu8ZVq-ttjVc7LE6g HTTP/1.1
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+accept-ranges: bytes
+content-type: image/jpeg
+content-length: 10052
+date: Sun, 15 Oct 2017 08:41:48 GMT
+expires: Sun, 15 Oct 2017 10:41:48 GMT
+etag: "1506962154"
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=7200
+age: 251
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://i.ytimg.com/vi/3KpZppWK53o/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDB43fVBcwfGSEMRWproeKUdkd_Fw
+
+GET /vi/3KpZppWK53o/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDB43fVBcwfGSEMRWproeKUdkd_Fw HTTP/1.1
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+accept-ranges: bytes
+content-type: image/jpeg
+content-length: 6295
+date: Sun, 15 Oct 2017 08:28:39 GMT
+expires: Sun, 15 Oct 2017 10:28:39 GMT
+etag: "1506210448"
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=7200
+age: 1040
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://i.ytimg.com/vi/8unt0iy69kI/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDUudnVEgb4KhhoI8jZGtRfd4yE2w
+
+GET /vi/8unt0iy69kI/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDUudnVEgb4KhhoI8jZGtRfd4yE2w HTTP/1.1
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+accept-ranges: bytes
+content-type: image/jpeg
+content-length: 5723
+date: Sun, 15 Oct 2017 07:19:23 GMT
+expires: Sun, 15 Oct 2017 09:19:23 GMT
+etag: "1479299108"
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+age: 5196
+cache-control: public, max-age=7200
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://i.ytimg.com/vi/CgP7TotTEFQ/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAwJl9LrEyX4D6tOb-iqaFaujqW4g
+
+GET /vi/CgP7TotTEFQ/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAwJl9LrEyX4D6tOb-iqaFaujqW4g HTTP/1.1
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+accept-ranges: bytes
+content-type: image/jpeg
+content-length: 7705
+date: Sun, 15 Oct 2017 08:33:39 GMT
+expires: Sun, 15 Oct 2017 10:33:39 GMT
+etag: "1505179846"
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=7200
+age: 740
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://i.ytimg.com/vi/64RupiCbaHE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCVaHaFJIdemmZDii4vGVEK3ba_7A
+
+GET /vi/64RupiCbaHE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCVaHaFJIdemmZDii4vGVEK3ba_7A HTTP/1.1
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+accept-ranges: bytes
+content-type: image/jpeg
+content-length: 8016
+date: Sun, 15 Oct 2017 08:39:07 GMT
+expires: Sun, 15 Oct 2017 10:39:07 GMT
+etag: "1506192176"
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=7200
+age: 412
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://i.ytimg.com/vi/vkqjWg-P1Bc/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD54qakh0fV2lzYapxcnLleBXXpTw
+
+GET /vi/vkqjWg-P1Bc/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD54qakh0fV2lzYapxcnLleBXXpTw HTTP/1.1
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+accept-ranges: bytes
+content-type: image/jpeg
+content-length: 5386
+date: Sun, 15 Oct 2017 08:24:58 GMT
+expires: Sun, 15 Oct 2017 10:24:58 GMT
+etag: "1503429426"
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=7200
+age: 1261
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.google.com/ads/conversion/971134070/?backend=innertube&cname=1&cver=2_20171011&data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D2_20171011%3Bdactive%3D0%3Bdynx_itemid%3D_jxUp3dVqtI%3Bptype%3Dppv&ptype=ppv&remarketing_only=1&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&random=278313770&cdct=1&is_vtc=1&ocp_id=RyDjWejaAobK2ASjybGQBQ&random=1090248926
+
+GET /ads/conversion/971134070/?backend=innertube&cname=1&cver=2_20171011&data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D2_20171011%3Bdactive%3D0%3Bdynx_itemid%3D_jxUp3dVqtI%3Bptype%3Dppv&ptype=ppv&remarketing_only=1&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&random=278313770&cdct=1&is_vtc=1&ocp_id=RyDjWejaAobK2ASjybGQBQ&random=1090248926 HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Cookie: SID=SQXA8SH9Zs7focfc1YKTn06fNcG3ChzTELQLx-O-SavURova7Nf8N6YSw2b2qcZqs9JWPw.; HSID=AEoa8A103Am6XNi7D; SSID=AhvWPYGcoUBSOP_TH; APISID=EAhXUnwcU5H7yGgb/AnnjdGCwPCnL9GCHO; SAPISID=IzkUSPrnBUsqGLd1/AY7_lGARS6YFeII2J; NID=114=SQPfnAMlXMa1sRltveSnZkH305HBTzQ5rnx8DSY12OI6P7J8zrHr0cTrc60lKhkSrwJRwIbGw5w_Kuu_J65HoLAlJ9N1lAmawau6cFBjfcGKnv8-WRzdaqc6vG74cSRK6mfpJTMuSrXvWHmc9xayQJfVH5q2Wg; SIDCC=AE4kn7_MlXi5ujW2Y_ptDv0Pi_4H9UV1s1zj2zSIuexQOyIhC-XTIpqDuk9G8Hi_moudczKw_le1uUvSZ8E
+Connection: keep-alive
+
+HTTP/2.0 302 Found
+location: https://www.google.com.vn/ads/conversion/971134070/?backend=innertube&cname=1&cver=2_20171011&data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D2_20171011%3Bdactive%3D0%3Bdynx_itemid%3D_jxUp3dVqtI%3Bptype%3Dppv&ptype=ppv&remarketing_only=1&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&random=278313770&cdct=1&is_vtc=1&ocp_id=RyDjWejaAobK2ASjybGQBQ&random=1090248926&ipr=y&ulfeg=y
+cache-control: private, max-age=43200
+date: Sun, 15 Oct 2017 08:45:59 GMT
+expires: Sun, 15 Oct 2017 08:45:59 GMT
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+server: adclick_server
+content-length: 631
+x-xss-protection: 1; mode=block
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.youtube.com/csi_204?v=2&s=youtube&action=watch&yt_lt=warm&yt_sts=n&st=757&yt_ad=1&yt_ad_an=dclk&yt_ad_pr=1&GetPlayer_rid=0x036a50b3b58f0d3f&c=WEB&cver=2.20171011&yt_li=1&GetWatchNext_rid=0x036a50b3b58f0d3f&docid=_jxUp3dVqtI&ei=RSDjWcOdCtXnqAHM6ZGABA&cpn=Yf01F167bd-hPkRO&fmt=135&cmt=0.022&ad_allowed=1_2_1&yt_pvis=1&yt_pt=html5&is_nav=1&csn=RSDjWcOdCtXnqAHM6ZGABA&pa=watch&p=h2&t=tcp&ba=1&yt_vis=1&psc=2&ncnp=8&rt=cmc.10,nc0.464,np0.509,nc1.509,bc.509,np1.510,nc2.816,cfg.816,np2.818,qoes.835,vta.992,pbr.993,nc3.1087,nc4.1087,np3.1088,srt.455,pdc.1089,nd.1093,gv.856,l2s.1250,fvb.1204,plev.1330,vfp.1428,msa.1099,vda.1230,ada.1236,vri.1165,vdns.1165,vreq.1199,vrc.1219,ari.1166,adns.1166,areq.1200,avb.1206,arc.1219,pbs.1412,np4.1440,lps.1441,pdl.1470,pda.1664,bcp.1669,cmi.1670,cpt.1690,vpl.2783,aft.1412,ps.2803
+
+GET /csi_204?v=2&s=youtube&action=watch&yt_lt=warm&yt_sts=n&st=757&yt_ad=1&yt_ad_an=dclk&yt_ad_pr=1&GetPlayer_rid=0x036a50b3b58f0d3f&c=WEB&cver=2.20171011&yt_li=1&GetWatchNext_rid=0x036a50b3b58f0d3f&docid=_jxUp3dVqtI&ei=RSDjWcOdCtXnqAHM6ZGABA&cpn=Yf01F167bd-hPkRO&fmt=135&cmt=0.022&ad_allowed=1_2_1&yt_pvis=1&yt_pt=html5&is_nav=1&csn=RSDjWcOdCtXnqAHM6ZGABA&pa=watch&p=h2&t=tcp&ba=1&yt_vis=1&psc=2&ncnp=8&rt=cmc.10,nc0.464,np0.509,nc1.509,bc.509,np1.510,nc2.816,cfg.816,np2.818,qoes.835,vta.992,pbr.993,nc3.1087,nc4.1087,np3.1088,srt.455,pdc.1089,nd.1093,gv.856,l2s.1250,fvb.1204,plev.1330,vfp.1428,msa.1099,vda.1230,ada.1236,vri.1165,vdns.1165,vreq.1199,vrc.1219,ari.1166,adns.1166,areq.1200,avb.1206,arc.1219,pbs.1412,np4.1440,lps.1441,pdl.1470,pda.1664,bcp.1669,cmi.1670,cpt.1690,vpl.2783,aft.1412,ps.2803 HTTP/1.1
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=_jxUp3dVqtI
+Cookie: YSC=_Ppt3TEIti0; PREF=f1=50000000&al=vi; VISITOR_INFO1_LIVE=XHW90m1KR4c; SID=SQXA8SH9Zs7focfc1YKTn06fNcG3ChzTELQLx-O-SavURova7Nf8N6YSw2b2qcZqs9JWPw.; HSID=ASPOuAg63hx5kcRx1; SSID=A4k42aY4dEoQx1gGc; APISID=EAhXUnwcU5H7yGgb/AnnjdGCwPCnL9GCHO; SAPISID=IzkUSPrnBUsqGLd1/AY7_lGARS6YFeII2J; LOGIN_INFO=AIC5s2EwRQIhAPegk_sMK5Q_LZi2r71NTMJSyXwDURw9dy6BYOoqQXX8AiA-bmO61WcW1aXNtIGbEHjyn8saVfiOvmeMcPODHo5DCA:QU9YbHQ1N0dMRjN4NXk2X3FCX2R6elhEQmNvMVdjRi10X1dKM0JpTWFSLWwwcVVrVF91NkNEeG1RczduaklmMWxxRUFhVVpzZGVxN2t3VXR1bTBaclpCdHR5N3Q3X1NsRzFZdzZxRXlzbXVwN21QdUlaZXlTYl96QWJjbl9OLV8weVVVV202YkozMEpHOUpVb3h6akdtc19UcVB1ZVRFcHdRQW4zLWk5Q2pwX0hVb0RydjJVcGI0
+Connection: keep-alive
+
+HTTP/2.0 204 No Content
+x-content-type-options: nosniff
+content-length: 0
+x-frame-options: SAMEORIGIN
+expires: Tue, 27 Apr 1971 19:44:06 EST
+cache-control: no-cache
+content-type: text/html; charset=utf-8
+strict-transport-security: max-age=31536000
+x-xss-protection: 1; mode=block; report=https://www.google.com/appserve/security-bugs/log/youtube
+date: Sun, 15 Oct 2017 08:45:59 GMT
+server: YouTube Frontend Proxy
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.google.com.vn/ads/conversion/971134070/?backend=innertube&cname=1&cver=2_20171011&data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D2_20171011%3Bdactive%3D0%3Bdynx_itemid%3D_jxUp3dVqtI%3Bptype%3Dppv&ptype=ppv&remarketing_only=1&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&random=278313770&cdct=1&is_vtc=1&ocp_id=RyDjWejaAobK2ASjybGQBQ&random=1090248926&ipr=y&ulfeg=y
+
+GET /ads/conversion/971134070/?backend=innertube&cname=1&cver=2_20171011&data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D2_20171011%3Bdactive%3D0%3Bdynx_itemid%3D_jxUp3dVqtI%3Bptype%3Dppv&ptype=ppv&remarketing_only=1&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&random=278313770&cdct=1&is_vtc=1&ocp_id=RyDjWejaAobK2ASjybGQBQ&random=1090248926&ipr=y&ulfeg=y HTTP/1.1
+Host: www.google.com.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Cookie: SID=SQXA8SH9Zs7focfc1YKTn06fNcG3ChzTELQLx-O-SavURova7Nf8N6YSw2b2qcZqs9JWPw.; HSID=ASPOuAg63hx5kcRx1; SSID=A4k42aY4dEoQx1gGc; APISID=EAhXUnwcU5H7yGgb/AnnjdGCwPCnL9GCHO; SAPISID=IzkUSPrnBUsqGLd1/AY7_lGARS6YFeII2J; NID=114=eu4GR70-rxsBGOS-7pdy5RipkxnXZ-_n_QBWxfUYcWqNKp-DOhfjzIqet2tzZhtw3urcBuV-gyBVfsHLtKwz0G6qgQK0pLseorSjY3E-_lF8Banbp1y5v3EmBmZEk2Qd
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+content-type: image/gif
+date: Sun, 15 Oct 2017 08:46:00 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, no-store, must-revalidate
+x-content-type-options: nosniff
+server: adclick_server
+content-length: 42
+x-xss-protection: 1; mode=block
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://r7---sn-8pxuuxa-nbole.googlevideo.com/videoplayback?lmt=1505459092003798&signature=654ED7B76A35B855D7044737C70E23B4544AF4D3.59732F0C52B1A33BD412560ADE24EE7F519CB118&mime=audio%2Fwebm&key=yt6&itag=251&ipbits=0&mm=31&dur=483.241&mt=1508057087&mv=m&ms=au&clen=6881472&source=youtube&mn=sn-8pxuuxa-nbole&id=o-AJKTL86ROwSHJIjLNtIu8U8DybxB8gpU-tBM_OOY1mDg&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Crequiressl%2Csource%2Cexpire&initcwndbps=666250&ip=27.78.182.196&ei=RSDjWcOdCtXnqAHM6ZGABA&pl=20&keepalive=yes&requiressl=yes&gir=yes&expire=1508078757&alr=yes&ratebypass=yes&cpn=Yf01F167bd-hPkRO&c=WEB&cver=2.20171011&range=282372-566281&rn=22&rbuf=17202
+
+GET /videoplayback?lmt=1505459092003798&signature=654ED7B76A35B855D7044737C70E23B4544AF4D3.59732F0C52B1A33BD412560ADE24EE7F519CB118&mime=audio%2Fwebm&key=yt6&itag=251&ipbits=0&mm=31&dur=483.241&mt=1508057087&mv=m&ms=au&clen=6881472&source=youtube&mn=sn-8pxuuxa-nbole&id=o-AJKTL86ROwSHJIjLNtIu8U8DybxB8gpU-tBM_OOY1mDg&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Crequiressl%2Csource%2Cexpire&initcwndbps=666250&ip=27.78.182.196&ei=RSDjWcOdCtXnqAHM6ZGABA&pl=20&keepalive=yes&requiressl=yes&gir=yes&expire=1508078757&alr=yes&ratebypass=yes&cpn=Yf01F167bd-hPkRO&c=WEB&cver=2.20171011&range=282372-566281&rn=22&rbuf=17202 HTTP/1.1
+Host: r7---sn-8pxuuxa-nbole.googlevideo.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Origin: https://www.youtube.com
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Last-Modified: Fri, 15 Sep 2017 07:04:52 GMT
+Content-Type: audio/webm
+Date: Sun, 15 Oct 2017 08:46:00 GMT
+Expires: Sun, 15 Oct 2017 08:46:00 GMT
+Cache-Control: private, max-age=21297
+Accept-Ranges: bytes
+Content-Length: 283910
+Connection: keep-alive
+Alt-Svc: quic=":443"; ma=2592000
+Access-Control-Allow-Origin: https://www.youtube.com
+Access-Control-Allow-Credentials: true
+Timing-Allow-Origin: https://www.youtube.com
+Access-Control-Expose-Headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+X-Content-Type-Options: nosniff
+Server: gvs 1.0
+----------------------------------------------------------
+https://i9.ytimg.com/sb/_jxUp3dVqtI/storyboard3_L1/M0.jpg?sigh=rs%24AOn4CLDAsTtJkanEgdilmC_yJ08vy27ZLA
+
+GET /sb/_jxUp3dVqtI/storyboard3_L1/M0.jpg?sigh=rs%24AOn4CLDAsTtJkanEgdilmC_yJ08vy27ZLA HTTP/1.1
+Host: i9.ytimg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+accept-ranges: bytes
+content-type: image/jpeg
+access-control-allow-origin: https://www.youtube.com
+content-length: 93169
+date: Sun, 15 Oct 2017 08:46:00 GMT
+expires: Sun, 15 Oct 2017 14:46:00 GMT
+cache-control: public, max-age=21600
+etag: "1502852216029349"
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://i.ytimg.com/vi/RolR7nOzYGE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCfoQCJgPQCyYsY3PUjmRI0KM_Q0w
+
+GET /vi/RolR7nOzYGE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCfoQCJgPQCyYsY3PUjmRI0KM_Q0w HTTP/1.1
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+accept-ranges: bytes
+content-type: image/jpeg
+content-length: 6976
+date: Sun, 15 Oct 2017 07:32:03 GMT
+expires: Sun, 15 Oct 2017 09:32:03 GMT
+etag: "1490712852"
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=7200
+age: 4438
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.youtube.com/api/stats/watchtime?ns=yt&el=detailpage&cpn=Yf01F167bd-hPkRO&docid=_jxUp3dVqtI&ver=2&referrer=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkkUbpC60bY4&cmt=2.459&plid=AAVbkestNT4KyGFa&ei=RSDjWcOdCtXnqAHM6ZGABA&fmt=135&fs=0&rt=3.059&of=74Or1BYSkXiSuEKKhBdVZw&euri&lact=748&cl=171846192&state=playing&vm=CAEQARgE&volume=100&c=WEB&cver=2.20171011&cplayer=UNIPLAYER&cbr=Firefox&cbrver=56.0&cos=Windows&cosver=10.0&hl=vi_VN&cr=VN&uga=m22&len=483.241&rtn=13&feature=related&afmt=251&idpj=-8&ldpj=-33&rti=3&muted=0&st=0&et=2.459
+
+GET /api/stats/watchtime?ns=yt&el=detailpage&cpn=Yf01F167bd-hPkRO&docid=_jxUp3dVqtI&ver=2&referrer=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkkUbpC60bY4&cmt=2.459&plid=AAVbkestNT4KyGFa&ei=RSDjWcOdCtXnqAHM6ZGABA&fmt=135&fs=0&rt=3.059&of=74Or1BYSkXiSuEKKhBdVZw&euri&lact=748&cl=171846192&state=playing&vm=CAEQARgE&volume=100&c=WEB&cver=2.20171011&cplayer=UNIPLAYER&cbr=Firefox&cbrver=56.0&cos=Windows&cosver=10.0&hl=vi_VN&cr=VN&uga=m22&len=483.241&rtn=13&feature=related&afmt=251&idpj=-8&ldpj=-33&rti=3&muted=0&st=0&et=2.459 HTTP/1.1
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=_jxUp3dVqtI
+Cookie: YSC=_Ppt3TEIti0; PREF=f1=50000000&al=vi; VISITOR_INFO1_LIVE=XHW90m1KR4c; SID=SQXA8SH9Zs7focfc1YKTn06fNcG3ChzTELQLx-O-SavURova7Nf8N6YSw2b2qcZqs9JWPw.; HSID=ASPOuAg63hx5kcRx1; SSID=A4k42aY4dEoQx1gGc; APISID=EAhXUnwcU5H7yGgb/AnnjdGCwPCnL9GCHO; SAPISID=IzkUSPrnBUsqGLd1/AY7_lGARS6YFeII2J; LOGIN_INFO=AIC5s2EwRQIhAPegk_sMK5Q_LZi2r71NTMJSyXwDURw9dy6BYOoqQXX8AiA-bmO61WcW1aXNtIGbEHjyn8saVfiOvmeMcPODHo5DCA:QU9YbHQ1N0dMRjN4NXk2X3FCX2R6elhEQmNvMVdjRi10X1dKM0JpTWFSLWwwcVVrVF91NkNEeG1RczduaklmMWxxRUFhVVpzZGVxN2t3VXR1bTBaclpCdHR5N3Q3X1NsRzFZdzZxRXlzbXVwN21QdUlaZXlTYl96QWJjbl9OLV8weVVVV202YkozMEpHOUpVb3h6akdtc19UcVB1ZVRFcHdRQW4zLWk5Q2pwX0hVb0RydjJVcGI0
+Connection: keep-alive
+
+HTTP/2.0 204 No Content
+content-type: text/html; charset=UTF-8
+date: Sun, 15 Oct 2017 08:46:00 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+x-content-type-options: nosniff
+server: Video Stats Server
+content-length: 0
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://i.ytimg.com/vi/aW2uBShc0wk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD7dwoXNmNh6Pw9eo0zQuvL_rBw2g
+
+GET /vi/aW2uBShc0wk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD7dwoXNmNh6Pw9eo0zQuvL_rBw2g HTTP/1.1
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+accept-ranges: bytes
+content-type: image/jpeg
+content-length: 6534
+date: Sun, 15 Oct 2017 08:13:07 GMT
+expires: Sun, 15 Oct 2017 10:13:07 GMT
+etag: "1412354618"
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=7200
+age: 1974
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://i.ytimg.com/vi/YYnIFr2uiAE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLChLvN3vD1UM71OGx1QSinVtz0pJA
+
+GET /vi/YYnIFr2uiAE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLChLvN3vD1UM71OGx1QSinVtz0pJA HTTP/1.1
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+accept-ranges: bytes
+content-type: image/jpeg
+content-length: 6004
+date: Sun, 15 Oct 2017 08:26:03 GMT
+expires: Sun, 15 Oct 2017 10:26:03 GMT
+etag: "1504784301"
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=7200
+age: 1198
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://i.ytimg.com/vi/JI5vuBR6RFY/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAh1rC8dsJGwThz3mX14cUxOJ6c9g
+
+GET /vi/JI5vuBR6RFY/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAh1rC8dsJGwThz3mX14cUxOJ6c9g HTTP/1.1
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+accept-ranges: bytes
+content-type: image/jpeg
+content-length: 6230
+date: Sun, 15 Oct 2017 08:16:40 GMT
+expires: Sun, 15 Oct 2017 10:16:40 GMT
+etag: "1505360331"
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=7200
+age: 1761
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://i.ytimg.com/vi/nrnmOJHwzgg/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAH3YeHfEQ9I4zQi0bYxrR6hsZpTA
+
+GET /vi/nrnmOJHwzgg/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAH3YeHfEQ9I4zQi0bYxrR6hsZpTA HTTP/1.1
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+accept-ranges: bytes
+content-type: image/jpeg
+content-length: 6638
+date: Sun, 15 Oct 2017 06:56:31 GMT
+expires: Sun, 15 Oct 2017 08:56:31 GMT
+etag: "1425343025"
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+age: 6570
+cache-control: public, max-age=7200
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://i.ytimg.com/vi/hJxTdD7RUHs/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD9yQ2ZmL2bUZNncu_7HXz6yzmsDg
+
+GET /vi/hJxTdD7RUHs/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD9yQ2ZmL2bUZNncu_7HXz6yzmsDg HTTP/1.1
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+accept-ranges: bytes
+content-type: image/jpeg
+content-length: 9986
+date: Sun, 15 Oct 2017 06:48:02 GMT
+expires: Sun, 15 Oct 2017 08:48:02 GMT
+etag: "1493545070"
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+age: 7079
+cache-control: public, max-age=7200
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://i.ytimg.com/vi/9CUoO1Ftim8/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD7zmGQ847ZqpKMxS_caloKOzxkvg
+
+GET /vi/9CUoO1Ftim8/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD7zmGQ847ZqpKMxS_caloKOzxkvg HTTP/1.1
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+accept-ranges: bytes
+content-type: image/jpeg
+content-length: 9521
+date: Sun, 15 Oct 2017 06:49:48 GMT
+expires: Sun, 15 Oct 2017 08:49:48 GMT
+etag: "1498390274"
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+age: 6973
+cache-control: public, max-age=7200
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.youtube.com/comment_service_ajax?action_get_comments=1&pbj=1&ctoken=EhYSC19qeFVwM2RWcXRJwAEAyAEA4AEBGAY%253D&itct=CHkQuy8YAiITCIPUndme8tYCFdUzKgodzHQEQCj4HQ%3D%3D
+
+POST /comment_service_ajax?action_get_comments=1&pbj=1&ctoken=EhYSC19qeFVwM2RWcXRJwAEAyAEA4AEBGAY%253D&itct=CHkQuy8YAiITCIPUndme8tYCFdUzKgodzHQEQCj4HQ%3D%3D HTTP/1.1
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Length: 280
+Content-Type: application/x-www-form-urlencoded
+Referer: https://www.youtube.com/watch?v=_jxUp3dVqtI
+X-YouTube-Client-Name: 1
+X-YouTube-Client-Version: 2.20171011
+X-Youtube-Identity-Token: QUFFLUhqbmVuWFRvbThrVlBEekp0bFY3ZlpqZGFjNjhjZ3w=
+X-YouTube-Page-CL: 171846192
+X-YouTube-Page-Label: youtube.ytfe.desktop_20171011_0_RC1
+X-YouTube-Variants-Checksum: 8872be0cbb7f7ef367cddd4414fd3f44
+X-SPF-Referer: https://www.youtube.com/watch?v=_jxUp3dVqtI
+X-SPF-Previous: https://www.youtube.com/watch?v=_jxUp3dVqtI
+Cookie: YSC=_Ppt3TEIti0; PREF=f1=50000000&al=vi; VISITOR_INFO1_LIVE=XHW90m1KR4c; SID=SQXA8SH9Zs7focfc1YKTn06fNcG3ChzTELQLx-O-SavURova7Nf8N6YSw2b2qcZqs9JWPw.; HSID=ASPOuAg63hx5kcRx1; SSID=A4k42aY4dEoQx1gGc; APISID=EAhXUnwcU5H7yGgb/AnnjdGCwPCnL9GCHO; SAPISID=IzkUSPrnBUsqGLd1/AY7_lGARS6YFeII2J; LOGIN_INFO=AIC5s2EwRQIhAPegk_sMK5Q_LZi2r71NTMJSyXwDURw9dy6BYOoqQXX8AiA-bmO61WcW1aXNtIGbEHjyn8saVfiOvmeMcPODHo5DCA:QU9YbHQ1N0dMRjN4NXk2X3FCX2R6elhEQmNvMVdjRi10X1dKM0JpTWFSLWwwcVVrVF91NkNEeG1RczduaklmMWxxRUFhVVpzZGVxN2t3VXR1bTBaclpCdHR5N3Q3X1NsRzFZdzZxRXlzbXVwN21QdUlaZXlTYl96QWJjbl9OLV8weVVVV202YkozMEpHOUpVb3h6akdtc19UcVB1ZVRFcHdRQW4zLWk5Q2pwX0hVb0RydjJVcGI0
+Connection: keep-alive
+session_token=QUFFLUhqbkgzam10RmNwb2stX2o0N3BoOE9sZ3g4eENKQXxBQ3Jtc0trS2RMZDhKbW1nMjNFVTNtc0V6ZDRGMkFhdmlSckJ3c2hualRnNkhleHBIdnhaZFpMN0hUQXNVN3lBX0RrSm5aTkQwVTZFX2sxdnhKei1xQVpja181cnRUcVpLaV9Da2ZOT2cxVzVmNTFxZGZWTF9RQmJNbW9adTlwMERFVDlNWFpUcTIwVENfSG1oUHh6QWpoYU1XOWhuQUVSQlE%3D
+HTTP/2.0 200 OK
+strict-transport-security: max-age=31536000
+x-frame-options: SAMEORIGIN
+content-type: application/json; charset=UTF-8
+cache-control: no-cache
+content-encoding: br
+content-disposition: attachment
+content-length: 13531
+expires: Tue, 27 Apr 1971 19:44:06 EST
+x-content-type-options: nosniff
+date: Sun, 15 Oct 2017 08:46:01 GMT
+server: YouTube Frontend Proxy
+x-xss-protection: 1; mode=block
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://i.ytimg.com/vi/GssGC0zyTH0/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAemYy9697rcDTCdG9aOw7PWVMfbw
+
+GET /vi/GssGC0zyTH0/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAemYy9697rcDTCdG9aOw7PWVMfbw HTTP/1.1
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+accept-ranges: bytes
+content-type: image/jpeg
+content-length: 6750
+date: Sun, 15 Oct 2017 08:27:17 GMT
+expires: Sun, 15 Oct 2017 10:27:17 GMT
+etag: "1506359679"
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=7200
+age: 1125
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://yt3.ggpht.com/-YYfyNuiKnmU/AAAAAAAAAAI/AAAAAAAAAAA/tBPyO8QGCi8/s48-c-k-no-mo-rj-c0xffffff/photo.jpg
+
+GET /-YYfyNuiKnmU/AAAAAAAAAAI/AAAAAAAAAAA/tBPyO8QGCi8/s48-c-k-no-mo-rj-c0xffffff/photo.jpg HTTP/1.1
+Host: yt3.ggpht.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-expose-headers: Content-Length
+expires: Mon, 16 Oct 2017 08:40:36 GMT
+content-disposition: inline;filename=""
+content-type: image/jpeg
+vary: Origin
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Sun, 15 Oct 2017 08:40:36 GMT
+server: fife
+content-length: 910
+x-xss-protection: 1; mode=block
+age: 326
+cache-control: public, max-age=86400, no-transform
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://yt3.ggpht.com/-dY3qIxxIQO0/AAAAAAAAAAI/AAAAAAAAAAA/MRMamCsgByg/s48-c-k-no-mo-rj-c0xffffff/photo.jpg
+
+GET /-dY3qIxxIQO0/AAAAAAAAAAI/AAAAAAAAAAA/MRMamCsgByg/s48-c-k-no-mo-rj-c0xffffff/photo.jpg HTTP/1.1
+Host: yt3.ggpht.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-expose-headers: Content-Length
+expires: Mon, 16 Oct 2017 08:03:36 GMT
+content-disposition: inline;filename=""
+content-type: image/jpeg
+vary: Origin
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Sun, 15 Oct 2017 08:03:36 GMT
+server: fife
+content-length: 721
+x-xss-protection: 1; mode=block
+age: 2546
+cache-control: public, max-age=86400, no-transform
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://yt3.ggpht.com/-TAwokI-Wpac/AAAAAAAAAAI/AAAAAAAAAAA/ASrE3d7j4no/s48-c-k-no-mo-rj-c0xffffff/photo.jpg
+
+GET /-TAwokI-Wpac/AAAAAAAAAAI/AAAAAAAAAAA/ASrE3d7j4no/s48-c-k-no-mo-rj-c0xffffff/photo.jpg HTTP/1.1
+Host: yt3.ggpht.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-expose-headers: Content-Length
+expires: Mon, 16 Oct 2017 08:04:36 GMT
+content-disposition: inline;filename=""
+content-type: image/jpeg
+vary: Origin
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Sun, 15 Oct 2017 08:04:36 GMT
+server: fife
+content-length: 870
+x-xss-protection: 1; mode=block
+age: 2486
+cache-control: public, max-age=86400, no-transform
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://yt3.ggpht.com/-vs4BiVhCrnw/AAAAAAAAAAI/AAAAAAAAAAA/3EFbT3tNOxs/s48-c-k-no-mo-rj-c0xffffff/photo.jpg
+
+GET /-vs4BiVhCrnw/AAAAAAAAAAI/AAAAAAAAAAA/3EFbT3tNOxs/s48-c-k-no-mo-rj-c0xffffff/photo.jpg HTTP/1.1
+Host: yt3.ggpht.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-expose-headers: Content-Length
+etag: "v115"
+expires: Mon, 16 Oct 2017 08:09:15 GMT
+content-disposition: inline;filename="a2449fc2-ce6f-47d7-880b-4b73847c6f3f.jpg"
+content-type: image/jpeg
+vary: Origin
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Sun, 15 Oct 2017 08:09:15 GMT
+server: fife
+content-length: 1926
+x-xss-protection: 1; mode=block
+age: 2207
+cache-control: public, max-age=86400, no-transform
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://yt3.ggpht.com/-2G7DUye2Dgc/AAAAAAAAAAI/AAAAAAAAAAA/Rqf0BQP8sFs/s48-c-k-no-mo-rj-c0xffffff/photo.jpg
+
+GET /-2G7DUye2Dgc/AAAAAAAAAAI/AAAAAAAAAAA/Rqf0BQP8sFs/s48-c-k-no-mo-rj-c0xffffff/photo.jpg HTTP/1.1
+Host: yt3.ggpht.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-expose-headers: Content-Length
+etag: "v22"
+expires: Sun, 15 Oct 2017 22:26:10 GMT
+content-disposition: inline;filename=""
+content-type: image/jpeg
+vary: Origin
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Sun, 15 Oct 2017 08:13:28 GMT
+server: fife
+content-length: 2363
+x-xss-protection: 1; mode=block
+age: 1954
+cache-control: public, max-age=86400, no-transform
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://yt3.ggpht.com/-5Z-FUBZhroA/AAAAAAAAAAI/AAAAAAAAAAA/MCeg-tz1DJM/s48-c-k-no-mo-rj-c0xffffff/photo.jpg
+
+GET /-5Z-FUBZhroA/AAAAAAAAAAI/AAAAAAAAAAA/MCeg-tz1DJM/s48-c-k-no-mo-rj-c0xffffff/photo.jpg HTTP/1.1
+Host: yt3.ggpht.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-expose-headers: Content-Length
+expires: Mon, 16 Oct 2017 07:55:02 GMT
+content-disposition: inline;filename=""
+content-type: image/jpeg
+vary: Origin
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Sun, 15 Oct 2017 07:55:02 GMT
+server: fife
+content-length: 1484
+x-xss-protection: 1; mode=block
+age: 3060
+cache-control: public, max-age=86400, no-transform
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://yt3.ggpht.com/-cpS_JCLdk5U/AAAAAAAAAAI/AAAAAAAAAAA/b8e_ZLcubUE/s48-c-k-no-mo-rj-c0xffffff/photo.jpg
+
+GET /-cpS_JCLdk5U/AAAAAAAAAAI/AAAAAAAAAAA/b8e_ZLcubUE/s48-c-k-no-mo-rj-c0xffffff/photo.jpg HTTP/1.1
+Host: yt3.ggpht.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-expose-headers: Content-Length
+expires: Mon, 16 Oct 2017 07:59:46 GMT
+content-disposition: inline;filename=""
+content-type: image/jpeg
+vary: Origin
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Sun, 15 Oct 2017 07:59:46 GMT
+server: fife
+content-length: 1082
+x-xss-protection: 1; mode=block
+age: 2776
+cache-control: public, max-age=86400, no-transform
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://yt3.ggpht.com/-Kxyl0MqZsB4/AAAAAAAAAAI/AAAAAAAAAAA/b5qPfE3Ufrs/s48-c-k-no-mo-rj-c0xffffff/photo.jpg
+
+GET /-Kxyl0MqZsB4/AAAAAAAAAAI/AAAAAAAAAAA/b5qPfE3Ufrs/s48-c-k-no-mo-rj-c0xffffff/photo.jpg HTTP/1.1
+Host: yt3.ggpht.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-expose-headers: Content-Length
+etag: "v49"
+expires: Sun, 15 Oct 2017 22:26:10 GMT
+content-disposition: inline;filename=""
+content-type: image/jpeg
+vary: Origin
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Sun, 15 Oct 2017 08:13:30 GMT
+server: fife
+content-length: 2260
+x-xss-protection: 1; mode=block
+age: 1952
+cache-control: public, max-age=86400, no-transform
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+
+POST /youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 HTTP/1.1
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Length: 20321
+Content-Type: application/json
+Referer: https://www.youtube.com/watch?v=_jxUp3dVqtI
+X-Goog-Visitor-Id: CgtYSFc5MG0xS1I0Yw%3D%3D
+X-Goog-AuthUser: 0
+x-origin: https://www.youtube.com
+X-YouTube-Client-Name: 1
+X-YouTube-Client-Version: 2.20171011
+X-Youtube-Identity-Token: QUFFLUhqbmVuWFRvbThrVlBEekp0bFY3ZlpqZGFjNjhjZ3w=
+X-YouTube-Page-CL: 171846192
+X-YouTube-Page-Label: youtube.ytfe.desktop_20171011_0_RC1
+X-YouTube-Variants-Checksum: 8872be0cbb7f7ef367cddd4414fd3f44
+Authorization: SAPISIDHASH 1508057160_5129bc91c1bd0fd3ce575771f5b42cad8b9237bb
+Cookie: YSC=_Ppt3TEIti0; PREF=f1=50000000&al=vi; VISITOR_INFO1_LIVE=XHW90m1KR4c; SID=SQXA8SH9Zs7focfc1YKTn06fNcG3ChzTELQLx-O-SavURova7Nf8N6YSw2b2qcZqs9JWPw.; HSID=ASPOuAg63hx5kcRx1; SSID=A4k42aY4dEoQx1gGc; APISID=EAhXUnwcU5H7yGgb/AnnjdGCwPCnL9GCHO; SAPISID=IzkUSPrnBUsqGLd1/AY7_lGARS6YFeII2J; LOGIN_INFO=AIC5s2EwRQIhAPegk_sMK5Q_LZi2r71NTMJSyXwDURw9dy6BYOoqQXX8AiA-bmO61WcW1aXNtIGbEHjyn8saVfiOvmeMcPODHo5DCA:QU9YbHQ1N0dMRjN4NXk2X3FCX2R6elhEQmNvMVdjRi10X1dKM0JpTWFSLWwwcVVrVF91NkNEeG1RczduaklmMWxxRUFhVVpzZGVxN2t3VXR1bTBaclpCdHR5N3Q3X1NsRzFZdzZxRXlzbXVwN21QdUlaZXlTYl96QWJjbl9OLV8weVVVV202YkozMEpHOUpVb3h6akdtc19UcVB1ZVRFcHdRQW4zLWk5Q2pwX0hVb0RydjJVcGI0
+Connection: keep-alive
+{"context":{"client":{"hl":"vi","gl":"VN","clientName":1,"clientVersion":"2.20171011"}},"events":[{"eventTimeMs":1508057145293,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAAQtnUiEwit6bPnnPLWAhXKS1gKHXKeB8w="},"eventType":1},"context":{"lastActivityMs":"136"}},{"eventTimeMs":1508057145296,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAMQtXUiEwit6bPnnPLWAhXKS1gKHXKeB8w="},"eventType":1},"context":{"lastActivityMs":"140"}},{"eventTimeMs":1508057145297,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAUQ8FsiEwit6bPnnPLWAhXKS1gKHXKeB8w="},"eventType":1},"context":{"lastActivityMs":"140"}},{"eventTimeMs":1508057145297,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAgQmE0iEwit6bPnnPLWAhXKS1gKHXKeB8w="},"eventType":1},"context":{"lastActivityMs":"140"}},{"eventTimeMs":1508057145297,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAQQmE0iEwit6bPnnPLWAhXKS1gKHXKeB8w="},"eventType":1},"context":{"lastActivityMs":"140"}},{"eventTimeMs":1508057145297,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAAQtnUiEwit6bPnnPLWAhXKS1gKHXKeB8w="},"eventType":1},"context":{"lastActivityMs":"140"}},{"eventTimeMs":1508057145801,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAAQtnUiEwjD0onmnPLWAhUBNVgKHRPmByY="},"eventType":1},"context":{"lastActivityMs":"173"}},{"eventTimeMs":1508057147348,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAAQtnUiEwj0hZjjnPLWAhVFKVgKHaDoAP4="},"eventType":1},"context":{"lastActivityMs":"124"}},{"eventTimeMs":1508057147856,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAAQtnUiEwjD3PLhnPLWAhUQUFgKHcI9DPc="},"eventType":1},"context":{"lastActivityMs":"43"}},{"eventTimeMs":1508057147860,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAMQtXUiEwjD3PLhnPLWAhUQUFgKHcI9DPc="},"eventType":1},"context":{"lastActivityMs":"47"}},{"eventTimeMs":1508057147860,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAUQ8FsiEwjD3PLhnPLWAhUQUFgKHcI9DPc="},"eventType":1},"context":{"lastActivityMs":"48"}},{"eventTimeMs":1508057147861,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAgQmE0iEwjD3PLhnPLWAhUQUFgKHcI9DPc="},"eventType":1},"context":{"lastActivityMs":"48"}},{"eventTimeMs":1508057147861,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAQQmE0iEwjD3PLhnPLWAhUQUFgKHcI9DPc="},"eventType":1},"context":{"lastActivityMs":"48"}},{"eventTimeMs":1508057147861,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAAQtnUiEwjD3PLhnPLWAhUQUFgKHcI9DPc="},"eventType":1},"context":{"lastActivityMs":"48"}},{"eventTimeMs":1508057148896,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAAQtnUiEwjI_7HdnPLWAhUJllgKHU_8AGg="},"eventType":1},"context":{"lastActivityMs":"58"}},{"eventTimeMs":1508057148900,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAMQtXUiEwjI_7HdnPLWAhUJllgKHU_8AGg="},"eventType":1},"context":{"lastActivityMs":"62"}},{"eventTimeMs":1508057148900,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAUQ8FsiEwjI_7HdnPLWAhUJllgKHU_8AGg="},"eventType":1},"context":{"lastActivityMs":"62"}},{"eventTimeMs":1508057148901,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAgQmE0iEwjI_7HdnPLWAhUJllgKHU_8AGg="},"eventType":1},"context":{"lastActivityMs":"62"}},{"eventTimeMs":1508057148901,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAQQmE0iEwjI_7HdnPLWAhUJllgKHU_8AGg="},"eventType":1},"context":{"lastActivityMs":"62"}},{"eventTimeMs":1508057148901,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAAQtnUiEwjI_7HdnPLWAhUJllgKHU_8AGg="},"eventType":1},"context":{"lastActivityMs":"62"}},{"eventTimeMs":1508057150446,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAAQtnUiEwjlktvTnPLWAhUNNlgKHcFOCLk="},"eventType":1},"context":{"lastActivityMs":"130"}},{"eventTimeMs":1508057150964,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAAQtnUiEwij8L_QnPLWAhVWSVgKHUfnCxI="},"eventType":1},"context":{"lastActivityMs":"209"}},{"eventTimeMs":1508057150968,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAMQtXUiEwij8L_QnPLWAhVWSVgKHUfnCxI="},"eventType":1},"context":{"lastActivityMs":"213"}},{"eventTimeMs":1508057150968,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAUQ8FsiEwij8L_QnPLWAhVWSVgKHUfnCxI="},"eventType":1},"context":{"lastActivityMs":"213"}},{"eventTimeMs":1508057150968,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAgQmE0iEwij8L_QnPLWAhVWSVgKHUfnCxI="},"eventType":1},"context":{"lastActivityMs":"213"}},{"eventTimeMs":1508057150968,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAQQmE0iEwij8L_QnPLWAhVWSVgKHUfnCxI="},"eventType":1},"context":{"lastActivityMs":"213"}},{"eventTimeMs":1508057150968,"visualElementShown":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"trackingParams":"CAAQtnUiEwij8L_QnPLWAhVWSVgKHUfnCxI="},"eventType":1},"context":{"lastActivityMs":"213"}},{"eventTimeMs":1508057155257,"visualElementHidden":{"csn":"-B3jWevCE9K74gLu4qGwBg","ve":{"veType":3832},"eventType":16},"context":{"lastActivityMs":"3"}},{"eventTimeMs":1508057156348,"foregroundHeartbeatScreenAssociated":{"clientDocumentNonce":"3zWIe7DhzsuNLefX","clientScreenNonce":"RSDjWcOdCtXnqAHM6ZGABA"},"context":{"lastActivityMs":"398"}},{"eventTimeMs":1508057156394,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CBIQ7VAiEwiD1J3ZnvLWAhXVMyoKHcx0BEAo-B0="},"eventType":1},"context":{"lastActivityMs":"443"}},{"eventTimeMs":1508057156974,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CAIQq6wBIhMIg9Sd2Z7y1gIV1TMqCh3MdARAKPgd"},"eventType":1},"context":{"lastActivityMs":"1023"}},{"eventTimeMs":1508057156974,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CBMQsV4iEwiD1J3ZnvLWAhXVMyoKHcx0BEAo-B0="},"eventType":1},"context":{"lastActivityMs":"1023"}},{"eventTimeMs":1508057156974,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CBEQ8FsYACITCIPUndme8tYCFdUzKgodzHQEQCj4HQ=="},"eventType":1},"context":{"lastActivityMs":"1024"}},{"eventTimeMs":1508057156974,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CAYQ_qsBGAEiEwiD1J3ZnvLWAhXVMyoKHcx0BEAo-B0="},"eventType":1},"context":{"lastActivityMs":"1024"}},{"eventTimeMs":1508057156974,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CAUQovoBGAIiEwiD1J3ZnvLWAhXVMyoKHcx0BEAo-B0="},"eventType":1},"context":{"lastActivityMs":"1024"}},{"eventTimeMs":1508057156975,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CAQQ_qsBGAMiEwiD1J3ZnvLWAhXVMyoKHcx0BEAo-B0="},"eventType":1},"context":{"lastActivityMs":"1024"}},{"eventTimeMs":1508057156975,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CBcQg2ciEwiD1J3ZnvLWAhXVMyoKHcx0BEAo-B0="},"eventType":1},"context":{"lastActivityMs":"1024"}},{"eventTimeMs":1508057156975,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CCYQqTAiEwiD1J3ZnvLWAhXVMyoKHcx0BEAo-B0="},"eventType":1},"context":{"lastActivityMs":"1024"}},{"eventTimeMs":1508057156975,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CHMQpmAYACITCIPUndme8tYCFdUzKgodzHQEQCj4HQ=="},"eventType":1},"context":{"lastActivityMs":"1024"}},{"eventTimeMs":1508057156975,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CHQQpDAYACITCIPUndme8tYCFdUzKgodzHQEQCj4HUDNhLrr1ri0nLkB"},"eventType":1},"context":{"lastActivityMs":"1024"}},{"eventTimeMs":1508057156978,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CHQQpDAYACITCIPUndme8tYCFdUzKgodzHQEQCj4HQ=="},"eventType":1},"context":{"lastActivityMs":"1027"}},{"eventTimeMs":1508057156979,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CIEBEMyrARgAIhMIg9Sd2Z7y1gIV1TMqCh3MdARAKPgd"},"eventType":1},"context":{"lastActivityMs":"1028"}},{"eventTimeMs":1508057156979,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CIEBEMyrARgAIhMIg9Sd2Z7y1gIV1TMqCh3MdARAKPgd"},"eventType":1},"context":{"lastActivityMs":"1028"}},{"eventTimeMs":1508057156979,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CJUBEJhNGAIiEwiD1J3ZnvLWAhXVMyoKHcx0BEAo-B0="},"eventType":1},"context":{"lastActivityMs":"1028"}},{"eventTimeMs":1508057156979,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CJQBEJhNGAMiEwiD1J3ZnvLWAhXVMyoKHcx0BEAo-B0="},"eventType":1},"context":{"lastActivityMs":"1028"}},{"eventTimeMs":1508057156979,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CIMBEPBbGAQiEwiD1J3ZnvLWAhXVMyoKHcx0BEAo-B0="},"eventType":1},"context":{"lastActivityMs":"1028"}},{"eventTimeMs":1508057156979,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CIIBEPBbGAUiEwiD1J3ZnvLWAhXVMyoKHcx0BEAo-B0="},"eventType":1},"context":{"lastActivityMs":"1028"}},{"eventTimeMs":1508057156979,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CHoQzasBGAEiEwiD1J3ZnvLWAhXVMyoKHcx0BEAo-B0="},"eventType":1},"context":{"lastActivityMs":"1029"}},{"eventTimeMs":1508057156979,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CIABEOE5IhMIg9Sd2Z7y1gIV1TMqCh3MdARAKPgd"},"eventType":1},"context":{"lastActivityMs":"1029"}},{"eventTimeMs":1508057156981,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CHsQmysiEwiD1J3ZnvLWAhXVMyoKHcx0BEAo-B0yBXdhdGNo"},"eventType":1},"context":{"lastActivityMs":"1031"}},{"eventTimeMs":1508057156982,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CBUQuWoiEwiD1J3ZnvLWAhXVMyoKHcx0BEAo-B0="},"eventType":1},"context":{"lastActivityMs":"1031"}},{"eventTimeMs":1508057157538,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CG8QpDAYASITCIPUndme8tYCFdUzKgodzHQEQCj4HUDx0O2E4tSbwusB"},"eventType":1},"context":{"lastActivityMs":"1587"}},{"eventTimeMs":1508057157541,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CG8QpDAYASITCIPUndme8tYCFdUzKgodzHQEQCj4HQ=="},"eventType":1},"context":{"lastActivityMs":"1590"}},{"eventTimeMs":1508057157541,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CGsQpDAYAiITCIPUndme8tYCFdUzKgodzHQEQCj4HUDUoMza6On-gQo="},"eventType":1},"context":{"lastActivityMs":"1591"}},{"eventTimeMs":1508057157544,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CGsQpDAYAiITCIPUndme8tYCFdUzKgodzHQEQCj4HQ=="},"eventType":1},"context":{"lastActivityMs":"1594"}},{"eventTimeMs":1508057157545,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CGcQpDAYAyITCIPUndme8tYCFdUzKgodzHQEQCj4HUDC7Ovlorr79PIB"},"eventType":1},"context":{"lastActivityMs":"1594"}},{"eventTimeMs":1508057157549,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CGcQpDAYAyITCIPUndme8tYCFdUzKgodzHQEQCj4HQ=="},"eventType":1},"context":{"lastActivityMs":"1598"}},{"eventTimeMs":1508057157549,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CGMQpDAYBCITCIPUndme8tYCFdUzKgodzHQEQCj4HUD6zqus6bSW1dwB"},"eventType":1},"context":{"lastActivityMs":"1598"}},{"eventTimeMs":1508057157553,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CGMQpDAYBCITCIPUndme8tYCFdUzKgodzHQEQCj4HQ=="},"eventType":1},"context":{"lastActivityMs":"1602"}},{"eventTimeMs":1508057157553,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CF8QpDAYBSITCIPUndme8tYCFdUzKgodzHQEQCj4HUCTgt6M0qeY4sgB"},"eventType":1},"context":{"lastActivityMs":"1602"}},{"eventTimeMs":1508057157553,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CF8QpDAYBSITCIPUndme8tYCFdUzKgodzHQEQCj4HQ=="},"eventType":1},"context":{"lastActivityMs":"1602"}},{"eventTimeMs":1508057157553,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CFsQpDAYBiITCIPUndme8tYCFdUzKgodzHQEQCj4HUCQie_R64a7rL4B"},"eventType":1},"context":{"lastActivityMs":"1603"}},{"eventTimeMs":1508057157556,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CFsQpDAYBiITCIPUndme8tYCFdUzKgodzHQEQCj4HQ=="},"eventType":1},"context":{"lastActivityMs":"1605"}},{"eventTimeMs":1508057158601,"foregroundHeartbeat":{"firstActivityMs":"23046","clientDocumentNonce":"3zWIe7DhzsuNLefX","index":"12","lastEventDeltaMs":"270003","trigger":"FOREGROUND_HEARTBEAT_TRIGGER_ON_INTERVAL"},"context":{"lastActivityMs":"196"}},{"eventTimeMs":1508057159100,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CFcQpDAYByITCIPUndme8tYCFdUzKgodzHQEQCj4HUC13djnmYrZj78B"},"eventType":1},"context":{"lastActivityMs":"694"}},{"eventTimeMs":1508057159100,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CFcQpDAYByITCIPUndme8tYCFdUzKgodzHQEQCj4HQ=="},"eventType":1},"context":{"lastActivityMs":"694"}},{"eventTimeMs":1508057159100,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CFMQpDAYCCITCIPUndme8tYCFdUzKgodzHQEQCj4HUDYxsjP5vyWlRA="},"eventType":1},"context":{"lastActivityMs":"694"}},{"eventTimeMs":1508057159100,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CFMQpDAYCCITCIPUndme8tYCFdUzKgodzHQEQCj4HQ=="},"eventType":1},"context":{"lastActivityMs":"694"}},{"eventTimeMs":1508057159112,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CHoQzasBGAEiEwiD1J3ZnvLWAhXVMyoKHcx0BEAo-B0="},"eventType":1},"context":{"lastActivityMs":"706"}},{"eventTimeMs":1508057159112,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CHkQuy8YAiITCIPUndme8tYCFdUzKgodzHQEQCj4HQ=="},"eventType":1},"context":{"lastActivityMs":"706"}},{"eventTimeMs":1508057159112,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CHkQuy8YAiITCIPUndme8tYCFdUzKgodzHQEQCj4HQ=="},"eventType":1},"context":{"lastActivityMs":"707"}},{"eventTimeMs":1508057159626,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CE8QpDAYCSITCIPUndme8tYCFdUzKgodzHQEQCj4HUCXqL_8oOuopb4B"},"eventType":1},"context":{"lastActivityMs":"110"}},{"eventTimeMs":1508057159626,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CE8QpDAYCSITCIPUndme8tYCFdUzKgodzHQEQCj4HQ=="},"eventType":1},"context":{"lastActivityMs":"110"}},{"eventTimeMs":1508057159626,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CEsQpDAYCiITCIPUndme8tYCFdUzKgodzHQEQCj4HUDhwM2d573UxEY="},"eventType":1},"context":{"lastActivityMs":"110"}},{"eventTimeMs":1508057159626,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CEsQpDAYCiITCIPUndme8tYCFdUzKgodzHQEQCj4HQ=="},"eventType":1},"context":{"lastActivityMs":"110"}},{"eventTimeMs":1508057159626,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CEcQpDAYCyITCIPUndme8tYCFdUzKgodzHQEQCj4HUCJpvPC0sDrtmk="},"eventType":1},"context":{"lastActivityMs":"110"}},{"eventTimeMs":1508057159626,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CEcQpDAYCyITCIPUndme8tYCFdUzKgodzHQEQCj4HQ=="},"eventType":1},"context":{"lastActivityMs":"111"}},{"eventTimeMs":1508057159626,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CEMQpDAYDCITCIPUndme8tYCFdUzKgodzHQEQCj4HUCBkLrt64LyxGE="},"eventType":1},"context":{"lastActivityMs":"111"}},{"eventTimeMs":1508057159630,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CEMQpDAYDCITCIPUndme8tYCFdUzKgodzHQEQCj4HQ=="},"eventType":1},"context":{"lastActivityMs":"114"}},{"eventTimeMs":1508057159630,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CD8QpDAYDSITCIPUndme8tYCFdUzKgodzHQEQCj4HUDWiOmjgfebxyQ="},"eventType":1},"context":{"lastActivityMs":"114"}},{"eventTimeMs":1508057159634,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CD8QpDAYDSITCIPUndme8tYCFdUzKgodzHQEQCj4HQ=="},"eventType":1},"context":{"lastActivityMs":"118"}},{"eventTimeMs":1508057160160,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CAIQ7pgBIhMI8rKJ257y1gIVSGAqCh3F1gOm"},"eventType":1},"context":{"lastActivityMs":"293"}},{"eventTimeMs":1508057160161,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CAUQwXUiEwjysonbnvLWAhVIYCoKHcXWA6Y="},"eventType":1},"context":{"lastActivityMs":"294"}},{"eventTimeMs":1508057160161,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CNMBEMJ1GAAiEwjysonbnvLWAhVIYCoKHcXWA6Y="},"eventType":1},"context":{"lastActivityMs":"294"}},{"eventTimeMs":1508057160161,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CNUBELZ1IhMI8rKJ257y1gIVSGAqCh3F1gOm"},"eventType":1},"context":{"lastActivityMs":"295"}},{"eventTimeMs":1508057160164,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CNgBELV1IhMI8rKJ257y1gIVSGAqCh3F1gOm"},"eventType":1},"context":{"lastActivityMs":"297"}},{"eventTimeMs":1508057160164,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CNoBEPBbIhMI8rKJ257y1gIVSGAqCh3F1gOm"},"eventType":1},"context":{"lastActivityMs":"298"}},{"eventTimeMs":1508057160164,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CN0BEJhNIhMI8rKJ257y1gIVSGAqCh3F1gOm"},"eventType":1},"context":{"lastActivityMs":"298"}},{"eventTimeMs":1508057160165,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CNkBEJhNIhMI8rKJ257y1gIVSGAqCh3F1gOm"},"eventType":1},"context":{"lastActivityMs":"298"}},{"eventTimeMs":1508057160165,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CNUBELZ1IhMI8rKJ257y1gIVSGAqCh3F1gOm"},"eventType":1},"context":{"lastActivityMs":"298"}},{"eventTimeMs":1508057160165,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CNQBEL51IhMI8rKJ257y1gIVSGAqCh3F1gOm"},"eventType":1},"context":{"lastActivityMs":"298"}},{"eventTimeMs":1508057160165,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CMkBEMJ1GAEiEwjysonbnvLWAhVIYCoKHcXWA6Y="},"eventType":1},"context":{"lastActivityMs":"298"}},{"eventTimeMs":1508057160165,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CMoBELZ1IhMI8rKJ257y1gIVSGAqCh3F1gOm"},"eventType":1},"context":{"lastActivityMs":"298"}},{"eventTimeMs":1508057160167,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CM0BELV1IhMI8rKJ257y1gIVSGAqCh3F1gOm"},"eventType":1},"context":{"lastActivityMs":"300"}},{"eventTimeMs":1508057160167,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CM8BEPBbIhMI8rKJ257y1gIVSGAqCh3F1gOm"},"eventType":1},"context":{"lastActivityMs":"300"}},{"eventTimeMs":1508057160167,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CNIBEJhNIhMI8rKJ257y1gIVSGAqCh3F1gOm"},"eventType":1},"context":{"lastActivityMs":"300"}},{"eventTimeMs":1508057160167,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CM4BEJhNIhMI8rKJ257y1gIVSGAqCh3F1gOm"},"eventType":1},"context":{"lastActivityMs":"300"}},{"eventTimeMs":1508057160167,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CMoBELZ1IhMI8rKJ257y1gIVSGAqCh3F1gOm"},"eventType":1},"context":{"lastActivityMs":"300"}},{"eventTimeMs":1508057160799,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CL4BEMJ1GAIiEwjysonbnvLWAhVIYCoKHcXWA6Y="},"eventType":1},"context":{"lastActivityMs":"932"}},{"eventTimeMs":1508057160799,"visualElementShown":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","ve":{"trackingParams":"CMABELZ1IhMI8rKJ257y1gIVSGAqCh3F1gOm"},"eventType":1},"context":{"lastActivityMs":"932"}}],"requestTimeMs":1508057160799}
+HTTP/2.0 200 OK
+content-type: application/json; charset=UTF-8
+vary: Origin, X-Origin, Referer
+content-encoding: gzip
+date: Sun, 15 Oct 2017 08:46:02 GMT
+server: ESF
+cache-control: private
+content-length: 48
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://yt3.ggpht.com/--8K2AWAyxqo/AAAAAAAAAAI/AAAAAAAAAAA/uWilZDKZn0s/s48-c-k-no-mo-rj-c0xffffff/photo.jpg
+
+GET /--8K2AWAyxqo/AAAAAAAAAAI/AAAAAAAAAAA/uWilZDKZn0s/s48-c-k-no-mo-rj-c0xffffff/photo.jpg HTTP/1.1
+Host: yt3.ggpht.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Connection: keep-alive
+
+HTTP/2.0 200 OK
+access-control-expose-headers: Content-Length
+etag: "v4bc"
+expires: Mon, 16 Oct 2017 04:55:22 GMT
+content-disposition: inline;filename=""
+content-type: image/jpeg
+vary: Origin
+access-control-allow-origin: *
+x-content-type-options: nosniff
+date: Sun, 15 Oct 2017 08:46:02 GMT
+server: fife
+content-length: 2408
+x-xss-protection: 1; mode=block
+cache-control: public, max-age=86400, no-transform
+age: 0
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.youtube.com/youtubei/v1/log_interaction?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+
+POST /youtubei/v1/log_interaction?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 HTTP/1.1
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Length: 778
+Content-Type: application/json
+Referer: https://www.youtube.com/watch?v=_jxUp3dVqtI
+X-Goog-Visitor-Id: CgtYSFc5MG0xS1I0Yw%3D%3D
+X-Goog-AuthUser: 0
+x-origin: https://www.youtube.com
+X-YouTube-Client-Name: 1
+X-YouTube-Client-Version: 2.20171011
+X-Youtube-Identity-Token: QUFFLUhqbmVuWFRvbThrVlBEekp0bFY3ZlpqZGFjNjhjZ3w=
+X-YouTube-Page-CL: 171846192
+X-YouTube-Page-Label: youtube.ytfe.desktop_20171011_0_RC1
+X-YouTube-Variants-Checksum: 8872be0cbb7f7ef367cddd4414fd3f44
+Authorization: SAPISIDHASH 1508057160_5129bc91c1bd0fd3ce575771f5b42cad8b9237bb
+Cookie: YSC=_Ppt3TEIti0; PREF=f1=50000000&al=vi; VISITOR_INFO1_LIVE=XHW90m1KR4c; SID=SQXA8SH9Zs7focfc1YKTn06fNcG3ChzTELQLx-O-SavURova7Nf8N6YSw2b2qcZqs9JWPw.; HSID=ASPOuAg63hx5kcRx1; SSID=A4k42aY4dEoQx1gGc; APISID=EAhXUnwcU5H7yGgb/AnnjdGCwPCnL9GCHO; SAPISID=IzkUSPrnBUsqGLd1/AY7_lGARS6YFeII2J; LOGIN_INFO=AIC5s2EwRQIhAPegk_sMK5Q_LZi2r71NTMJSyXwDURw9dy6BYOoqQXX8AiA-bmO61WcW1aXNtIGbEHjyn8saVfiOvmeMcPODHo5DCA:QU9YbHQ1N0dMRjN4NXk2X3FCX2R6elhEQmNvMVdjRi10X1dKM0JpTWFSLWwwcVVrVF91NkNEeG1RczduaklmMWxxRUFhVVpzZGVxN2t3VXR1bTBaclpCdHR5N3Q3X1NsRzFZdzZxRXlzbXVwN21QdUlaZXlTYl96QWJjbl9OLV8weVVVV202YkozMEpHOUpVb3h6akdtc19UcVB1ZVRFcHdRQW4zLWk5Q2pwX0hVb0RydjJVcGI0
+Connection: keep-alive
+{"context":{"client":{"hl":"vi","gl":"VN","clientName":1,"clientVersion":"2.20171011"}},"interactions":[{"attachChild":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","parentVisualElement":{"veType":3832},"visualElements":[{"trackingParams":"CAEQumkiEwirstq7nPLWAhVCt1gKHfXpAjgojh4="}]},"eventTimeMs":1508057156356,"lactMs":405},{"attachChild":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","parentVisualElement":{"veType":3832},"visualElements":[{"trackingParams":"CAAQwOYBIhMIxJjd2Z7y1gIVh0MqCh1ULQTjKPgdMgJpdkjS1da695SVnv4B"}]},"eventTimeMs":1508057156929,"lactMs":978},{"attachChild":{"csn":"RSDjWcOdCtXnqAHM6ZGABA","parentVisualElement":{"veType":3832},"visualElements":[{"trackingParams":"CAAQg2ciEwjysonbnvLWAhVIYCoKHcXWA6Y="}]},"eventTimeMs":1508057160022,"lactMs":156}],"requestTimeMs":1508057160801}
+HTTP/2.0 200 OK
+content-type: application/json; charset=UTF-8
+vary: Origin, X-Origin, Referer
+content-encoding: gzip
+date: Sun, 15 Oct 2017 08:46:02 GMT
+server: ESF
+cache-control: private
+content-length: 578
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://www.youtube.com/api/stats/atr?ns=yt&el=detailpage&cpn=Yf01F167bd-hPkRO&docid=_jxUp3dVqtI&ver=2&referrer=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkkUbpC60bY4&cmt=4.492&plid=AAVbkestNT4KyGFa&ei=RSDjWcOdCtXnqAHM6ZGABA&fmt=135&fs=0&rt=5.132&of=74Or1BYSkXiSuEKKhBdVZw&euri&lact=1360&cl=171846192&mos=0&vm=CAEQARgE&volume=100&c=WEB&cver=2.20171011&cplayer=UNIPLAYER&cbr=Firefox&cbrver=56.0&cos=Windows&cosver=10.0&hl=vi_VN&cr=VN&uga=m22&len=483.241&fexp=23701941%2C23702322%2C23702700%2C23704046%2C23704248%2C23704258%2C23704339%2C23705739%2C23706129%2C23708023%2C23708465%2C9422596%2C9431754%2C9440544%2C9441383%2C9449243%2C9467502%2C9471239%2C9471653%2C9476026%2C9476327%2C9479170%2C9479711%2C9480475%2C9480775%2C9483688%2C9484237%2C9485000%2C9486115%2C9488038&feature=related&afmt=251
+
+POST /api/stats/atr?ns=yt&el=detailpage&cpn=Yf01F167bd-hPkRO&docid=_jxUp3dVqtI&ver=2&referrer=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkkUbpC60bY4&cmt=4.492&plid=AAVbkestNT4KyGFa&ei=RSDjWcOdCtXnqAHM6ZGABA&fmt=135&fs=0&rt=5.132&of=74Or1BYSkXiSuEKKhBdVZw&euri&lact=1360&cl=171846192&mos=0&vm=CAEQARgE&volume=100&c=WEB&cver=2.20171011&cplayer=UNIPLAYER&cbr=Firefox&cbrver=56.0&cos=Windows&cosver=10.0&hl=vi_VN&cr=VN&uga=m22&len=483.241&fexp=23701941%2C23702322%2C23702700%2C23704046%2C23704248%2C23704258%2C23704339%2C23705739%2C23706129%2C23708023%2C23708465%2C9422596%2C9431754%2C9440544%2C9441383%2C9449243%2C9467502%2C9471239%2C9471653%2C9476026%2C9476327%2C9479170%2C9479711%2C9480475%2C9480775%2C9483688%2C9484237%2C9485000%2C9486115%2C9488038&feature=related&afmt=251 HTTP/1.1
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Length: 1021
+Content-Type: application/x-www-form-urlencoded
+Referer: https://www.youtube.com/watch?v=_jxUp3dVqtI
+X-YouTube-Client-Name: 1
+X-YouTube-Client-Version: 2.20171011
+X-Youtube-Identity-Token: QUFFLUhqbmVuWFRvbThrVlBEekp0bFY3ZlpqZGFjNjhjZ3w=
+X-YouTube-Page-CL: 171846192
+X-YouTube-Page-Label: youtube.ytfe.desktop_20171011_0_RC1
+X-YouTube-Variants-Checksum: 8872be0cbb7f7ef367cddd4414fd3f44
+Cookie: YSC=_Ppt3TEIti0; PREF=f1=50000000&al=vi; VISITOR_INFO1_LIVE=XHW90m1KR4c; SID=SQXA8SH9Zs7focfc1YKTn06fNcG3ChzTELQLx-O-SavURova7Nf8N6YSw2b2qcZqs9JWPw.; HSID=ASPOuAg63hx5kcRx1; SSID=A4k42aY4dEoQx1gGc; APISID=EAhXUnwcU5H7yGgb/AnnjdGCwPCnL9GCHO; SAPISID=IzkUSPrnBUsqGLd1/AY7_lGARS6YFeII2J; LOGIN_INFO=AIC5s2EwRQIhAPegk_sMK5Q_LZi2r71NTMJSyXwDURw9dy6BYOoqQXX8AiA-bmO61WcW1aXNtIGbEHjyn8saVfiOvmeMcPODHo5DCA:QU9YbHQ1N0dMRjN4NXk2X3FCX2R6elhEQmNvMVdjRi10X1dKM0JpTWFSLWwwcVVrVF91NkNEeG1RczduaklmMWxxRUFhVVpzZGVxN2t3VXR1bTBaclpCdHR5N3Q3X1NsRzFZdzZxRXlzbXVwN21QdUlaZXlTYl96QWJjbl9OLV8weVVVV202YkozMEpHOUpVb3h6akdtc19UcVB1ZVRFcHdRQW4zLWk5Q2pwX0hVb0RydjJVcGI0
+Connection: keep-alive
+atr=a%3D3%26b%3D71gcpCHVJqjwOwmSqBch6sjNIQ0%26c%3D1508057157%26d%3D1%26e%3D_jxUp3dVqtI%26c3a%3D18%26c1a%3D1%26c6a%3D1%26hh%3DaCjn578d5JNKcsogLoSJ540tpG5kQyPCQ3JLJQN08gw%26r1a%3D!FBelFzZCrsgKCvKIzztEx8juyfMltcACAAAAR1IAAAAdmQFrD_GeqxZkGcnzDdYQ7YohVdB1aYTKIXJcKtujMEeiZJMfLLmnHMSw7TYMPnvHPp1HcN0HL5H14uK2IXHSJxVil0a-Boe1Zko-lrPR4DJjNpvkhc2QVsgiMhTl9cLex_UTNM75TASpCvi2YhOPYPYkUKeZsxzi8n-Bh_kGJEfH0P9X7iolqqkKYK6O9wYuMYBJ1fuc3nF6jaDHQlvt9OD8B6SL_EDo3hy6MzER9NXb9ckt1psU599fhuqKaaeTbLR3BMc1WvrA__ige8RrwZEzHWznL77Pm29-y3iyVIjhqRS08ExOqXWGa5miVH1xM1iBc4cPHHue5qVuaa0F0C7xluepdTgwzeP76KPgwo1YSJOTjWtJ-o3wE_PZH-Q_nHQ9QHQzMs9L5523jJyRaTb8uO-Xrjjuezb0sEYbJKNUDXX4odHENbjJmDtxtUm2xRllcTgyavsQx37bfToGFV77aB9E10ENIZo83Mxw%26r3a%3D15%26r6a%3D1508057156&session_token=QUFFLUhqbkgzam10RmNwb2stX2o0N3BoOE9sZ3g4eENKQXxBQ3Jtc0trS2RMZDhKbW1nMjNFVTNtc0V6ZDRGMkFhdmlSckJ3c2hualRnNkhleHBIdnhaZFpMN0hUQXNVN3lBX0RrSm5aTkQwVTZFX2sxdnhKei1xQVpja181cnRUcVpLaV9Da2ZOT2cxVzVmNTFxZGZWTF9RQmJNbW9adTlwMERFVDlNWFpUcTIwVENfSG1oUHh6QWpoYU1XOWhuQUVSQlE%3D
+HTTP/2.0 204 No Content
+content-type: text/html; charset=UTF-8
+date: Sun, 15 Oct 2017 08:46:03 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+x-content-type-options: nosniff
+server: Video Stats Server
+content-length: 0
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+X-Firefox-Spdy: h2
+----------------------------------------------------------
+https://r7---sn-8pxuuxa-nbole.googlevideo.com/videoplayback?lmt=1507312237877115&signature=4A99BDC14932286F88D7E8E995C051658E49F039.51346C819314467344BFEEB79D6F7EC665EC1278&mime=video%2Fmp4&key=yt6&itag=135&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&ipbits=0&mm=31&dur=483.200&mt=1508057087&mv=m&ms=au&clen=17058878&source=youtube&mn=sn-8pxuuxa-nbole&id=o-AJKTL86ROwSHJIjLNtIu8U8DybxB8gpU-tBM_OOY1mDg&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Crequiressl%2Csource%2Cexpire&initcwndbps=666250&ip=27.78.182.196&ei=RSDjWcOdCtXnqAHM6ZGABA&pl=20&keepalive=yes&requiressl=yes&gir=yes&expire=1508078757&alr=yes&ratebypass=yes&cpn=Yf01F167bd-hPkRO&c=WEB&cver=2.20171011&range=767991-1902788&rn=23&rbuf=20213
+
+GET /videoplayback?lmt=1507312237877115&signature=4A99BDC14932286F88D7E8E995C051658E49F039.51346C819314467344BFEEB79D6F7EC665EC1278&mime=video%2Fmp4&key=yt6&itag=135&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&ipbits=0&mm=31&dur=483.200&mt=1508057087&mv=m&ms=au&clen=17058878&source=youtube&mn=sn-8pxuuxa-nbole&id=o-AJKTL86ROwSHJIjLNtIu8U8DybxB8gpU-tBM_OOY1mDg&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Crequiressl%2Csource%2Cexpire&initcwndbps=666250&ip=27.78.182.196&ei=RSDjWcOdCtXnqAHM6ZGABA&pl=20&keepalive=yes&requiressl=yes&gir=yes&expire=1508078757&alr=yes&ratebypass=yes&cpn=Yf01F167bd-hPkRO&c=WEB&cver=2.20171011&range=767991-1902788&rn=23&rbuf=20213 HTTP/1.1
+Host: r7---sn-8pxuuxa-nbole.googlevideo.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Origin: https://www.youtube.com
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Last-Modified: Fri, 06 Oct 2017 17:50:37 GMT
+Content-Type: video/mp4
+Date: Sun, 15 Oct 2017 08:46:03 GMT
+Expires: Sun, 15 Oct 2017 08:46:03 GMT
+Cache-Control: private, max-age=21294
+Accept-Ranges: bytes
+Content-Length: 1134798
+Connection: keep-alive
+Alt-Svc: quic=":443"; ma=2592000
+Access-Control-Allow-Origin: https://www.youtube.com
+Access-Control-Allow-Credentials: true
+Timing-Allow-Origin: https://www.youtube.com
+Access-Control-Expose-Headers: Client-Protocol, Content-Length, Content-Type, X-Bandwidth-Est, X-Bandwidth-Est2, X-Bandwidth-App-Limited, X-Bandwidth-Est-App-Limited, X-Bandwidth-Est-Comp, X-Bandwidth-Avg, X-Head-Time-Sec, X-Head-Seqnum, X-Response-Itag, X-Sequence-Num, X-Segment-Lmt, X-Walltime-Ms
+X-Content-Type-Options: nosniff
+Server: gvs 1.0
+----------------------------------------------------------
