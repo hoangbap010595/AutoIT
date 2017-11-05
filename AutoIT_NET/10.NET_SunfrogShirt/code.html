@@ -313,586 +313,432 @@
 	
 
 
-<div class="container">
+<script src="https://code.highcharts.com/highcharts.src.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
 
- 
+
+	<div class="bg-dark" style="margin-top:-20px; padding:20px;">
+		<div class="container">
+			<a href="?no_display" class="closethis pull-right"><i class="fa fa-times" aria-hidden="true"></i> Don't Show This</a>
+			<div class="clearfix"></div>
+			<div class="row">
+				<div class="col-sm-6">
+					<!-- 16:9 aspect ratio -->
+					<div class="embed-responsive embed-responsive-16by9">
+					  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0tkpCoEkioQ"></iframe>
+					</div>
+				</div>
+				<div class="col-sm-6">
+					<div class="panelcustom">
+						<p class="title-top"><a href="/Designer/">Create & Update Designs</a></p>
+						<p class="detail">Upload your artwork and put it on t-shirts, hoodies, cups, wall art, and more. Add variations to popular designs to expand your selling potential.</p>
+						
+						<p class="title-top"><a href="/Payments/My-Account-new.cfm">Provide Payment Info</a></p>
+						<p class="detail">You're in this for the money, right? We need to know where to send payments too! Direct Deposit, PayPal, Payoneer, etc. </p>
+						
+						<p class="title-top"><a href="/sellerReports/">Review Traffic & Sales</a></p>
+						<p class="detail">Check to see what designs are getting traffic and which are getting sales. A design with high traffic and low sales usually indicates a pricing issue, or a marketing campaign that isn't dialed in yet.</p>
+						
+						<p class="title-top"><a href="/Collections/">Generate Collections to Market</a></p>
+						<p class="detail">You don't have to be an artist. Build a collection of any available products on our site and market that collection to your social audiences, email lists, and marketing campagins.</p>
+					
+						<p class="title-top"><a href="/pixels/">Provide Pixel and Tracking Data</a></p>
+						<p class="detail">Nobody likes to waste money. By setting up various pixels you can see where your marketing efforts are giving you the best returns. </p>
+					
+						<p class="title-top"><a href="/My-Profile.cfm">Manage Your Social Profile</a></p>
+						<p class="detail">Whatever your passion, niche, or style, use your profile page to help potential buyers see the 'why' behind your designs/collections. Many buyers make purchasing decisions based on their connection to the seller or designer.</p>
+						
+					</div>
 	
-
-
-
-
-
-<a href="#" class="btn btn-danger btn-circle pull-right" data-toggle="modal" data-target="#videoModal" data-theVideo="//www.youtube.com/embed/k5McdJeM1Oc">
-	<i class="fa fa-play "></i>
-</a>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
 
 
 
 <style type="text/css">
-@media (min-width:768px) {
-.modal-dialog {width:800px;}	
-}
+.highcharts-container  > svg { padding-top:10px}
 </style>
 
-
-<div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true">
-	<div class="modal-dialog">
-		<div class="modal-content" style="">
-			<div class="modal-body">
-				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-				<div class="embed-responsive embed-responsive-4by3">
-					<iframe class="embed-responsive-item" src=""></iframe>
-				</div>
-			</div>
+<div class="container">
+	
+	<div class="row">
+		<div class="col-8 img-responsive">
+			<a href="/official-announcement.cfm"><img src="/images/official-match.png"></a>
 		</div>
 	</div>
-</div>
+	
+	<br />
+	
+	<div class="row">
+		<div class="col-sm-6 col-md-8">
+			<div class="cellsection" style="height:480px;">
+				<div class="table-responsive">
+					
+						<table class="table table-condensed dashtable">
+							<thead>
+								<tr>
+									<th>&nbsp;</th>
+									<th>&nbsp;</th>
+									<th>Profit</th>
+									<th>Order Count</th>
+									
+								</tr>
+							</thead>
+							<tbody>
+								<tr valign="bottom">
+									<th valign="bottom" style="vertical-align:bottom" scope="row">Last 7 Days</th>
+									<td valign="bottom">
+										<span class="callout1">&nbsp;</span>
+									</td>
+									<td valign="bottom">
+										<span class="callout1">
+											$0.00 
+										</span>
+									</td>
+									<td valign="bottom">
+										<span class="callout1">
+											0 
+										</span>
+									</td>
+								</tr>
+								<tr>
+									<th scope="row">Today</th>
+									<td>&nbsp;</td>
+									<td>
+										$0.00 
+									</td>
+									<td>
+										0 
+									</td>
+								</tr>
+								<tr>
+									<th scope="row">Yesterday</th>
+									<td>&nbsp;</td>
+									<td>
+										 
+											$0
+										
+									</td>
+									<td>
+										 
+											0
+										
+									</td>
+								</tr>
+								<tr>
+									<th scope="row">Last 30 Days</th>
+									<td>&nbsp;</td>
+									<td>
+										$0.00 
+									</td>
+									<td>
+										0 
+									</td>
+								</tr>
+								<tr>
+									<th scope="row">Last 90 Days</th>
+									<td>&nbsp;</td>
+									<td>
+										$0.00 
+									</td>
+									<td>
+										0 
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					
+					<div id="salesGraph"></div>
+				</div>
+			</div>
+		</div>
+		<div class="col-sm-6 col-md-4">
+			<div class="cellsection" style="height:480px; overflow-y:scroll; overflow-x:hidden;">
+				<span class="title_top">announcements &amp; Updates</span>
+				
+				<div class="row ann_cell">
+					<div class="col-xs-4">
+						<img src="/images/split-payout-icon.png"  class="thumbnail img-responsive" alt=""/>
+					</div>
+					<div class="col-xs-8">
+						<span class="ann_title">
+							Mass Payout Here
+						</span>
+						You now have the option to split your payouts into different accounts and by different amounts. Go to 'Current Payout' to try it.
+					</div>
+				</div>
+				<div class="row ann_cell">
+					<div class="col-xs-4">
+						<img src="/images/upgrades.png"  class="thumbnail img-responsive" alt=""/>
+					</div>
+					<div class="col-xs-8">
+						<span class="ann_title">
+							Collection Upgrades
+						</span>
+						We've made building collections easier! Now you can select product variations to be in your collections. There is also the ability to add a 2nd square thumbnail for marketing on your profile page!
+					</div>
+				</div>
+				<div class="row ann_cell">
+					<div class="col-xs-4">
+						<img src="/images/upsell-icon.png"  class="thumbnail img-responsive" alt=""/>
+					</div>
+					<div class="col-xs-8">
+						<span class="ann_title">
+							Coming Soon:
+						</span>
+						Upsell features. Soon you will be able to create multiple upsells for your customer's buying experience.
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>	
+	<div class="row">
+		<div class="col-sm-6 col-md-8">
+			<div class="cellsection statsbar" style="height:230px;">
+			<span class="title_top">stats at a glance <small>(past 7 days)</small></span>
+				<div class="row">
+					
+					
+						<div class="col-xs-6  col-xs-6 col-md-3 text-center">
+							<span class="stat_title">
+								Views
+							</span>
+							11 
+						</div>
+						<div class="col-xs-6  col-xs-6 col-md-3 text-center">
+							<span class="stat_title">
+								Sales
+							</span>
+							0 
+						</div>
+						<div class="col-xs-6  col-xs-6 col-md-3 text-center">
+							<span class="stat_title">
+								Converstions
+							</span>
+							 0.00 
+							%
+						</div>
+						<div class="col-xs-6  col-xs-6 col-md-3 text-center">
+							<span class="stat_title">
+								Profit
+							</span>
+							$0.00
+						</div>
+					
+					
+				</div>
+			</div>
+		</div>
+		
+		
+		
 
-
-<button type="button" class="btn btn-info btn-circle  pull-right"  data-toggle="collapse" data-target="#instructions" aria-expanded="false" aria-controls="instructions"><i class="fa fa-graduation-cap"></i></button>
-
-<a href="/sellerReports/" class="btn btn-warning btn-circle  pull-right"><i class="fa fa-bar-chart"></i></a>
-
-<div class="clearfix"></div>
-<br />
-<div id="instructions" class="collapse out">
-	<div class="explain">
-		<p><strong class="text-info">Editing Your Design</strong> Here you can select which variation is the primary design view, adjust pricing, change titles, descriptions, and keywords. You can also select the view style for the design, enable time limits for purchasing and configure your placement options. </p>		
+		<div class="col-sm-6 col-md-4">
+			<div class="cellsection statsbar" style="height:230px; overflow-x:hidden; overflow-y:scroll;">
+				<span class="title_top">your top products <small>(past 7 days)</small></span>
+				<table class="table table-condensed top-products">
+					
+						<tr>
+							<td>Not enough data to process.</td>
+						</tr>
+					
+				</table>
+			</div>
+		</div>
+		
 	</div>
+	
+	
+	
+	<div class="row">
+		<div class="col-sm-6 ">
+			<div class="cellsection"  style="height:425px;" >
+				<span class="title_top"><i class="fa fa-line-chart text-primary" aria-hidden="true"></i> trending customer searches</span>
+				<div class="row">
+					<div class="col-xs-6">
+						<h4 class="text-center">Today</h4>
+						<table class="table table-condensed table-striped">
+							
+								<tr>
+									<td></td>
+								</tr>
+							
+								<tr>
+									<td>yoga</td>
+								</tr>
+							
+								<tr>
+									<td>states</td>
+								</tr>
+							
+								<tr>
+									<td>christmas</td>
+								</tr>
+							
+								<tr>
+									<td>halloween</td>
+								</tr>
+							
+								<tr>
+									<td>simply southern</td>
+								</tr>
+							
+								<tr>
+									<td>horse</td>
+								</tr>
+							
+								<tr>
+									<td>dogs</td>
+								</tr>
+							
+								<tr>
+									<td>cycling</td>
+								</tr>
+							
+						</table>
+					</div>
+					<div class="col-xs-6">
+						<h4 class="text-center">Last 7 Days</h4>
+						<table class="table table-condensed table-striped">
+							
+								<tr>
+									<td></td>
+								</tr>
+							
+								<tr>
+									<td>halloween</td>
+								</tr>
+							
+								<tr>
+									<td>yoga</td>
+								</tr>
+							
+								<tr>
+									<td>christmas</td>
+								</tr>
+							
+								<tr>
+									<td>horse</td>
+								</tr>
+							
+								<tr>
+									<td>states</td>
+								</tr>
+							
+								<tr>
+									<td>simply southern</td>
+								</tr>
+							
+								<tr>
+									<td>motocross</td>
+								</tr>
+							
+								<tr>
+									<td>dogs</td>
+								</tr>
+							
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		
+		
+			
+	</div>  
 </div>
+	
 <div class="clearfix"></div>
 
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+	var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+	(function(){
+		var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+		s1.async=true;
+		s1.src='https://embed.tawk.to/570fb8a942666b050c7537f8/default';
+		s1.charset='UTF-8';
+		s1.setAttribute('crossorigin','*');
+		s0.parentNode.insertBefore(s1,s0);
+	})();
+</script>
+<!--End of Tawk.to Script-->
 
 
-<div id="artEditErrorMessage" class="col-xs-12 alert alert-dismissible fade in alert-danger" style="display: none;"></div>
 
 
-        
-	<form class="form" id="updateArtForm" action="" method="post" enctype="multipart/form-data">
-
-	
-
-		<input type="hidden" name="GroupID" value="144522196" />
-		
-	
-		
-		
-		<div class="form-control input-lg" style="height:auto">
+<script>
+	Highcharts.chart('salesGraph', {
+		chart: {
+			type: 'column',
+			// Edit chart spacing
+			spacingBottom: 2,
+			spacingTop: 2,
+			spacingLeft: 2,
+			spacingRight: 2,
+			height: 230
 			
 			
-				<a href="https://www.sunfrog.com/144522196-1160566727.html?47626" target="new">https://www.sunfrog.com/144522196-1160566727.html?47626</a>
-            
-           
-			<input type="hidden" name="existpagename" value="144522196-1160566727.html" />
-		</div>
-		
-		<div class="clearfix"></div>
-		<hr />
-
-		<div class="col-sm-4">
-		
-		
-					<img src='//images.sunfrogshirts.com/2017/11/05/m_47626-1509907990095-Gildan-Men-Green-_w91_-front.jpg' class="img-responsive thumbnail"  />
-				
-		
-			SKU: 1160566727
-			
-		</div>
-		
-
-		<div class="col-sm-8">
-		
-			
-			
-			
-				
-				<div class="panel panel-default">
-					<div class="panel-heading">
-					
-						
-						
-							<div id="addVariantModal" class="modal fade" tabindex="-1" role="dialog">
-								  <div class="modal-dialog">
-									<div class="modal-content">
-									  <div class="modal-header">
-										<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-										<h4 class="modal-title">Add Additional Styles and Colors</h4>
-									  </div>
-										<div class="modal-body">
-										
-											<div class="panel panel-default">
-												<div class="panel-body" style="min-height: 425px;">
-											
-													
-													
-													
-													
-													
-													
-													
-													
-													<style>
-														.shirt-color-panel {
-															padding-top: 14px;
-														}
-														
-														.shirt-color{
-															margin: 2px;
-															width: 40px;
-															height: 40px;
-															border: 1px solid #ccc;
-															display: inline-block;
-															transition: all 0.25s;
-															cursor: pointer;
-															border-radius: 50%;
-														}
-														
-														.shirt-color:hover,.shirt-color.selected{
-															border: 2px solid #429134;
-														}
-														
-														.shirt-color.selected:before{
-															content: "\f00c";
-															font-family: "FontAwesome";
-															font-size: 18px;
-															color: #fff;
-															position: absolute;
-															padding-top: 7px;
-															padding-left: 9px;
-														}
-														
-														.shirt-color.selected[color-name="White"]:before{
-															color: #000;
-														}
-														.add-color{
-															display: inline-block;
-															width: 40px;
-															height: 40px;
-															padding: 6px;
-															position: relative;
-															top: -16px;
-															border-radius: 50%;
-															margin-top: -5px;
-														}
-													</style>
-											
-													<ul id="styleColorList" class="list-group">
-													
-														
-														
-															<li id="typeId_8" class="list-group-item">
-																
-																<h4>Guys Tee</h4>
-																
-																<div class="style-colors">
-																	
-																	<span id="typeColorId_8">
-																	
-																		
-																					<div class="shirt-color style-color" style="background-color: #399548; color: #399548;" title="Green"></div>
-																				
-																					<div class="shirt-color style-color" style="background-color: #ffc322; color: #ffc322;" title="Yellow"></div>
-																				
-																	
-																	</span>
-																	
-																	
-																		<button type="button" id="addColor_8" onclick="sunfrogManager.artEdit.addVariant.getColor(8, sunfrogManager.artEdit.addVariant.showPop);" class="add-color btn btn-default btn-tiny"><span class="glyphicon glyphicon-plus"></span></button>
-																	
-																	
-																</div>
-																
-															</li>
-															
-														
-	
-													</ul>
-					
-												</div>
-												
-											</div>
-
-											
-												
-												<button type="button" class="btn btn-default btn-tiny" id="add-style" onClick="sunfrogManager.artEdit.addVariant.getTypeStyle(sunfrogManager.artEdit.addVariant.showPop);">Add style</button>
-											
-											
-										</div>
-										
-									  <div class="modal-footer">
-										<button type="button" class="btn btn-default pull-left" data-dismiss="modal">Close</button>
-										<span id="variantMessages" style="margin-right: 25px;"></span>
-										<button id="addTheVariant" type="button" class="btn btn-primary" onClick="sunfrogManager.artEdit.addVariant.updateProductNew(sunfrogManager.artEdit.addVariant.exportVariants);">Add</button>
-									  </div>
-									</div>
-								  </div>
-							</div>
-							
-							
-								<button id="addVariantForErr" type="button" class="btn btn-success btn-xs pull-right" data-toggle="modal" data-target="#addVariantModal">
-								  Add Variation
-								</button>
-                                
-							
-						
-                        
-						<h3 class="panel-title">Variations</h3>
-						<div class="clearfix"></div>
-					</div>
-		
-					<div class="panel-body">
-	
-						
-									
-									<div style="width:100px; margin-left:3px; position:relative;" class="pull-left thumbnail">
-										
-												<span class="label label-primary" style="position:absolute; top:-6px; left:18px;">PRIMARY</span>
-											
-										<a href="my-art-Edit.cfm?GroupID=144522196&mockupID=1160566727">
-											
-												<img src='//images.sunfrogshirts.com/2017/11/05/md_47626-1509907990095-Gildan-Men-Green-_w91_-front.jpg' class="img-responsive" style="max-height:65px;" />
-											
-										</a>
-										<center>
-											
-											<span class="label label-default">Guys Tee</span>
-                                            <br />
-											 
-										</center>
-									</div>
-										
-									
-									
-									<div style="width:100px; margin-left:3px; position:relative;" class="pull-left thumbnail">
-										
-										<a href="my-art-Edit.cfm?GroupID=144522196&mockupID=1160566775">
-											
-												<img src='//images.sunfrogshirts.com/2017/11/05/md_47626-1509907992147-Gildan-Men-Yellow-_w91_-front.jpg' class="img-responsive" style="max-height:65px;" />
-											
-										</a>
-										<center>
-											
-											<span class="label label-default">Guys Tee</span>
-                                            <br />
-											 
-										</center>
-									</div>
-										
-									
-							
-					</div>
-	
-					<div class="clearfix"></div>
-		
-				</div>
-		
-                <div class="clearfix"></div>
-       		</div>
-            <div class="clearfix"></div>
-       <hr />
-
-	   
-	   
-	   
-	   <div class="col-sm-7">
-	   
-	   		<div class="form-group">
-				<label>Title</label>
-				
-					<input id="title" name="title" type="text"  value="hoangtest11" class="form-control"  />
-				
-				
-			</div>
-			
-			<div class="form-group">
-				<label>Description (Sales Pitch)</label>
-				
-					<textarea id="Description" name="Description"  class="form-control" rows="4" >asdfasdf</textarea>	
-				
-			</div>
-			
-			<div class="form-group">
-			<label>Keyword Tags (Up to 3)</label>
-				
-				<textarea id="Keywords" name="Keywords" class="form-control"  rows="4">adfasdf asdf asd</textarea>
-				
-			</div>
-			
-	   </div>
-	   
-	   <div class="col-sm-5">
-	   
-	   		
-	
-				<style type="text/css">
-					.ui-slider-horizontal{ margin-top: 5px; }
-				</style>
-				
-				<label>Pricing</label><br />
-				
-				
-				
-				
-					
-					
-					<div class="row">
-						<div class="col-xs-4">
-							<div class="thumbnail pull-left" style="display:inline-block; width:105px;">
-								
-									<img src="/images/guys-tee-icon.jpg"   alt="Mens Tee" class="img-responsive" />
-									<div class="label label-default  center-block">Guys Tee</div>
-								
-							</div>
-						</div>
-						<div class="col-xs-8">
-							<div class="form-group" style="margin-bottom:5px;">
-								<label class="sr-only" for="exampleInputAmount">Price (in dollars)</label>
-								<div class="input-group">
-
-									<div class="input-group-addon">$</div>
-									
-										<input type="text" class="form-control" id="amount_8" 
-                                        onchange="calcProfit(8);" value="19.0000" name="amount_8" >
-									
-								</div>
-							</div>
-							<div class="form-group">
-
-								
-                                    	<div class="text-center"> 
-										<span class="label label-primary pull-right">29</span>
-                                        <span class="label label-success" id="profit_8"></span>
-										<span class="label label-primary pull-left">19</span>
-                                        </div>
-										<div class="clearfix" ></div>
-										<div id="slider-range-min-8"></div>
-									
-
-							</div>
-							
-						</div>
-					</div>
-					<div class="clearfix"></div>		
-
-				
-		</div>
-		
-		<div class="clearfix"></div>	
-		<hr />
-		
-		<h4>Options</h4>
-		
-		
-		
-				<div class="col-sm-6">
-					<div class="panel panel-default" style="min-height:350px;">
-						<div class="panel-heading">
-							<h4 class="panel-title">Time Limit</h4>
-						</div>
-						<div class="panel-body">
-							<div class="checkbox">
-								<label>
-									 <input  type="checkbox" name="LimitedTime" value="1"/> Enable Limited Time*
-								</label>
-                                
-                            <input type="hidden" name="waslimitedtime" value="0" /> 
-							</div>
-							<div class="checkbox">
-                                
-                                
-                                <label>
-									 <input  type="checkbox" name="ltoRelaunch" value="1"/> Auto Relaunch<br />
-                                     <small>**When complete, product will relaunch for the same duration of time.</small> 
-								</label>
-                            </div>
-							<div class="form-group">
-								<label>Start Date</label>
-								
-								<input class="form-control" id="dtStart" type="text" name="startDate" value="" />							
-							</div>
-							
-							<div class="form-group">
-								<label>End Date</label>
-								
-								<input class="form-control" id="dtEnd" type="text" name="endDate" value="" />
-							</div>		
-							
-							<small><strong class="text-danger">* Eastern Standard Time Only.</strong> yyyy/mm/dd 24H:mm<br />Date / Time at page refresh: 2017/11/05 13:53 EST
-							<br>
-							Uncheck <strong>'Enable Limited Time'</strong> OR extend the <strong>End Date</strong> to reactivate a retired design.
-							</small>
-
-								
-						</div>
-					</div>
-				</div>
-				
-			
-
-	   <div class="col-sm-6" style="min-height:350px;">
-			<div class="panel panel-default" >
-				<div class="panel-heading">
-					<h4 class="panel-title">Placement Options</h4>
-				</div>
-				<div class="panel-body">
-					<input  type="hidden" name="mockupID" value="1160566727"/> 
-						
-						<div class="checkbox">
-							<label>
-								<input  id="ExcludeFromSearch" type="checkbox" name="ExcludeFromSearch" value="1" /> Exclude from SunFrog site search results.<br /><small class="text-info">(Except when your AffiliateID is defined)</small>
-							</label>
-						</div>
-						
-						
-						<div class="checkbox ">
-							<label>
-								<input  id="DoNotAllowGoogle" type="checkbox" name="DoNotAllowGoogle" value="1"  /> Do not allow <strong>Google</strong> to index.
-							</label>
-						</div>
-						
-						<div class="checkbox">
-							<label>
-								<input  id="isBlackout" type="checkbox" name="isBlackout" value="2"/>Isolate this design. This change cannot be reversed.<br /><small class="text-info">(Removes design from search, categories, homepage, artist page, and turns off search engine indexing.)</small>
-							</label>
-						</div>
-					
-					
-					<input type="hidden" name="isBlackoutOriginal" value="0">
-				</div>
-			</div>
-			
-            
-            <div class="panel panel-default">
-				<div class="panel-heading">
-					<h4 class="panel-title">Campaign Tracking</h4>
-				</div>
-			<div class="panel-body">
-				
-        		<div class="row"> 
-                    <label class="col-sm-4 control-label">Facebook Pixel ID: </label>
-               <div class="col-sm-8">
-               		 
-                    <input type="text" class="form-control input-sm " 
-                    id="facebookPixel" name="facebookPixel" 
-                    value="" placeholder="FaceBook Pixel ID">
-                     
-               </div>
-				</div>
-                <div class="row"> 
-			        <label class="col-sm-4 control-label">Google Analytics ID: </label>
-               <div class="col-sm-8">
-              		 
-                    <input type="text" class="form-control input-sm " 
-                    id="googleAnalytics" name="googleAnalytics" 
-                    value="" placeholder="Google Analytics Pixel ID">
-                     
-               </div>   
-               </div>
-			  <div class="row"> 
-			        <label class="col-sm-4 control-label">Twitter Tracking ID: </label>
-               <div class="col-sm-8">
-              		 
-                    <input type="text" class="form-control input-sm " 
-                    id="twitterTracking" name="twitterTracking" 
-                    value="" placeholder="Twitter Tracking ID">
-                     
-               </div>   
-               </div>
-		
-        		<div class="row"> 
-			    <label class="col-sm-4 control-label">Pinterest Tracking ID: </label>
-               <div class="col-sm-8">
-              		 
-                    <input type="text" class="form-control input-sm " 
-                    id="pinterestTracking" name="pinterestTracking" 
-                    value="" placeholder="Pinterest Tracking ID">
-                     
-               </div>   
-               </div>
-        	</div>
-        </div>
-  
-		</div>
-		<div class="clearfix"></div>
-		<br />
-		<hr />
-		<br />
-		
-			<div class="col-sm-4">
-				<button type="submit" id="DeleteDesign" name="delete" class="btn btn-warning btn-lg btn-block" onclick="return confirm('Are you sure you want to delete this?')"><i class="fa fa-trash-o"></i> Delete Variation</button>
-			</div>
-			<div class="col-sm-4">
-				<button type="submit" id="DeleteALL" name="DeleteALL" class="btn btn-danger btn-lg btn-block" onclick="return confirm('Are you sure you want to delete this?')"><i class="fa fa-trash-o"></i> Delete All</button>
-			</div>
-		
-		
-		<div class="col-sm-4">
-			<button type="submit" name="submit"  class="btn btn-success btn-lg btn-block "><i class="fa fa-check"></i> Update</button>
-		</div>
-	
-
-	</form>
-
-</div>
-
-	
-
-		<script>
-			var discRate = .4000;
-			var artRate = .055;
-			
-					var discType_8 = 0.00; 
-					var maxRate_8 = 0.70; 
-					
-					$(function() {
-						$( "#slider-range-min-8" ).slider({
-							range: "min",
-							value: 19.0000,
-							min: 19,
-							max: 29,
-							step: .01,
-							slide: function( event, ui ) {
-								$( "#amount_8" ).val( ui.value );
-								calcProfit(8); 
-							}
-						});
-						$( "#amount_8" ).val( $( "#slider-range-min-8" ).slider( "value" ) );
-						$( "#amount_8" ).on("keyup", function(){ $( "#slider-range-min-8" ).slider( "value", $( "#amount_8" ).val() ); });
-					});
-				
-			
-			function calcProfit(i) {
-				var salePrice = $( "#amount_"+i ).val();
-				var discType =  eval('discType_'+i); 
-				var maxRate = eval('maxRate_'+i);
-				var profit = 0.00; 
-				if(discType > 0) {
-						profit = salePrice - discType - (salePrice * artRate);
-				} else {
-					if(maxRate < discRate) {
-						profit = (salePrice * maxRate); 
-					} else {
-						profit = (salePrice * discRate); 
-					}	
-				}
-				var artProfit = salePrice * artRate; 
-				$("#profit_"+i).html('Seller: $'+profit.toFixed(2) +' / Artist: $' + artProfit.toFixed(2)); 
+		},
+		title: {
+			text: ' '
+		},
+		subtitle: {
+			text: ' '
+		},
+		xAxis: {
+			categories: ["Nov 02","Nov 03","Nov 05"],
+			crosshair: true
+		},
+		yAxis: {
+			min: 0,
+			title: {
+				text: ' '
 			}
-			
-				calcProfit(8); 
-			 
-		</script>
+		},
+		tooltip: {
+			headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
+			pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
+				'<td style="padding:0"><b>{point.y:.1f}</b></td></tr>',
+			footerFormat: '</table>',
+			shared: true,
+			useHTML: true
+		},
+		plotOptions: {
+			column: {
+				pointPadding: 0.2,
+				borderWidth: 0
+			}
+		},
+		series: [{
+			name: 'Total Sales',
+			pointWidth: 90,
+			data: [0,0,0]
+		}],
+		
+		 responsive: {
+			rules: [{
+				condition: {
+					maxWidth: 500
+				},
+				chartOptions: {
+					series: {
+						pointWidth: 30
+					},
 	
-	<div id="popContent" style="display:none;"></div>
-	<script type="text/javascript">
-		var products = {"types":[{"colors":["White","Sports Grey","Dark Grey","Brown","Light Pink","Hot Pink","Red","Orange","Forest","Light Blue","Royal Blue","Navy Blue","Purple","Black","Maroon"],"price":19.0000,"id":8,"colorMatte":[{"texture":"","svgLayer1":"","id":1,"value":"#ffffff","name":"White"},{"texture":"imgs/sports-gray.jpg","svgLayer1":"","id":2,"value":"#ababab","name":"Sports Grey"},{"texture":"imgs/dark-gray.jpg","svgLayer1":"","id":3,"value":"#333333","name":"Dark Grey"},{"texture":"","svgLayer1":"","id":4,"value":"#68381a","name":"Brown"},{"texture":"","svgLayer1":"","id":5,"value":"#ffbbd3","name":"Light Pink"},{"texture":"","svgLayer1":"","id":6,"value":"#fb2360","name":"Hot Pink"},{"texture":"","svgLayer1":"","id":7,"value":"#c10d0f","name":"Red"},{"texture":"","svgLayer1":"","id":8,"value":"#ff3e04","name":"Orange"},{"texture":"","svgLayer1":"","id":9,"value":"#ffc322","name":"Yellow"},{"texture":"","svgLayer1":"","id":10,"value":"#399548","name":"Green"},{"texture":"","svgLayer1":"","id":11,"value":"#2d391c","name":"Forest"},{"texture":"","svgLayer1":"","id":12,"value":"#c3e2f1","name":"Light Blue"},{"texture":"","svgLayer1":"","id":13,"value":"#324e94","name":"Royal Blue"},{"texture":"","svgLayer1":"","id":14,"value":"#03031f","name":"Navy Blue"},{"texture":"","svgLayer1":"","id":15,"value":"#433161","name":"Purple"},{"texture":"","svgLayer1":"","id":16,"value":"#000000","name":"Black"},{"texture":"","svgLayer1":"","id":17,"value":"#470009","name":"Maroon"}],"name":"Guys Tee"},{"colors":["White","Sports Grey","Dark Grey","Brown","Light Pink","Hot Pink","Red","Orange","Yellow","Green","Forest","Light Blue","Royal Blue","Navy Blue","Purple","Black","Maroon"],"price":19.0,"id":34,"colorMatte":[{"texture":"","svgLayer1":"","id":1,"value":"#ffffff","name":"White"},{"texture":"imgs/sports-gray.jpg","svgLayer1":"","id":2,"value":"#ababab","name":"Sports Grey"},{"texture":"imgs/dark-gray.jpg","svgLayer1":"","id":3,"value":"#333333","name":"Dark Grey"},{"texture":"","svgLayer1":"","id":4,"value":"#68381a","name":"Brown"},{"texture":"","svgLayer1":"","id":5,"value":"#ffbbd3","name":"Light Pink"},{"texture":"","svgLayer1":"","id":6,"value":"#fb2360","name":"Hot Pink"},{"texture":"","svgLayer1":"","id":7,"value":"#c10d0f","name":"Red"},{"texture":"","svgLayer1":"","id":8,"value":"#ff3e04","name":"Orange"},{"texture":"","svgLayer1":"","id":9,"value":"#ffc322","name":"Yellow"},{"texture":"","svgLayer1":"","id":10,"value":"#399548","name":"Green"},{"texture":"","svgLayer1":"","id":11,"value":"#2d391c","name":"Forest"},{"texture":"","svgLayer1":"","id":12,"value":"#c3e2f1","name":"Light Blue"},{"texture":"","svgLayer1":"","id":13,"value":"#324e94","name":"Royal Blue"},{"texture":"","svgLayer1":"","id":14,"value":"#03031f","name":"Navy Blue"},{"texture":"","svgLayer1":"","id":15,"value":"#433161","name":"Purple"},{"texture":"","svgLayer1":"","id":16,"value":"#000000","name":"Black"},{"texture":"","svgLayer1":"","id":17,"value":"#470009","name":"Maroon"}],"name":"Ladies Tee"},{"colors":["White","Sports Grey","Dark Grey","Black","Navy Blue","Red","Royal Blue"],"price":19.0,"id":35,"colorMatte":[{"texture":"","svgLayer1":"","id":1,"value":"#ffffff","name":"White"},{"texture":"imgs/sports-gray.jpg","svgLayer1":"","id":2,"value":"#ababab","name":"Sports Grey"},{"texture":"imgs/dark-gray.jpg","svgLayer1":"","id":3,"value":"#333333","name":"Dark Grey"},{"texture":"","svgLayer1":"","id":4,"value":"#000000","name":"Black"},{"texture":"","svgLayer1":"","id":5,"value":"#03031f","name":"Navy Blue"},{"texture":"","svgLayer1":"","id":6,"value":"#c10d0f","name":"Red"},{"texture":"","svgLayer1":"","id":7,"value":"#324e94","name":"Royal Blue"}],"name":"Youth Tee"},{"colors":["White","Sports Grey","Maroon","Red","Royal Blue","Navy Blue","Charcoal","Forest","Green","Black"],"price":34.0,"id":19,"colorMatte":[{"texture":"","svgLayer1":"","id":1,"value":"#ffffff","name":"White"},{"texture":"imgs/sports-gray.jpg","svgLayer1":"","id":2,"value":"#ababab","name":"Sports Grey"},{"texture":"","svgLayer1":"","id":3,"value":"#470009","name":"Maroon"},{"texture":"","svgLayer1":"","id":4,"value":"#e70101","name":"Red"},{"texture":"","svgLayer1":"","id":5,"value":"#324e94","name":"Royal Blue"},{"texture":"","svgLayer1":"","id":6,"value":"#03031f","name":"Navy Blue"},{"texture":"","svgLayer1":"","id":7,"value":"#444244","name":"Charcoal"},{"texture":"","svgLayer1":"","id":8,"value":"#2d391c","name":"Forest"},{"texture":"","svgLayer1":"","id":9,"value":"#399548","name":"Green"},{"texture":"","svgLayer1":"","id":10,"value":"#000000","name":"Black"}],"name":"Hoodie"},{"colors":["White","Black","Forest","Navy Blue","Red","Royal Blue","Sports Grey"],"price":31.0,"id":27,"colorMatte":[{"texture":"","svgLayer1":"","id":1,"value":"#ffffff","name":"White"},{"texture":"","svgLayer1":"","id":2,"value":"#000000","name":"Black"},{"texture":"","svgLayer1":"","id":3,"value":"#2d391c","name":"Forest"},{"texture":"","svgLayer1":"","id":4,"value":"#03031f","name":"Navy Blue"},{"texture":"","svgLayer1":"","id":5,"value":"#c10d0f","name":"Red"},{"texture":"","svgLayer1":"","id":6,"value":"#324e94","name":"Royal Blue"},{"texture":"imgs/sports-gray.jpg","svgLayer1":"","id":7,"value":"#ababab","name":"Sports Grey"}],"name":"Sweat Shirt"},{"colors":["White","Black","Navy Blue","Red","Sports Grey"],"price":23.0,"id":50,"colorMatte":[{"texture":"","svgLayer1":"","id":1,"value":"#ffffff","name":"White"},{"texture":"","svgLayer1":"","id":2,"value":"#000000","name":"Black"},{"texture":"","svgLayer1":"","id":3,"value":"#03031f","name":"Navy Blue"},{"texture":"","svgLayer1":"","id":4,"value":"#c10d0f","name":"Red"},{"texture":"imgs/sports-gray.jpg","svgLayer1":"","id":5,"value":"#ababab","name":"Sports Grey"}],"name":"Guys V-Neck"},{"colors":["White","Black","Navy Blue","Red","Royal Blue","Dark Grey","Purple"],"price":23.0,"id":116,"colorMatte":[{"texture":"","svgLayer1":"","id":1,"value":"#ffffff","name":"White"},{"texture":"","svgLayer1":"","id":2,"value":"#000000","name":"Black"},{"texture":"","svgLayer1":"","id":3,"value":"#03031f","name":"Navy Blue"},{"texture":"","svgLayer1":"","id":4,"value":"#c10d0f","name":"Red"},{"texture":"","svgLayer1":"","id":5,"value":"#324e94","name":"Royal Blue"},{"texture":"imgs/dark-gray.jpg","svgLayer1":"","id":6,"value":"#333333","name":"Dark Grey"},{"texture":"","svgLayer1":"","id":7,"value":"#433161","name":"Purple"}],"name":"Ladies V-Neck"},{"colors":["White","Black","Navy Blue","Red","Royal Blue","Sports Grey"],"price":19.0,"id":118,"colorMatte":[{"texture":"","svgLayer1":"","id":1,"value":"#ffffff","name":"White"},{"texture":"","svgLayer1":"","id":2,"value":"#000000","name":"Black"},{"texture":"","svgLayer1":"","id":3,"value":"#03031f","name":"Navy Blue"},{"texture":"","svgLayer1":"","id":4,"value":"#c10d0f","name":"Red"},{"texture":"","svgLayer1":"","id":5,"value":"#324e94","name":"Royal Blue"},{"texture":"imgs/sports-gray.jpg","svgLayer1":"","id":6,"value":"#ababab","name":"Sports Grey"}],"name":"Unisex Tank Top"},{"colors":["White","Black","Navy Blue","Red","Dark Grey","Sports Grey"],"price":25.0,"id":119,"colorMatte":[{"texture":"","svgLayer1":"","id":1,"value":"#ffffff","name":"White"},{"texture":"","svgLayer1":"","id":2,"value":"#000000","name":"Black"},{"texture":"","svgLayer1":"","id":3,"value":"#03031f","name":"Navy Blue"},{"texture":"","svgLayer1":"","id":4,"value":"#c10d0f","name":"Red"},{"texture":"imgs/dark-gray.jpg","svgLayer1":"","id":5,"value":"#333333","name":"Dark Grey"},{"texture":"imgs/sports-gray.jpg","svgLayer1":"","id":6,"value":"#ababab","name":"Sports Grey"}],"name":"Unisex Long Sleeve"}],"IAgree":true,"isAddVariant":true,"IsAddVariantGroup":144522196,"styles":[{"id":34,"name":"Ladies Tee"},{"id":35,"name":"Youth Tee"},{"id":19,"name":"Hoodie"},{"id":27,"name":"Sweat Shirt"},{"id":50,"name":"Guys V-Neck"},{"id":116,"name":"Ladies V-Neck"},{"id":118,"name":"Unisex Tank Top"},{"id":119,"name":"Unisex Long Sleeve"}],"ArtOwnerID":47626};
-	</script>
-	
-	<script src="/js/av1.0.1.min.js"></script>
+					
+				}
+			}]
+		}
+	});
+</script>
 
 
-<div class="clearfix"></div>
-</div>
+
 </div>
 
 

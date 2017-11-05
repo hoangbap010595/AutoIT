@@ -3,16 +3,17 @@
  AutoIt Version: 3.3.15.0 (Beta)
  Author:         HoangLC3
 
-
 #ce ----------------------------------------------------------------------------
 
 #include <_HttpRequest.au3>
 #include <InetConstants.au3>
+#include <Array.au3>
 
 
 Local $username = 'lchoang1995@gmail.com'
 Local $password = 'Omega@111'
 Local $cookieFinal = ''
+Local $myIDAccount = ''
 Local $urlLogin = 'https://manager.sunfrogshirts.com/'
 Local $urlDashboard = 'https://manager.sunfrogshirts.com/index.cfm?dashboard'
 Local $urlUpload = 'https://manager.sunfrogshirts.com/Designer/php/upload-handler.cfm'
@@ -20,7 +21,7 @@ Local $urlEditDesign = 'https://manager.sunfrogshirts.com/my-art-edit.cfm?editNe
 
 Login($username,$password)
 Func Login($userName, $passWord)
-
+	$cookieFinal = ''
 	$data = _HttpRequest(1,$urlLogin)
 
 	$cookieFirst = _GetCookie(1,$data)
@@ -33,6 +34,12 @@ Func Login($userName, $passWord)
 ;~ 	MsgBox(0,0,$dataLogin)
 
 	$location = _GetLocationRedirect($dataLogin)
+;~ 	MsgBox(0,0,$location)
+
+	If $location = '' Then
+		MsgBox(0,0,'Dang nhap khong thanh cong')
+		Return $cookieFinal
+	EndIf
 
 	$resultFinal = _HttpRequest(1,$location,'',$cookieFirst,$urlLogin)
 ;~ 	MsgBox(0,0,$resultFinal)
@@ -40,7 +47,16 @@ Func Login($userName, $passWord)
 	$cookieFinal = _GetCookie($resultFinal)
 ;~ 	MsgBox(0,0,$cookieFinal)
 
-	UploadImageToSunFrog()
+
+	$resultFinal = _HttpRequest(2,$urlDashboard,'',$cookieFinal,$urlLogin)
+	_HttpRequest_Test($resultFinal,@ScriptDir&'/Code.html',Default,False)
+
+	$regID = '<strong style="font-size:1.5em; line-height:15px; padding-bottom:0px;" class="clearfix">(.*?)</strong>'
+	$myIDAccount = StringRegExp($resultFinal,$regID,3)[0]
+;~ 	_ArrayDisplay($myIDAccount)
+	MsgBox(0,0,$myIDAccount)
+
+;~ 	UploadImageToSunFrog()
 EndFunc
 
 
@@ -50,8 +66,6 @@ Func UploadImageToSunFrog()
 
 	$uploadResult= _HttpRequest(2,$urlUpload,$dataToSend,$cookieFinal)
 ;~ 	MsgBox(0,0,$uploadResult)
-
-;~ 	<img src='//images.sunfrogshirts.com/2017/11/05/md_47626-1509907990095-Gildan-Men-Green-_w91_-front.jpg' class="img-responsive" style="max-height:65px;" />
 
 	$viewResult = _HttpRequest(2,$urlEditDesign,'',$cookieFinal)
 ;~ 	_HttpRequest_Test($viewResult,@ScriptDir&'\Code.html',Default,False)
