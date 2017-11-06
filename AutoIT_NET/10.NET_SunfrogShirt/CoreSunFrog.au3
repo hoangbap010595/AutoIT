@@ -12,8 +12,8 @@
 
 Local $username = 'lchoang1995@gmail.com'
 Local $password = 'Omega@111'
-Local $cookieFinal = ''
-Local $myIDAccount = ''
+Global $cookieFinal = ''
+Global $myIDAccount = ''
 Local $urlLogin = 'https://manager.sunfrogshirts.com/'
 Local $urlDashboard = 'https://manager.sunfrogshirts.com/index.cfm?dashboard'
 Local $urlUpload = 'https://manager.sunfrogshirts.com/Designer/php/upload-handler.cfm'
@@ -49,12 +49,12 @@ Func Login($userName, $passWord)
 
 
 	$resultFinal = _HttpRequest(2,$urlDashboard,'',$cookieFinal,$urlLogin)
-	_HttpRequest_Test($resultFinal,@ScriptDir&'/Code.html',Default,False)
+;~ 	_HttpRequest_Test($resultFinal,@ScriptDir&'/Code.html',Default,False)
 
 	$regID = '<strong style="font-size:1.5em; line-height:15px; padding-bottom:0px;" class="clearfix">(.*?)</strong>'
 	$myIDAccount = StringRegExp($resultFinal,$regID,3)[0]
 ;~ 	_ArrayDisplay($myIDAccount)
-	MsgBox(0,0,$myIDAccount)
+;~ 	MsgBox(0,0,$myIDAccount)
 
 ;~ 	UploadImageToSunFrog()
 EndFunc
