@@ -13,7 +13,7 @@
 #include "CoreData.au3"
 
 Local $username = 'lchoang1995@gmail.com'
-Local $password = 'Omega@111'
+Local $password = 'Omega@1112'
 Global $cookieFinal = ''
 Global $myIDAccount = ''
 Local $urlLogin = 'https://manager.sunfrogshirts.com/'
@@ -22,9 +22,17 @@ Local $urlUpload = 'https://manager.sunfrogshirts.com/Designer/php/upload-handle
 Local $urlEditDesign = 'https://manager.sunfrogshirts.com/my-art-edit.cfm?editNewDesign'
 
 ;~ HttpSetProxy(2,"http://proxy.hcm.fpt.vn:80")
-_HttpRequest_SetProxy("http://proxy.hcm.fpt.vn:80")
+;~ _HttpRequest_SetProxy("http://proxy.hcm.fpt.vn:80")
 
-Login($username, $password)
+#Region =======TESS=======
+
+;~ $login = Login($username, $password)
+;~ If $login = Null Then
+;~ 	MsgBox(0, 0, 'Dang nhap khong thanh cong')
+;~ EndIf
+
+#EndRegion =======TESS=======
+
 Func Login($username, $password)
 	$cookieFinal = ''
 	$data = _HttpRequest(1, $urlLogin)
@@ -41,11 +49,6 @@ Func Login($username, $password)
 	$location = _GetLocationRedirect($dataLogin)
 ;~ 	MsgBox(0,0,$location)
 
-	If $location = '' Then
-		MsgBox(0, 0, 'Dang nhap khong thanh cong')
-		Return $cookieFinal
-	EndIf
-
 	$resultFinal = _HttpRequest(1, $location, '', $cookieFirst, $urlLogin)
 ;~ 	MsgBox(0,0,$resultFinal)
 
@@ -57,19 +60,24 @@ Func Login($username, $password)
 ;~ 	_HttpRequest_Test($resultFinal,@ScriptDir&'/Code.html',Default,False)
 
 	$regID = '<strong style="font-size:1.5em; line-height:15px; padding-bottom:0px;" class="clearfix">(.*?)</strong>'
-	$myIDAccount = StringRegExp($resultFinal, $regID, 3)[0]
+	$myIDAccount = StringRegExp($resultFinal, $regID, 3)
+;~ 	MsgBox(0, 0, $myIDAccount[0])
 ;~ 	_ArrayDisplay($myIDAccount)
 ;~ 	MsgBox(0,0,$myIDAccount)
-
-	Local $dataToSend[7]
-	$dataToSend[0] = 'F'
-	$dataToSend[1] = 'C:\Users\HoangLe\Desktop\Tool up SF\test.png'
-	$dataToSend[2] = 'Test Upload225'
-	$dataToSend[3] = 'Hobby'
-	$dataToSend[4] = 'Mo ta Upload'
-	$dataToSend[5] = 'OKI'
-	$dataToSend[6] = 'conga,hihi,choithet'
-	UploadImageToSunFrog($dataToSend)
+	If $myIDAccount = 1 Then
+		Return Null
+	EndIf
+;~ 	MsgBox(0, 0, $myIDAccount[0])
+	Return $myIDAccount[0]
+;~ 	Local $dataToSend[7]
+;~ 	$dataToSend[0] = 'F'
+;~ 	$dataToSend[1] = 'C:\Users\HoangLe\Desktop\Tool up SF\test.png'
+;~ 	$dataToSend[2] = 'Test Upload225'
+;~ 	$dataToSend[3] = 'Hobby'
+;~ 	$dataToSend[4] = 'Mo ta Upload'
+;~ 	$dataToSend[5] = 'OKI'
+;~ 	$dataToSend[6] = 'conga,hihi,choithet'
+;~ 	UploadImageToSunFrog($dataToSend)
 EndFunc   ;==>Login
 
 
@@ -89,10 +97,10 @@ Func UploadImageToSunFrog($dataToSend)
 		$imgBack = '<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" id=\"SvgjsSvg1006\" version=\"1.1\" width=\"2400\" height=\"3200\" viewBox=\"311.00000000008 100 387.99999999984004 517.33333333312\"><g id=\"SvgjsG1052\" transform=\"scale(0.08399999999996445 0.08399999999996445) translate(3761.9047619073062 1569.8412698418072)\"><image id=\"SvgjsImage1053\" xlink:href=\"__dataURI:0__\" width=\"' & $size[0] & '\" height=\"' & $size[1] & '\"></image></g><defs id=\"SvgjsDefs1007\"></defs></svg>'
 	EndIf
 
-	$title = $dataToSend[2];'text'
-	$category = String(getIDCatoryProduct($dataToSend[3]));82
-	$description = $dataToSend[4];'text'
-	$collection = $dataToSend[5];'text'
+	$title = $dataToSend[2] ;'text'
+	$category = String(getIDCatoryProduct($dataToSend[3])) ;82
+	$description = $dataToSend[4] ;'text'
+	$collection = $dataToSend[5] ;'text'
 	$keyword = convertStringToJson($dataToSend[6]) ;'mot,hai,ba'
 
 	$theme = ''

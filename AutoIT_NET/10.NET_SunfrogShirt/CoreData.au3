@@ -20,13 +20,12 @@ Global $arrCategoryShirt[21][3]
 Global $arrDataUpload[$maxRowUpload][8]
 
 
-;~ Local $arr = 'mot,hai,ba'
-;~ Local $strJon = ['{"id":8,"name":"Guys Tee","price":19,"colors":["Yellow"]', '{"id":12,"name":"Guys Tee","price":31,"colors":["Green"]']
-
 addCategoryGroup()
 addCategoryShirt()
 
-
+#Region =======TESS=======
+;~ Local $arr = 'mot,hai,ba'
+;~ Local $strJon = ['{"id":8,"name":"Guys Tee","price":19,"colors":["Yellow"]', '{"id":12,"name":"Guys Tee","price":31,"colors":["Green"]']
 ;~ _ArrayDisplay($arrCategoryProduct)
 ;~ _ArrayDisplay($arrCategoryShirt)
 
@@ -35,8 +34,13 @@ addCategoryShirt()
 
 ;~ MsgBox(0,0, convertArrayToJson($arr))
 
+;~ 	Local $a = getIDCatoryShirts("Guys Tee")
+;~ 	Local $b = $a[0]&','&$a[1]&','&$a[2]
+;~ 	MsgBox(0,0, convertStringToJson($b))
+#EndRegion =======TESS=======
+
 Func convertStringToJson($text)
-	$arrayRs = StringSplit($text, ',')
+	Local $arrayRs = StringSplit($text, ',')
 	_ArrayDelete($arrayRs, 0)
 	$data = Json_Encode($arrayRs)
 	Return $data
@@ -53,6 +57,20 @@ Func getIDCatoryProduct($name)
 	Next
 	Return $id
 EndFunc   ;==>getIDCatoryProduct
+
+Func getIDCatoryShirts($name)
+	Local $id[3]
+	For $i = 0 To 21 Step 1
+		$temp = $arrCategoryShirt[$i][1]
+		If $temp = String($name) Then
+			$id[0] = $arrCategoryShirt[$i][0]
+			$id[1] = $arrCategoryShirt[$i][1]
+			$id[2] = $arrCategoryShirt[$i][2]
+			Return $id
+		EndIf
+	Next
+	Return $id
+EndFunc   ;==>getIDCatoryShirts
 
 Func addCategoryGroup()
 	$arrCategoryProduct[0][0] = 52
@@ -168,3 +186,213 @@ Func addCategoryShirt()
 EndFunc   ;==>addCategoryShirt
 
 
+#Region =====Color=====
+Func getColorGuysAndLadies($listView)
+	Local $item[19]
+	$item[1] = GUICtrlCreateListViewItem("White", $listView)
+	$item[2] = GUICtrlCreateListViewItem("Sports Grey", $listView)
+	$item[3] = GUICtrlCreateListViewItem("Dark Grey", $listView)
+	$item[4] = GUICtrlCreateListViewItem("Brown", $listView)
+	$item[5] = GUICtrlCreateListViewItem("Light Pink", $listView)
+	$item[6] = GUICtrlCreateListViewItem("Hot Pink", $listView)
+	$item[7] = GUICtrlCreateListViewItem("Red", $listView)
+	$item[8] = GUICtrlCreateListViewItem("Orange", $listView)
+	$item[9] = GUICtrlCreateListViewItem("Yellow", $listView)
+	$item[10] = GUICtrlCreateListViewItem("Green", $listView)
+	$item[11] = GUICtrlCreateListViewItem("Forest", $listView)
+	$item[12] = GUICtrlCreateListViewItem("Light Blue", $listView)
+	$item[13] = GUICtrlCreateListViewItem("Royal Blue", $listView)
+	$item[14] = GUICtrlCreateListViewItem("Navy Blue", $listView)
+	$item[15] = GUICtrlCreateListViewItem("Purple", $listView)
+	$item[16] = GUICtrlCreateListViewItem("Black", $listView)
+	$item[17] = GUICtrlCreateListViewItem("Maroon", $listView)
+EndFunc   ;==>getColorGuysAndLadies
+
+Func getColorYouthTee($listView)
+	Local $item[9]
+	$item[1] = GUICtrlCreateListViewItem("White", $listView)
+	$item[2] = GUICtrlCreateListViewItem("Sports Grey", $listView)
+	$item[3] = GUICtrlCreateListViewItem("Dark Grey", $listView)
+	$item[4] = GUICtrlCreateListViewItem("Black", $listView)
+	$item[5] = GUICtrlCreateListViewItem("Navy Blue", $listView)
+	$item[6] = GUICtrlCreateListViewItem("Red", $listView)
+	$item[7] = GUICtrlCreateListViewItem("Royal Blue", $listView)
+EndFunc   ;==>getColorYouthTee
+
+Func getColorHoodie($listView)
+	Local $item[12]
+	$item[1] = GUICtrlCreateListViewItem("White", $listView)
+	$item[2] = GUICtrlCreateListViewItem("Sports Grey", $listView)
+	$item[3] = GUICtrlCreateListViewItem("Maroon", $listView)
+	$item[4] = GUICtrlCreateListViewItem("Red", $listView)
+	$item[5] = GUICtrlCreateListViewItem("Royal Blue", $listView)
+	$item[6] = GUICtrlCreateListViewItem("Navy Blue", $listView)
+	$item[7] = GUICtrlCreateListViewItem("Charcoal", $listView)
+	$item[8] = GUICtrlCreateListViewItem("Forest", $listView)
+	$item[9] = GUICtrlCreateListViewItem("Green", $listView)
+	$item[10] = GUICtrlCreateListViewItem("Black", $listView)
+EndFunc   ;==>getColorHoodie
+
+Func getColorSweatSirt($listView)
+	Local $item[9]
+	$item[1] = GUICtrlCreateListViewItem("White", $listView)
+	$item[2] = GUICtrlCreateListViewItem("Black", $listView)
+	$item[3] = GUICtrlCreateListViewItem("Forest", $listView)
+	$item[4] = GUICtrlCreateListViewItem("Navy Blue", $listView)
+	$item[5] = GUICtrlCreateListViewItem("Red", $listView)
+	$item[6] = GUICtrlCreateListViewItem("Royal Blue", $listView)
+	$item[7] = GUICtrlCreateListViewItem("Sports Grey", $listView)
+EndFunc   ;==>getColorSweatSirt
+
+Func getColorGuysVNeck($listView)
+	Local $item[7]
+	$item[1] = GUICtrlCreateListViewItem("White", $listView)
+	$item[2] = GUICtrlCreateListViewItem("Black", $listView)
+	$item[3] = GUICtrlCreateListViewItem("Navy Blue", $listView)
+	$item[4] = GUICtrlCreateListViewItem("Red", $listView)
+	$item[5] = GUICtrlCreateListViewItem("Sports Grey", $listView)
+EndFunc   ;==>getColorGuysVNeck
+
+Func getColorLadiesVNeck($listView)
+	Local $item[9]
+	$item[1] = GUICtrlCreateListViewItem("White", $listView)
+	$item[2] = GUICtrlCreateListViewItem("Black", $listView)
+	$item[3] = GUICtrlCreateListViewItem("Navy Blue", $listView)
+	$item[4] = GUICtrlCreateListViewItem("Red", $listView)
+	$item[5] = GUICtrlCreateListViewItem("Royal Blue", $listView)
+	$item[6] = GUICtrlCreateListViewItem("Dark Grey", $listView)
+	$item[7] = GUICtrlCreateListViewItem("Purple", $listView)
+EndFunc   ;==>getColorLadiesVNeck
+
+Func getColorUnisex($listView)
+	Local $item[8]
+	$item[1] = GUICtrlCreateListViewItem("White", $listView)
+	$item[2] = GUICtrlCreateListViewItem("Black", $listView)
+	$item[3] = GUICtrlCreateListViewItem("Navy Blue", $listView)
+	$item[4] = GUICtrlCreateListViewItem("Red", $listView)
+	$item[5] = GUICtrlCreateListViewItem("Royal Blue", $listView)
+	$item[6] = GUICtrlCreateListViewItem("Sports Grey", $listView)
+EndFunc   ;==>getColorUnisex
+
+Func getColorHat($listView)
+	Local $item[7]
+	$item[1] = GUICtrlCreateListViewItem("Black", $listView)
+	$item[2] = GUICtrlCreateListViewItem("Green", $listView)
+	$item[3] = GUICtrlCreateListViewItem("Navy Blue", $listView)
+	$item[4] = GUICtrlCreateListViewItem("Red", $listView)
+	$item[5] = GUICtrlCreateListViewItem("Royal Blue", $listView)
+EndFunc   ;==>getColorHat
+
+Func getColorTruckerCap($listView)
+	Local $item[6]
+	$item[1] = GUICtrlCreateListViewItem("White", $listView)
+	$item[2] = GUICtrlCreateListViewItem("Black", $listView)
+	$item[3] = GUICtrlCreateListViewItem("Navy Blue", $listView)
+	$item[4] = GUICtrlCreateListViewItem("Dark Grey", $listView)
+EndFunc   ;==>getColorTruckerCap
+
+Func getColorWhite($listView)
+	Local $item[2]
+	$item[1] = GUICtrlCreateListViewItem("White", $listView)
+EndFunc   ;==>getColorWhite
+
+Func getColorBlack($listView)
+	Local $item[6]
+	$item[1] = GUICtrlCreateListViewItem("Black", $listView)
+EndFunc   ;==>getColorBlack
+#EndRegion =====Color=====
+
+#Region ===Category===
+Func getCategoryThemes($combobox)
+	GUICtrlSetData($combobox, "Guys Tee", "Guys Tee")
+	GUICtrlSetData($combobox, "Ladies Tee")
+	GUICtrlSetData($combobox, "Youth Tee")
+	GUICtrlSetData($combobox, "Hoodie")
+	GUICtrlSetData($combobox, "Sweat Shirt")
+	GUICtrlSetData($combobox, "Guys V-Neck")
+	GUICtrlSetData($combobox, "Ladies V-Neck")
+	GUICtrlSetData($combobox, "Unisex Tank Top")
+	GUICtrlSetData($combobox, "Unisex Long Sleeve")
+	GUICtrlSetData($combobox, "Leggings")
+	GUICtrlSetData($combobox, "Coffee Mug (colored)")
+	GUICtrlSetData($combobox, "Coffee Mug (white)")
+	GUICtrlSetData($combobox, "Coffee Mug (color change)")
+	GUICtrlSetData($combobox, "Posters 16x24")
+	GUICtrlSetData($combobox, "Posters 24x16")
+	GUICtrlSetData($combobox, "Posters 11x17")
+	GUICtrlSetData($combobox, "Posters 17x11")
+	GUICtrlSetData($combobox, "Canvas 16x20")
+	GUICtrlSetData($combobox, "Hat")
+	GUICtrlSetData($combobox, "Trucker Cap")
+EndFunc   ;==>getCategoryThemes
+
+Func getCategoryProduct($combobox)
+	GUICtrlSetData($combobox, "Automotive", "Automotive")
+	GUICtrlSetData($combobox, "Birth Years")
+	GUICtrlSetData($combobox, "Drinking")
+	GUICtrlSetData($combobox, "Faith")
+	GUICtrlSetData($combobox, "Fitness")
+	GUICtrlSetData($combobox, "Funny")
+	GUICtrlSetData($combobox, "Gamer")
+	GUICtrlSetData($combobox, "Geek-Tech")
+	GUICtrlSetData($combobox, "Hobby")
+	GUICtrlSetData($combobox, "Holidays")
+	GUICtrlSetData($combobox, "Jobs")
+	GUICtrlSetData($combobox, "LifeStyle")
+	GUICtrlSetData($combobox, "Movies")
+	GUICtrlSetData($combobox, "Music")
+	GUICtrlSetData($combobox, "Names")
+	GUICtrlSetData($combobox, "Outdoor")
+	GUICtrlSetData($combobox, "Pets")
+	GUICtrlSetData($combobox, "Political")
+	GUICtrlSetData($combobox, "Sports")
+	GUICtrlSetData($combobox, "States")
+	GUICtrlSetData($combobox, "TV Shows")
+	GUICtrlSetData($combobox, "Zombies")
+EndFunc   ;==>getCategoryProduct
+
+Func loadColorFromCategory($category, $listView)
+	Switch $category
+		Case 'Guys Tee'
+			getColorGuysAndLadies($listView)
+		Case 'Ladies Tee'
+			getColorGuysAndLadies($listView)
+		Case 'Youth Tee'
+			getColorYouthTee($listView)
+		Case 'Hoodie'
+			getColorHoodie($listView)
+		Case 'Sweat Shirt'
+			getColorSweatSirt($listView)
+		Case 'Guys V-Neck'
+			getColorGuysVNeck($listView)
+		Case 'Ladies V-Neck'
+			getColorLadiesVNeck($listView)
+		Case 'Unisex Tank Top'
+			getColorUnisex($listView)
+		Case 'Unisex Long Sleeve'
+			getColorUnisex($listView)
+		Case 'Leggings'
+			getColorBlack($listView)
+		Case 'Coffee Mug (colored)'
+			getColorBlack($listView)
+		Case 'Coffee Mug (white)'
+			getColorWhite($listView)
+		Case 'Coffee Mug (color change)'
+			getColorWhite($listView)
+		Case 'Posters 16x24'
+			getColorWhite($listView)
+		Case 'Posters 24x16'
+			getColorWhite($listView)
+		Case 'Posters 11x17'
+			getColorWhite($listView)
+		Case 'Posters 17x11'
+			getColorWhite($listView)
+		Case 'Canvas 16x20'
+			getColorWhite($listView)
+		Case 'Hat'
+			getColorHat($listView)
+		Case 'Trucker Cap'
+			getColorTruckerCap($listView)
+	EndSwitch
+EndFunc   ;==>loadColorFromCategory
+#EndRegion ===Category===
