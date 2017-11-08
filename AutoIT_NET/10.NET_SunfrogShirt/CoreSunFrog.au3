@@ -64,7 +64,7 @@ Func Login($username, $password)
 	Local $dataToSend[7]
 	$dataToSend[0] = 'F'
 	$dataToSend[1] = 'C:\Users\HoangLe\Desktop\Tool up SF\test.png'
-	$dataToSend[2] = 'Test Upload'
+	$dataToSend[2] = 'Test Upload225'
 	$dataToSend[3] = 'Hobby'
 	$dataToSend[4] = 'Mo ta Upload'
 	$dataToSend[5] = 'OKI'
@@ -114,22 +114,22 @@ Func UploadImageToSunFrog($dataToSend)
 	$dataToSend2 &= '}'
 
 	witeContentFile($dataToSend2, 'data.txt')
-;~ 	$uploadResult = _HttpRequest(2, $urlUpload, $dataToSend2, $cookieFinal)
+	$uploadResult = _HttpRequest(2, $urlUpload, $dataToSend2, $cookieFinal)
 ;~ 	MsgBox(0, 0, $uploadResult)
-;~ 	witeContentFile($uploadResult, 'result.txt')
+	witeContentFile($uploadResult, 'result.txt')
 
 
-;~ 	$lsImageFront2 = StringRegExp($uploadResult, '"imageFront":"(.*?)","imageBack"', 3)
-;~ 	$lsImageBack2 = StringRegExp($uploadResult, '"imageBack":"(.*?)","color"', 3)
+	$lsImageFront2 = StringRegExp($uploadResult, '"imageFront":"(.*?)","imageBack"', 3)
+	$lsImageBack2 = StringRegExp($uploadResult, '"imageBack":"(.*?)","color"', 3)
 
-;~ 	For $item In $lsImageFront2
-;~ 		$url = 'http:' & $item
-;~ 		DownLoadImageFromUrl($url)
-;~ 	Next
-;~ 	For $item In $lsImageBack2
-;~ 		$url = 'http:' & $item
-;~ 		DownLoadImageFromUrl($url)
-;~ 	Next
+	For $item In $lsImageFront2
+		$url = 'http:' & $item
+		DownLoadImageFromUrl($url)
+	Next
+	For $item In $lsImageBack2
+		$url = 'http:' & $item
+		DownLoadImageFromUrl($url)
+	Next
 EndFunc   ;==>UploadImageToSunFrog
 
 Func DownLoadImageFromUrl($url)
