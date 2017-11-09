@@ -22,7 +22,7 @@ Local $urlUpload = 'https://manager.sunfrogshirts.com/Designer/php/upload-handle
 Local $urlEditDesign = 'https://manager.sunfrogshirts.com/my-art-edit.cfm?editNewDesign'
 
 ;~ HttpSetProxy(2,"http://proxy.hcm.fpt.vn:80")
-;~ _HttpRequest_SetProxy("http://proxy.hcm.fpt.vn:80")
+_HttpRequest_SetProxy("http://proxy.hcm.fpt.vn:80")
 
 #Region =======TESS=======
 
@@ -55,7 +55,6 @@ Func Login($username, $password)
 	$cookieFinal = _GetCookie($resultFinal)
 ;~ 	MsgBox(0,0,$cookieFinal)
 
-
 	$resultFinal = _HttpRequest(2, $urlDashboard, '', $cookieFinal, $urlLogin)
 ;~ 	_HttpRequest_Test($resultFinal,@ScriptDir&'/Code.html',Default,False)
 
@@ -65,19 +64,10 @@ Func Login($username, $password)
 ;~ 	_ArrayDisplay($myIDAccount)
 ;~ 	MsgBox(0,0,$myIDAccount)
 	If $myIDAccount = 1 Then
-		Return Null
+		Return 1
 	EndIf
 ;~ 	MsgBox(0, 0, $myIDAccount[0])
 	Return $myIDAccount[0]
-;~ 	Local $dataToSend[7]
-;~ 	$dataToSend[0] = 'F'
-;~ 	$dataToSend[1] = 'C:\Users\HoangLe\Desktop\Tool up SF\test.png'
-;~ 	$dataToSend[2] = 'Test Upload225'
-;~ 	$dataToSend[3] = 'Hobby'
-;~ 	$dataToSend[4] = 'Mo ta Upload'
-;~ 	$dataToSend[5] = 'OKI'
-;~ 	$dataToSend[6] = 'conga,hihi,choithet'
-;~ 	UploadImageToSunFrog($dataToSend)
 EndFunc   ;==>Login
 
 
@@ -103,10 +93,7 @@ Func UploadImageToSunFrog($dataToSend)
 	$collection = $dataToSend[5] ;'text'
 	$keyword = convertStringToJson($dataToSend[6]) ;'mot,hai,ba'
 
-	$theme = ''
-	$theme &= '{"id":8,"name":"Guys Tee","price":19,"colors":["Yellow"]}'
-	$theme &= ',{"id":19,"name":"Hoodie","price":34,"colors":["White","Royal Blue","Green"]}'
-	$theme &= ',{"id":27,"name":"Sweat Shirt","price":31,"colors":["White","Forest","Navy Blue"]}'
+	$theme = $dataToSend[7] ;json
 
 	$dataToSend2 = '{'
 	$dataToSend2 &= '"ArtOwnerID":0,"IAgree":true'
@@ -117,7 +104,7 @@ Func UploadImageToSunFrog($dataToSend)
 	$dataToSend2 &= ',"Keywords": ' & $keyword & ''
 	$dataToSend2 &= ',"imageFront":"' & $imgFront & '"'
 	$dataToSend2 &= ',"imageBack":"' & $imgBack & '"'
-	$dataToSend2 &= ',"types":[' & $theme & ']'
+	$dataToSend2 &= ',"types":' & $theme & ''
 	$dataToSend2 &= ',"images":[{"id":"__dataURI:0__","uri":"data:image/png;base64,' & $base64 & '"}]'
 	$dataToSend2 &= '}'
 
@@ -130,6 +117,8 @@ Func UploadImageToSunFrog($dataToSend)
 	$lsImageFront2 = StringRegExp($uploadResult, '"imageFront":"(.*?)","imageBack"', 3)
 	$lsImageBack2 = StringRegExp($uploadResult, '"imageBack":"(.*?)","color"', 3)
 
+	$result =  StringRegExp($uploadResult,'"description":"(.*?)","products"',1)
+
 	For $item In $lsImageFront2
 		$url = 'http:' & $item
 		DownLoadImageFromUrl($url)
@@ -138,6 +127,7 @@ Func UploadImageToSunFrog($dataToSend)
 		$url = 'http:' & $item
 		DownLoadImageFromUrl($url)
 	Next
+	Return $result
 EndFunc   ;==>UploadImageToSunFrog
 
 Func DownLoadImageFromUrl($url)

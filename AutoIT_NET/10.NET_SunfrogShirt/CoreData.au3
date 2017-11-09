@@ -43,6 +43,7 @@ Func convertStringToJson($text)
 	Local $arrayRs = StringSplit($text, ',')
 	_ArrayDelete($arrayRs, 0)
 	$data = Json_Encode($arrayRs)
+	$data = StringRegExpReplace($data,',""', '')
 	Return $data
 EndFunc   ;==>convertStringToJson
 
@@ -50,7 +51,8 @@ Func getIDCatoryProduct($name)
 	$id = -1
 	For $i = 0 To 22 Step 1
 		$temp = $arrCategoryProduct[$i][1]
-		If $temp = String($name) Then
+		Local $iPosition = StringInStr($temp,String($name))
+		If $iPosition > 0 Then
 			$id = $arrCategoryProduct[$i][0]
 			Return $id
 		EndIf
@@ -62,7 +64,8 @@ Func getIDCatoryShirts($name)
 	Local $id[3]
 	For $i = 0 To 21 Step 1
 		$temp = $arrCategoryShirt[$i][1]
-		If $temp = String($name) Then
+		Local $iPosition = StringInStr($temp,String($name))
+		If $iPosition > 0 Then
 			$id[0] = $arrCategoryShirt[$i][0]
 			$id[1] = $arrCategoryShirt[$i][1]
 			$id[2] = $arrCategoryShirt[$i][2]
